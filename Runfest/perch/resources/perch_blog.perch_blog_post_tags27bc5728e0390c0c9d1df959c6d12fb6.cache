@@ -1,0 +1,12 @@
+
+<h3>Tags</h3>
+<ul>
+
+    <li><a href="archive.php?tag=humpys" rel="tag">Humpy's</a></li>
+
+    <li><a href="archive.php?tag=mooses-tooth" rel="tag">Moose's Tooth</a></li>
+
+    <li><a href="archive.php?tag=anchorage-runfest" rel="tag">Anchorage RunFest</a></li>
+
+    <li><a href="archive.php?tag=bear-tooth-theatrepub" rel="tag">Bear Tooth Theatrepub</a></li>
+</ul>

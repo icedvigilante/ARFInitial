@@ -1,0 +1,125 @@
+
+
+h2 {
+	font-size: 1.2em;
+	margin-bottom: none;
+}
+
+
+
+h3 {
+	font-size: 1em;
+	font-weight: lighter;
+	line-height: normal;
+	color: #000;
+}
+
+a {
+	color: #ed1b24;
+	text-decoration: none;
+}
+
+a:hover,
+a:focus,
+a:active {
+	color: #000;
+}
+
+#mainwrap-wrap {margin: 0;} /* fixes placement for shadow */
+	
+
+#leftcolumn ul li {
+	padding-top: 3px;
+	list-style-position: inside;
+	list-style-image: url(../images/hooflister.png);
+	padding-bottom: 3px;
+	font-size: 1em;
+}
+
+#leftcolumn ul li a {
+	color: #ed1b24;
+	text-decoration: none;
+	font-size: 1em;
+}
+
+#leftcolumn ul li a:hover {
+	color: #000;
+	text-decoration: none;
+	font-size: 1em;
+}
+
+
+#sidelinks {
+	color: #999;
+}
+
+
+#sidelinks {
+	width: 190px;
+	padding-left: 30px;
+}
+
+#sidelinks ul {
+	padding-left: 20px;
+}
+
+#sidelinks ul li  {
+	list-style-position: outside;
+	list-style-image: none;
+	font-size: .875em;
+}
+
+#sidelinks ul li a  {
+	list-style-position: outside;
+	list-style-image: none;
+	font-size: .9em;
+}
+
+.cats a {
+	font-size: .8em;
+}
+
+.tags a {
+	font-size: .8em;
+}
+
+.social-links a  {
+	font-size: .8em;
+}
+
+#sidelinks p.small {
+	font-size: .6em;
+}
+
+img {
+	max-width: 100%;
+}
+
+
+
+/* all styles above this line were added by Kim
+---------------------------------------------------  */
+
+.date {
+	padding: 0;
+	color: #999;
+	margin-top: -1em;
+}
+
+.comments {
+	border-bottom: 1px dotted #DEE0E0;
+}
+
+
+
+@media only screen and (min-width: 700px) {
+
+	.author:after {
+		visibility: hidden;
+		display: block;
+		content: "";
+		clear: both;
+		height: 0;
+	}
+
+}

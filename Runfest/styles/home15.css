@@ -1,0 +1,468 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+/* even though #mainwrap-wrap is not used, the margins set in arf-main.css still affect these styles so do not attribute display:none to this style*/
+
+#join-constant-contact {display: none;}
+
+#full-width {  }
+
+#header-wrap {
+	background: rgba(255, 255, 255, .30);   /* 30% opaque white*/ 
+	background: rgba(255, 255, 255, .75);   /* 75% opaque white*/ 
+	background: rgba(255, 255, 255, 1.0);   /* 100% opaque white*/
+	height: 10em;
+	background-color: #FFF; 
+}
+
+
+body.splash {
+	background-attachment: fixed;
+	background-image: url(../../../../Downloads/Runfest/images/home-page/2019-homepage-half-marathon1a.jpg);
+	background-repeat: no-repeat;
+	background-position: center 0px;	
+}
+
+#opening-wrap {height: 1200px; }/* canvas height of background photo should be reduced in height to this to minimize size */
+
+
+#opening {
+	z-index: 150;
+	position: absolute;
+	top: 150px;
+	top: 50px;
+	left: 30%;
+	width: 40%;
+	padding: 15em 0;
+}
+
+#opening .home-big-logo-wrap img {width: 100%; float: left;} 
+
+#opening .home-arrow {width: 50px;z-index: 150;margin: 0 auto;clear: both; padding-top: 150px;padding-top: 650px;}
+
+/*-------------------------------------------------------------------------------------*/
+
+#races-wrap {
+	z-index: 900;
+	width: 100%;
+	background-color: #FFF;/* fallback color */
+	background: rgba(255, 255, 255, .90);   /* 90% opaque white*/ 
+}
+
+#races {width: 60em; margin: 0 auto;padding-top: 2em;}
+
+/*.update {padding: 0 3%;}*/
+
+.race-block {width: 28.33%;padding: 3em 2.5%;height: 25em;float: left;margin-bottom: 2em;}
+
+.race-photo {width: 90%;margin: 0 auto;}
+
+
+
+.race-photo a:active img,
+.race-photo a:hover img,
+.race-photo a:focus img  {
+	border-style: none !important;
+	border-width: 0px !important;
+	opacity: 0.5;
+	
+}
+
+.race-photo a img {
+	opacity: 1;
+	border-style: none !important;
+	border-width: 0px !important;
+	-ms-filter: "progid:DXImageTransform.Microsoft. »
+		Alpha(Opacity=100)";  /*IE 8 hack */
+	filter: alpha(opacity = 100); /* IE 5-7 hack */
+	-webkit-transition: opacity 0.4s ease-in-out;
+	-moz-transition: opacity 0.4s ease-in-out;
+	-o-transition: opacity 0.4s ease-in-out;
+	transition: opacity 0.4s ease-in-out;
+	
+}
+
+.race-description {width: 90%;margin: 0 auto;line-height: .75em;color: #333;}
+
+.race-description h2 a {font-size: 1em;}
+
+.race-description p {font-size: .9em;}
+
+/*-------------------------------------------------------------------------------------*/
+
+#bottom-wrap {width: 100%;background-color: #FFF;padding: 3em 0 5em 0;}
+
+#bottom {width: 60em; margin: 0 auto;}
+
+#news {width: 38em; float: left; padding-right: 2em;}
+
+#news h2 {margin-bottom: 2em;}
+
+.date {font-size:.8em; margin-bottom: -2em; }
+
+.news-item {width: 90%;border-bottom: 1px solid #CCC;padding: 1em 10% 2em 0; height: 10em;}
+
+.news-item:last-of-type {border-bottom: none;}
+
+.news-item img {width: 30%; padding: 1em 5% 1em 0;}
+
+.news-item p {float: left;}
+
+
+
+#arf-centric {width: 17.9em;float: right; border-left: 1px solid #CCC;}
+
+#countdown-wrap {
+	height: 7em;
+	width: 200px;
+	margin: 3em auto 0 auto;	
+}
+
+#intro-countdown {
+	width: 200px;
+	font-size: 1.5em;
+	text-align: center;
+	padding-bottom: 0.5em;
+	margin: 0 auto;
+}
+
+
+#countdown {
+	float: left;
+	width: 200px;
+	height: 30px;
+	opacity: .40;
+	-ms-filter: "progid:DXImageTransform.Microsoft. »
+		Alpha(Opacity=40)";  /*IE 8 hack */
+	filter: alpha(opacity = 40); /* IE 5-7 hack */
+}
+
+#countdown-units {
+	width: 200px;
+	margin-top: .5em;
+	float: left;	
+}
+
+#sunrise-sunset-wrap {
+	width: 180px;
+	height: 4em;
+	background-image: url(../../../../Downloads/Runfest/images/sun50.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	padding-top: 30px;
+	margin: 3em auto 0 auto;
+}
+
+
+#sunrise-sunset {
+	height: 4em;
+	text-align: center;
+}
+
+#sunrise-sunset a {
+	color: #999; }
+
+#sunrise-sunset a:active,
+#sunrise-sunset a:hover,
+#sunrise-sunset a:focus {color: #999;}
+
+
+#runningtoalaska {
+	font-size: .8em;
+	width: 90%;
+	margin: 4em auto;
+}
+
+#running-title {
+	font-size: 1.25em;
+	color: #666;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: -.5em;
+}
+
+
+#running-text {
+	float: left;
+	padding: 0 0 0 0em;
+	text-align: center;
+}
+
+/*-------------------------------------------------------------------------------------*/
+
+#newsletter-wrap {
+	background-color: #ed1b24;
+	background-color: #4D7B20;
+	width: 100%;
+}
+
+#newsletter {width: 60em;margin: 0 auto; color: #FFF;padding: 1em 0em; font-size: 1em;text-align: center;
+}
+
+#newsletter a {color:#FFF;}
+
+#newsletter a:active,#newsletter a:hover, #newsletter a:focus {color: #000; text-decoration: none;}
+
+#newsletter a img {
+	opacity: 1.0;
+	-ms-filter: "progid:DXImageTransform.Microsoft. »
+		Alpha(Opacity=100)";  /*IE 8 hack */
+	filter: alpha(opacity = 1.0); /* IE 5-7 hack */
+	-webkit-transition: opacity 0.3s ease-in-out;
+	   -moz-transition: opacity 0.3s ease-in-out;
+	     -o-transition: opacity 0.3s ease-in-out;
+	        transition: opacity 0.3s ease-in-out;
+}
+
+#newsletter a:active img, 
+#newsletter a:hover img, 
+#newsletter a:focus img  {
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft. »
+		Alpha(Opacity=50)";  /*IE 8 hack */
+	filter: alpha(opacity = 50); /* IE 5-7 hack */		
+}
+
+/*-------------------------------------------------------------------------------------*/
+
+
+#arc-wrap {
+	background-color: #CCC;
+	height: 6em;
+	width: 100%;
+	padding: 2em 0 4em 0;
+}
+
+#arc {width: 60em;margin: 0 auto; }
+	
+
+#arc img {float: left; padding-right: 2em;}
+
+#arc p {font-size: .8em;padding: 2em 0 10em 0em;}
+
+/*-------------------------------------------------------------------------------------*/
+
+#footerwrap {margin-top: -400px; }/* offsets #opening absolute position of 350 plus the top button link height of 50 */
+
+
+/*----------------------------------------
+             MEDIA QUERIES
+----------------------------------------*/
+/*@media screen and (min-width: 1696px) and (max-width: 3000px) {*/
+@media screen and (min-width: 106em) and (max-width: 187.5em) {		
+	
+	#opening {left: 35%;width: 30%;}	
+	/*#opening .home-big-logo-wrap img {width: 80%; float: left;} */
+	
+	
+	} /*/mediaquery*/
+
+
+
+
+
+
+/*@media screen and (min-width: 0px) and (max-width: 1695px) {*/
+@media screen and (min-width: 0em) and (max-width: 105.9375em) {		
+	
+	#opening {top: 50px;}
+	
+	body.splash {background-position: -200px 100px;}
+	
+	} /*/mediaquery*/
+
+
+/*@media screen and (min-width: 0px) and (max-width: 1420px) {*/
+@media screen and (min-width: 0em) and (max-width: 88.75em) {		
+	
+	#opening {top: 20px;}
+	
+	body.splash {background-position: -200px 100px;}	
+
+	
+	} /*/mediaquery*/
+
+
+
+/*@media screen and (min-width: 0px) and (max-width: 1260px) {*/
+@media screen and (min-width: 0em) and (max-width: 78.75em) {
+	
+	#opening {top: 50px;}
+	#opening .home-arrow {padding-top: 400px;}
+	
+	body.splash {background-position: -200px 100px;}
+	
+	} /*/mediaquery*/
+	
+	
+	
+	
+	
+	
+	/*@media screen and (min-width: 731px) and (max-width: 928px) {*/
+@media screen and (min-width: 45.6875em) and (max-width: 58em) {
+	
+	#header-wrap {
+	width: 100%;
+	height: 9.5em;}
+	
+	
+	body.splash {background-position: -300px 100px;}
+	
+	
+
+	} /*/mediaquery*/
+	
+
+/*  lg tablet */
+/*@media screen and (min-width: 801px) and (max-width: 1000px) {*/
+@media screen and (min-width: 50.0625em) and (max-width: 62.5em) {
+	
+	
+
+	body.splash {background-position: -300px 100px;}
+
+	
+	#opening-wrap {height: 800px;}
+	
+	#opening {padding: 0em 0;}
+	
+	#opening {top: 200px;}
+	#opening .home-arrow {padding-top: 200px;}
+	#opening .home-arrow {padding-top: 400px;}
+	
+	#races-wrap {background: #FFF;   /* 100% opaque white*/ }
+	#races {width: 90%;}
+	.race-block {width: 45%;padding: 3em 2.5%;height: 22em;float: left;margin-bottom: 2em;}
+		
+	#bottom {width: 90%;}
+	#news {width: 45%;}
+	.news-item {height: 12em;}
+	
+	#newsletter {width: 90%;}
+	
+	#arf-centric {width: 50%;}
+	#arc-wrap {width: 100%;height: 6em;padding: 2em 0;}
+	#arc {width: 90%;margin: 0 auto; }	
+	#arc img {float: left;}
+	#arc p {font-size: .8em;padding: 2em 0 0 10em;}
+		
+	
+} /*/mediaquery*/
+		
+		
+/*  sm tablet */
+/*@media screen and (min-width: 481px) and (max-width: 800px) {*/
+@media screen and (min-width: 30.0625em) and (max-width: 50em) {
+	
+	
+	body.splash {
+		background-position: -800px 100px;}
+	
+	#opening-wrap {height: 800px;}
+	
+	#opening {top: 0px;left: 20%;width: 60%}
+	
+	body.splash {background-position: center top;}
+	
+
+	#races-wrap {width: 100%;background: #FFF;   /* 100% opaque white*/ }
+	#races {width: 90%;}
+	.race-block {width: 100%;padding: 1.5em 0%; height: 24em;float: none;margin-bottom: 0em;}
+	.race-description {width: 90%;}
+	.race-photo {width: 300px;margin-left: auto; margin-right: auto; margin-top: 2em;padding-bottom: 0em;}
+	.race-photo img {width: 100%;}
+	
+	#bottom-wrap {width: 100%;}
+	#bottom {width: 90%;}
+	#news {width: 90%; float: none;padding-right: 0em;margin-left: auto; margin-right: auto;}
+	.news-item {height: 12em;}
+	.news-item:last-of-type {border-bottom: 1px solid #CCC}
+	
+	#arf-centric {width: 90%; margin-left: auto; margin-right: auto;border-left: none;float: none;}
+	
+	#running-text {float: none;}
+	
+	#newsletter {width: 90%;}
+	
+	#arc-wrap {height: 8em;}
+	#arc {width: 90%;margin: 0 auto; }
+	#arc p {padding: 0 0 0 10em;}
+
+} /*/mediaquery*/
+
+
+/*smart phone */
+/*@media screen and (max-width: 480px) {*/
+@media screen and (max-width: 30em) {
+	
+	
+body.splash {
+		background-position: -900px 50px;}*/
+	
+	 
+	#opening-wrap {height: 500px; }
+	#opening {top: 0px;left: 20%;width: 60%}
+	#opening .home-arrow {width: 40px;margin-top: 0px;padding-top: 50px;}
+	#opening .home-arrow img {width: 80%;}
+	#opening .home-arrow {display:none;}
+	
+	
+	#races-wrap {width: 100%;background: #FFF;   /* 100% opaque white*/ }
+	#races h2, #news h2 {text-align: center;}
+	#races {width: 100%;}
+	.update {padding: 0 5%;}
+	.race-block {width: 90%;padding: 1.5em 5%; height: 25em;float: left;margin-bottom: 0em;}
+	.race-photo {width: 90%;margin-left: auto; margin-right: auto; padding-bottom: 0em;}
+	.race-photo img {width: 100%;}
+	
+	#bottom-wrap {width: 100%;}
+	#bottom {width: 90%;}
+	#news {
+		width: 90%;
+		float: none;
+		padding-right: 0em;
+		margin-left: auto;
+		margin-right: auto;
+		border-top: 2px solid #4D7B20;
+	}
+		
+	.news-item {height: 14em;}
+	.news-item:last-of-type {border-bottom: 2px solid #4D7B20}
+
+	#arf-centric {width: 100%;float: none; border-left: none;}
+	
+	#newsletter {width: 90%;}
+	
+	#arc-wrap {height: 9em;}	
+	#arc {width: 90%;margin: 0 auto; }	
+	#arc p {padding: 0 0 0 10em;}
+
+} /*/mediaquery*/
+
+
+/*@media screen and (max-width: 360px) {*/
+@media screen and (max-width: 22.5em) {
+	
+	/*body.splash {background-position: left -60px;}*/
+	
+	#races h2, #news h2  {text-align: center;}
+	
+	.news-item {height: 18em;}
+	
+	#arc img {float: none; width: 40%; padding-left: 35%;}	
+	#arc-wrap {height: 14em;}
+	#arc p {text-align: center;padding: 0;}
+	
+} /*/mediaquery*/
+
+
+/*feature phone*/
+/*@media screen and (max-width: 280px) {*/
+@media screen and (max-width: 17.5em) {	
+	#races h2, #news h2  {text-align: center;}
+	
+	#countdown-wrap {display: none;} 
+
+} /*/mediaquery*/

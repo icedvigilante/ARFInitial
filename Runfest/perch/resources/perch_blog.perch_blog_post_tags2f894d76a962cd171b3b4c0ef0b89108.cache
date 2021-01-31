@@ -1,0 +1,12 @@
+
+<h3>Tags</h3>
+<ul>
+
+    <li><a href="archive.php?tag=marathon" rel="tag">marathon</a></li>
+
+    <li><a href="archive.php?tag=boston-qualifier" rel="tag">Boston Qualifier</a></li>
+
+    <li><a href="archive.php?tag=marathon-maniacs" rel="tag">Marathon Maniacs</a></li>
+
+    <li><a href="archive.php?tag=50-staters" rel="tag">50 Staters</a></li>
+</ul>

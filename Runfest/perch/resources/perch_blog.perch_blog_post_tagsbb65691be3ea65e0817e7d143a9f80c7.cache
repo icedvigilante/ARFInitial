@@ -1,0 +1,10 @@
+
+<h3>Tags</h3>
+<ul>
+
+    <li><a href="archive.php?tag=kids-2k" rel="tag">Kids' 2K</a></li>
+
+    <li><a href="archive.php?tag=healthy-futures" rel="tag">Healthy Futures</a></li>
+
+    <li><a href="archive.php?tag=healthy-heroes" rel="tag">Healthy Heroes</a></li>
+</ul>

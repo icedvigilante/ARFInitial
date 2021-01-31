@@ -1,0 +1,147 @@
+@charset "UTF-8";
+/* This style sheet is a working doucment in january 2015 to try to add sub-sub menus and style them well */
+
+ul#main-nav,ul#main-nav ul{
+	margin:0;list-style:none;padding:0;background-color:#FFF;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;}
+	
+ul#main-nav ul{/*these are styles for the background of the sub-menu*/
+	display:none;position:absolute;left:0;top:100%;background-color:#FFF;padding:0 9px 9px 9px;}
+	
+ul#main-nav li:hover>*{
+	display:block;}
+	
+ul#main-nav li{
+	position:relative;display:block;white-space:nowrap;font-size:0;float:left;}
+	
+ul#main-nav li:hover{
+	z-index:1;}
+	
+ul#main-nav ul ul{/* this makes the third level menus pop out to the right */
+	position:absolute;left:100%;top:0;}
+	
+ul#main-nav{
+	font-size:0;z-index:999;position:relative;display:inline-block;zoom:1;padding:1px 1px 1px 0;
+	*display:inline;}
+	
+* html ul#main-nav li a{
+	display:inline-block;}
+	
+ul#main-nav>li{ /*this is where to add width to the top menu items but paddng would be better? */
+	margin:0 0 0 1px;}
+	
+ul#main-nav ul>li{ /*this is where to add width to the sub menu items */
+	margin:1px 0 0 0;
+	width:160px;}/*---all the submenus the same width----*/
+	
+ul#main-nav a:active, ul#main-nav a:focus{ /* what does this do? */
+	outline-style:none;}
+	
+ul#main-nav a { /*this pertains to all main menu items*/
+	display:block;
+	vertical-align:middle;
+	text-align:left;
+	text-decoration:none;
+	font:normal 12px Arial;
+	font-family: "Proxima Nova", Arial, Helvetica, sans-serif;
+	cursor:default;
+	padding:10px;
+	background-color:#FFF;
+	color:#adadad;
+	color:#999;
+	color:#000;
+}
+	
+ul#main-nav ul li{ /* these styles are for the sub menu boxes (which contain the linked text) */
+	float:none;margin:13px 0 0 0;}/* I changed margin from 9px to 13px*/
+	
+ul#main-nav ul a { /*these styles are for linked text in the sub menus and its immediate surrounding area (which sit inside the sub menu boxes)  */
+	text-align:left;padding:8px 0 0 0;background-color:#FFF;border-width:1px 0 0 0;border-style:solid;border-color:#252525;font:13px Arial;font-family: "Proxima Nova", Arial, Helvetica, sans-serif;color:#adadad;color:#000;text-decoration:none;}
+	
+ul#main-nav li:hover>a,ul#main-nav li a.pressed{ /*what happens when top and sub menu items are hovered over or pressed */
+	background-color:#000;
+	border-style:none;
+	color:#fff;
+	text-decoration:none;
+	/*-moz-border-radius:4px 4px 0px 0px;-webkit-border-radius:4px 4px 0px 0px;border-radius:4px 4px 0px 0px;*/ /*eliminates rounded border top when submenues are active*/
+}
+	
+/*ul#css3menu0 span{ -- Use this if you want to add a downward arrow for main menu items which have submenus
+	display:block;overflow:visible;background-image:url(down-arrow.png);background-position:right center;background-repeat:no-repeat;padding-right:15px;}*/
+	
+ul#main-nav ul span{ /* right arrow for submenu items which have submenus */
+	background-image:url(../images/right-arrow.png);
+	background-position:right center;
+	background-repeat:no-repeat;
+	padding-right:10px;
+}
+	
+ul#main-nav > label.switch{ /* This is the  label (instead of button) which contains the hamburger (menu) icon */
+	display:none;cursor:pointer;width:25px;height:20px;padding:10px;}
+	
+ul#main-nav > label.switch:before{ /*This is the hamburger */
+	content:"";position:absolute;display:block;height:4px;width:25px;border-radius:4px;background:#999;-moz-box-shadow:0 8px #999, 0 16px #999;-webkit-box-shadow:0 8px #999, 0 16px #999;box-shadow:0 8px #999, 0 16px #999;}
+	
+ul#main-nav > label.switch:hover:before{
+	background:#fff;-moz-box-shadow:0 8px #fff, 0 16px #fff;-webkit-box-shadow:0 8px #fff, 0 16px #fff;box-shadow:0 8px #fff, 0 16px #fff;}
+	
+ul#main-nav > .switchbox{
+	display:none;}
+	
+ul#main-nav ul li:hover>a,ul#main-nav ul li a.pressed{ /* pertain to the submenu items when hovered or pressed */
+	background-color:#FFF;border-style:solid;border-color:#252525;color:#F30;text-decoration:none;}
+
+ul#main-nav _>li>a{
+	padding:0;}
+	
+ul#main-nav li.subfirst>a{ /* pertains to the first item in each submenu list */
+	border-width:0;border-style:none;padding:0;}
+	
+ul#main-nav li.subfirst:hover>a,ul#main-nav li.subfirst a.pressed{  /* pertains to the first item in each submenu list when hovered or pressed */
+	border-style:none;}
+	
+	
+/* (min-width: 731px) and (max-width: 960px) */
+@media screen and (min-width: 45.685em) and (max-width: 60em) {
+	ul#main-nav {
+		margin-top: 7px;/* this change necessary because font size shrinks */
+		}
+		
+	ul#main-nav li a {
+		font-size: 11px;/* 11px/16px/em= .6875em ; but this menu doesn't appear to work when using ems*/
+		}
+		
+	ul#main-nav a {
+		padding:5px;}
+		
+	ul#main-nav ul a {
+		font-size:11px;}
+		
+	ul#main-nav ul>li{
+		width:130px;}/*---all the submenus the same width----*/		
+}
+
+	
+
+
+
+/* (max-width: 730px) */
+@media screen and (max-width: 45.625em) {
+	ul#main-nav {
+		width: 100%;}
+
+	ul#main-nav > li {
+		display: none !important;		position: relative;		width: 100% !important;}
+
+	ul#main-nav > label.switch,ul#main-nav .switchbox:checked ~ li {
+		display: block !important;}
+}*/
+
+/* 
+@media screen and (max-width: 768px) {
+	ul#css3menu1 > li {
+		position: initial;}
+	ul#css3menu1 ul .submenu,ul#css3menu1 li > ul {
+		left: 0; right:auto; top: 100%;}
+	ul#css3menu1 .submenu,ul#css3menu1 ul,ul#css3menu1 .column {
+		-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;padding-right: 0;width: 100% !important;}
+}*/

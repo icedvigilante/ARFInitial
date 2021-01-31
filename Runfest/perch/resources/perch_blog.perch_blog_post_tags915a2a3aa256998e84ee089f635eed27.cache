@@ -1,0 +1,10 @@
+
+<h3>Tags</h3>
+<ul>
+
+    <li><a href="archive.php?tag=marathon" rel="tag">marathon</a></li>
+
+    <li><a href="archive.php?tag=boston-qualifier" rel="tag">Boston Qualifier</a></li>
+
+    <li><a href="archive.php?tag=adjusted-times" rel="tag">Adjusted Times</a></li>
+</ul>

@@ -1,0 +1,35 @@
+# Begin cache control #
+ExpiresActive on
+<FilesMatch "\.(css)$">
+FileETag MTime Size
+ExpiresDefault "now plus 240 minutes"
+</FilesMatch>
+
+ExpiresDefault "now plus 60 minutes"
+ExpiresByType text/html "now plus 60 minutes"
+<FilesMatch "\.(htm|html)$">
+FileETag MTime Size
+ExpiresDefault "now plus 60 minutes"
+</FilesMatch>
+
+<FilesMatch "\.(png|bmp|ico|gff|js|jpg|jpeg|gif|gcf)$">
+FileETag MTime Size
+ExpiresDefault "now plus 1440 minutes"
+</FilesMatch>
+
+
+# End cache control #
+ErrorDocument 403 http://www.antlers.anchoragerunfest.org/403/html
+ErrorDocument 404 http://www.antlers.anchoragerunfest.org/404.html
+ErrorDocument 500 http://www.antlers.anchoragerunfest.org/500.html
+
+
+<IfModule mod_rewrite.c>
+	RewriteEngine on
+	RewriteRule ^blog/([a-zA-Z0-9-/]+)$ /blog/post.php?s=$1 [L]
+</IfModule>
+
+
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css application/x-javascript application/javascript
+</IfModule>

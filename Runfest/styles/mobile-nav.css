@@ -1,0 +1,199 @@
+/*@media only screen and (min-width: 0px) and (max-width: 730px) {*/
+@media only screen and (min-width: 0em) and (max-width: 45.625em) {
+.nav-button { display: none; } /* hide the navigation button by default */
+
+	/* Navigation Button
+	-------------------------------------------------------- */
+
+	.nav-button {
+	display: block;
+	position: absolute;
+	z-index: 999;
+	top: 10px;
+	top: 4px;
+	/*left: 7px;*/
+	right: 7px;
+	width: 50px;
+	height: 30px;
+		background: url(../../../../Downloads/Runfest/images/menu-icon-large.png), -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,.15));
+		background: url(../../../../Downloads/Runfest/images/menu-icon-large.png),    -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,.15));
+		background: url(../../../../Downloads/Runfest/images/menu-icon-large.png),     -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,.15));
+		background: url(../../../../Downloads/Runfest/images/menu-icon-large.png),      -o-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,.15));
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 21px, 100%;/* width, height of hamburger bars*/
+	cursor: pointer;
+	border: 0 none;
+	border-bottom: 1px solid rgba(255,255,255,.1);
+	box-shadow: 0 0 4px rgba(0,0,0,.15) inset;
+	border-radius: 5px;
+	text-indent: -9999px;
+	}
+	
+	.nav-button:active,.nav-button:hover,.nav-button:focus {
+		box-shadow: 0 0 4px rgba(0,0,0,.5) inset;
+		background-color: rgba(0,0,0,.25); 
+	}
+	
+	.nav-button img a:active,
+	.nav-button img a:hover,
+	.nav-button img a:focus { 
+		text-decoration: none;
+		border-style: none !important;
+		border-width: 0px !important; /* not stopping blue outline in Chrome */
+		
+	}
+	
+	.nav-button:focus {outline:0;}/* gets rid of blue outline in Chrome */	
+		
+	.nav-button img a:hover {
+		background-color: rgba(0,0,0,.1);
+	}
+
+	
+	
+	.nav-button.open {
+	    background: url(../../../../Downloads/Runfest/images/menu-icon-large.png), -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,.15));
+		background: url(../../../../Downloads/Runfest/images/menu-icon-large.png),    -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,.15));
+		background: url(../../../../Downloads/Runfest/images/menu-icon-large.png),     -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,.15));
+		background: url(../../../../Downloads/Runfest/images/menu-icon-large.png),      -o-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,.15));
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 21px, 100%;
+	}
+
+	/* Navigation Bar
+	-------------------------------------------------------- */
+
+	.mobile-nav {
+		width: 100%;
+		float: none;
+		background-color: #4D7B20;/* forest green */
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,.2));
+		background-image:    -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,.2));
+		background-image:     -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,.2));
+		background-image:      -o-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,.2));
+		display: block;
+		height: 50px;
+		
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		box-shadow: 0 1px 2px rgba(0,0,0,.6);
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		z-index: 998;
+		clear: both;
+	}
+	.mobile-nav li {
+		display: none;
+		width: 100%;
+		font-family: Arial;
+		letter-spacing: .1em;
+	}
+	
+	
+	.mobile-nav li a {
+		display: block;
+		width: 90%;
+		padding: 10px 5%;
+		font-size: 14px;
+		font-size: .875em;
+		text-shadow: -1px -1px 0 rgba(0,0,0,.15);
+		color: white;
+		text-decoration: none;
+		border-bottom: 1px solid rgba(0,0,0,.4);
+		border-top: 1px solid rgba(255,255,255,.2); 
+	}
+	.mobile-nav li a:hover {
+		background-color: rgba(0,0,0,.5);
+		border-top-color: transparent;
+	}
+	.mobile-nav > li:first-child {
+		border-top: 1px solid rgba(0,0,0,.2);
+	}
+
+	/* Toggle the navigation bar open  */
+
+	.mobile-nav.open { 
+		height: auto; 
+		padding-top: 50px;
+	}
+	.mobile-nav.open li { 
+		display: block; 
+	}
+
+	/* Submenus – optional .parent class indicates dropdowns */
+
+	.mobile-nav > li:hover > a {
+		background: rgba(0,0,0,.5);
+		border-bottom-color: transparent;
+	}
+	.mobile-nav li.parent > a:after {
+		content: "▼";
+		color: rgba(255,255,255,.5);
+		float: right;
+	}
+	.mobile-nav li.parent > a:hover {
+		background: rgba(0,0,0,.65);
+	}
+	.mobile-nav li ul {
+		display: none;
+		background: rgba(0,0,0,.4);
+		border-top: 0 none;
+		padding: 0;
+	}
+	.mobile-nav li ul a {
+		border: 0 none;
+		font-size: 12px;
+		padding: 10px 0% 10px 10%;
+		font-weight: normal;
+	}
+	.mobile-nav li:hover ul {
+		display: block;
+		border-top: 0 none;
+	}
+	
+	/* styling for sub sub menus */
+	
+	.mobile-nav .parent ul li ul {
+		display: none;
+		background: rgba(0,0,0,.4);
+		border-top: 0 none;
+		padding: 0;	
+	}
+	
+	.mobile-nav .parent ul li:hover ul {
+		display: block;
+		border-top: 0 none;
+	}
+	
+	.mobile-nav li ul li ul li {
+		text-indent: 30px;
+	}
+	
+} /* End Initial Mobile Styles */
+
+
+
+/*(max-width: 730px)*/
+@media screen and (max-width: 45.625em) {
+	
+	.mobile-nav {height: 0px;margin: -10px 0px;}
+	
+} /*/mediaquery*/
+	
+
+
+
+/*(max-width: 319px) */
+@media screen and (max-width: 19.9375em) {
+	
+	.nav-button {top: 0px;}
+	
+} /*/mediaquery*/
+	
+
+	
+

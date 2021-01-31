@@ -1,0 +1,9278 @@
+# Webalizer V2.01-10 Incremental Data - 12/19/2020 01:57:16
+2020 12 19 1 57 16
+29507 27390 2320 589 357 121 585527653 11935 4331 0
+18 45 430 1 19
+1694 1568 27079513 220 666 270
+1321 1151 33948251 211 711 254
+1289 1156 28017615 196 678 255
+1665 1551 25436959 241 667 283
+1545 1446 43251158 196 756 236
+1394 1285 25197048 209 662 236
+1530 1429 34902330 226 599 254
+1927 1816 31684615 185 866 235
+1789 1686 46194716 193 731 261
+1911 1755 29965831 218 898 263
+1850 1629 29140729 229 830 280
+1906 1767 32768488 211 936 272
+1793 1698 33634286 259 583 272
+1630 1551 41554700 205 470 181
+1371 1294 25316990 169 414 158
+1421 1353 26403569 185 452 197
+1928 1816 46211799 232 550 215
+1452 1351 23322594 234 452 204
+91 88 1496462 18 14 12
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+939 880 15523579 341
+1065 1001 27079655 301
+2736 2375 26538897 1909
+989 884 24708406 628
+960 814 13335519 688
+635 519 9685170 345
+752 669 8321419 341
+759 687 13571979 338
+1093 1050 21180571 277
+1525 1474 28083693 377
+986 902 17346592 375
+945 839 18876169 344
+1351 1298 21719073 443
+1741 1669 30514379 842
+1185 1125 25157254 354
+1943 1880 60936600 636
+1141 1084 37345021 438
+944 846 16714274 358
+917 848 18606402 363
+1701 1581 34082225 674
+1729 1657 31442395 503
+1160 1107 32794121 268
+960 914 16625571 338
+1351 1287 35338689 454
+3
+0
+0
+27390
+0
+0
+0
+0
+0
+77
+0
+31
+1965
+0
+39
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/perch/resources/2016-biking-crew-thumb@2x.jpg
+1 1 0 13833 0 0
+/perch/resources/alaska-airlines-logo-400.jpg
+1 1 0 7693 0 0
+/images/sponsors-600/Humpys-600.jpg
+1 2 0 71360 0 0
+/pages/sponsors/become-a-sponsor.html
+0 71 0 978865 17 11
+/perch/core/settings/
+0 4 0 11453 0 0
+/perch/core/settings/diagnostics/
+0 1 0 2254 0 0
+/blog/rss.php
+0 90 0 568290 88 35
+/pages/sitemap.html
+0 64 0 735048 16 14
+/docs/expo-docs/2018-RunFest-Exhibitor-Info-Sheet.pdf
+0 2 0 481034 0 0
+/images/support-logos/Beanitos-logo-200.jpg
+1 1 0 6127 0 0
+/images/menu-icon-large.png
+1 162 0 192456 0 0
+/perch/resources/tri-tooth-humpys-1.jpg
+1 2 0 29458 0 0
+/
+0 2012 0 21824590 1411 497
+/images/our-partner-logos/50-States-Marathon-150.jpg
+1 1 0 5058 0 0
+/perch/core/assets/css/styles.css
+0 2 0 29276 0 0
+/images/support-logos/healthy-futures-logo-200.jpg
+1 6 0 104634 0 0
+/perch/resources/patty-boyce-story-620-thumb@2x.jpg
+1 1 0 29101 0 0
+/images/2018-2400x800/2018-Ultra-6049-2400.jpg
+1 6 0 1108434 0 0
+/perch/core/apps/categories/
+0 1 0 1549 0 0
+/images/RRCA-Champ-logo-200.jpg
+1 40 0 1928680 0 0
+/images/galloway-and-moose-620.jpg
+1 2 0 124870 0 0
+/blog/2015-08-20-boston-will-accept-adjusted-marathon-times
+0 10 0 80042 4 5
+/images/ARF-logo-RRCA-120.png
+1 5 0 10420 0 0
+/images/sponsor-logos-100x100/GCI-100x100.png
+1 3 0 3279 0 0
+/images/2020-2400x800/2019-kids-combo.jpg
+1 5 0 1489240 0 0
+/docs/2017-Sponsorship-Material.pdf
+0 2 0 240981 0 0
+/images/home-page/home-race-photos/kids.jpg
+1 233 0 2220257 0 0
+/blog/2015-11-17-taps-founder-to-receive-presidential-medal-of-freedom
+0 11 0 88962 5 5
+/images/2020-2400x800/2019-T-shirts2.jpg
+1 21 0 3293997 0 0
+/blog/2018-08-04-joy-of-the-running-community-convinces-a-volunteer-to-join
+0 18 0 141201 7 6
+/perch/resources/2017-moe-mile-win-thumb@2x.jpg
+1 1 0 25437 0 0
+/images/2020-2400x800/bibs-2400.jpg
+1 10 0 1811380 0 0
+/images/2020-2400x800/2019-5K-start-shadows.jpg
+1 13 0 3166722 0 0
+/images/arf-runner.png
+1 315 0 343350 0 0
+/styles/mobile-nav.css
+0 501 0 805527 0 0
+/images/race-committee/2018-neil.jpg
+1 4 0 42508 0 0
+/images/sponsor-logos-large/Humpys-plain-145.jpg
+1 96 0 762048 0 0
+/images/2018-2400x800/2018-military-mile-start-2400.jpg
+1 1 0 268682 0 0
+/perch/core/assets/js/static/7.7.23f8a1427c17ade109a3.js
+0 2 0 5566 0 0
+/images/sponsors-600/Air-force-reserve-600.jpg
+1 2 0 27892 0 0
+/docs/expo-docs/2018-RunFest-Exhibitor-Agreement.pdf
+0 1 0 87389 0 0
+/perch/core/assets/img/favicon.ico
+0 2 0 135292 0 0
+/pages/runner-info/travel-hotel.html
+0 101 0 1237987 31 27
+/blog/2014-12-05-tell-us-why-you-run
+0 8 0 69679 2 2
+/pages/runner-info/faq.html
+0 78 0 1025952 13 7
+/images/our-partner-logos/100-half-marathons-club.jpg
+1 1 0 9305 0 0
+/images/2016-2400x800/2k-finish-with-banners.jpg
+1 3 0 513996 0 0
+/blog/2016-01-18-medical-park-family-care-to-sponsor-the-anchorage-mile
+0 12 0 93116 7 4
+/blog/2015-06-10-running-to-alaska-christopher-woods
+0 11 0 87879 4 2
+/perch/resources/mallory-w320h155.jpg
+1 2 0 100786 0 0
+/blog/2013-10-26-big-wild-life-runs-adds-a-49k-for-the-49th-state
+0 9 0 73287 5 3
+/docs/expo-docs/2016-ARF-Expo-Information-Sheet.pdf
+0 1 0 256590 0 0
+/images/sponsors-600/Diamond-Parking-color-600.jpg
+1 3 0 63468 0 0
+/perch/resources/kim-and-david-wooten-620-thumb@2x.jpg
+1 1 0 24027 0 0
+/pages/runner-info/../../images/sponsor-logos-100x100/Lynden-100x100.png
+1 3 0 8712 0 0
+/blog/2020-04-20-anchorage-runfest-cancels-2020-event
+0 72 0 1369648 8 22
+/images/social-media/instagram-white40.png
+1 317 0 433339 0 0
+/perch/core/assets/js/static/14.14.23f8a1427c17ade109a3.js
+0 2 0 1696 0 0
+/images/2015-2400x800/2015-bib-pick-up.jpg
+1 1 0 225735 0 0
+/images/race-committee/2018-ruth.jpg
+1 4 0 28544 0 0
+/images/sponsors-600/REI-600.jpg
+1 2 0 22332 0 0
+/pages/sponsors/apple-touch-icon.png
+1 2 0 0 0 0
+/pages/races/../../jquery/jquery-1.8.2.min.js
+0 11 0 367411 0 0
+/images/hooflister2.png
+1 176 0 224752 0 0
+/styles/arf-main6.css
+0 4 0 13292 0 0
+/images/2015-2400x800/2015-b2b-challenge-gray.jpg
+1 1 0 173212 0 0
+/images/home-page/down-arrows-circle.png
+1 234 0 359892 0 0
+/images/sponsors-600/Conoco-Phillips-400x600.jpg
+1 2 0 16624 0 0
+/maps-2016/2016-Postmark3.pdf
+0 3 0 622674 0 0
+/images/home-page/2017-home-page-coastaltrail-mobileB.jpg
+1 5 0 309335 0 0
+/blog/2016-05-08-anchorage-runfest-introduces-the-military-mile
+0 11 0 100352 5 5
+/images/support-logos/alaska-airlines-logo200.jpg
+1 119 0 873817 0 0
+/images/2020-2400x800/2019-medals.jpg
+1 32 0 6892384 0 0
+/pages/runner-info/apple-touch-icon.png
+1 3 0 0 0 0
+/blog/2016-08-22-race-records-fall-at-2016-runfest
+0 10 0 84945 5 4
+/blog/2017-04-07-volunteer-spotlight-our-bib-pick-up-crew
+0 12 0 104060 6 3
+/blog/2014-02-06-running-to-alaska-dustin-morris
+0 14 0 208390 6 4
+/perch/core/users/add/
+0 2 0 3982 0 0
+/perch/resources/2016poster.jpg
+1 2 0 101250 0 0
+/perch/resources/chap-logo145px.jpg
+1 1 0 8672 0 0
+/images/2015-2400x800/2015-chester-creek-trail2.jpg
+1 1 0 314496 0 0
+/pages/races/half-marathon.html
+0 326 0 2743318 95 53
+/images/sponsors-600/Subway-600.jpg
+1 2 0 26184 0 0
+/images/maps-jpg/RunFest_Marathon.jpg
+1 94 0 3720896 0 0
+/perch/resources/fall-runnng.jpg
+1 1 0 68024 0 0
+/images/ARF-RRCA-combo-220.png
+1 321 0 3568236 0 0
+/perch/resources/2016-biking-crew.jpg
+1 1 0 46502 0 0
+/perch/resources/dustin-morris1.jpeg
+1 2 0 210338 0 0
+/images/maps-jpg/Anchorage-Mile.jpg
+1 14 0 678272 0 0
+/images/2020-2400x800/2019-marathon-relay.jpg
+1 1 0 261505 0 0
+/perch/resources/runners-world-logo.png
+1 1 0 5935 0 0
+/images/sponsors-600/Papa-Murphys-600.jpg
+1 2 0 32654 0 0
+/perch/resources/rrca-champ-logo-200.jpg
+1 1 0 48217 0 0
+/blog/2017-08-19-moe-sets-mile-record-army-takes-the-military-mile-in-record-time
+0 21 0 150042 14 10
+/images/sponsors-600/Flattop-logo-600.jpg
+1 2 0 42518 0 0
+/images/sponsors-600/TCHAP-600.jpg
+1 3 0 81390 0 0
+/images/military-mile-trophy-145.jpg
+1 9 0 59022 0 0
+/images/2018-2400x800/2018-AK-railroad-2400.jpg
+1 16 0 3685920 0 0
+/pages/about/race-director-message.html
+0 138 0 1245156 36 11
+/images/sponsors-600/alaska-airlines-200x600.jpg
+1 2 0 22334 0 0
+/images/clock-units.png
+1 234 0 132444 0 0
+/maps/Anchorage Mile Course Map.pdf
+0 5 0 807716 0 0
+/images/2018-2400x800/2018-race-committee.jpg
+1 4 0 1106496 0 0
+/blog/2015-11-08-mooses-tooth-marathon-deemed-rrca-western-regional-championship
+0 11 0 90633 6 3
+/perch/core/assets/js/static/3.3.23f8a1427c17ade109a3.js
+0 2 0 13204 0 0
+/images/sponsors-600/Amateur-Radio-Club-600.jpg
+1 2 0 16020 0 0
+/perch/resources/dick-beardsley.jpg
+1 2 0 41302 0 0
+/pages/runner-info/register.html
+0 155 0 3019010 46 24
+/blog/2017-08-21-under-cloudy-skies-and-drizzle-james-miller-betters-his-49k-record
+0 11 0 135455 6 6
+/images/sponsors-600/superman-moving-logo-600.jpg
+1 2 0 24438 0 0
+/perch/resources/healthy-heroes-2014.jpg
+1 1 0 252770 0 0
+/images/movie/2019-TIM/100-miles-620.jpg
+1 6 0 170142 0 0
+/blog/2016-08-04-team-rwbs-old-glory-relay-will-run-in-our-49k
+0 14 0 140946 7 6
+/images/sponsor-logos-100x100/skinny-raven-100x100.png
+1 312 0 4043520 0 0
+/perch/core/inc/js_lang.php
+0 33 0 14421 0 0
+/docs/travel-hotel-docs/2015-BWLR-hotel-rates.pdf
+0 1 0 285082 0 0
+/docs/2015-adjusted-marathon-times.pdf
+0 4 0 702750 0 0
+/blog/2015-10-18-westchester-lagoon-bridge-2-0
+0 9 0 76343 3 3
+/images/home-page/home-race-photos/5K.jpg
+1 236 0 2267960 0 0
+/images/2017-2400x800/2017-kids-2K.jpg
+1 4 0 1146056 0 0
+/pages/apple-touch-icon.png
+1 3 0 0 0 0
+/images/2015-2400x800/2015-chester-creek-trail1.jpg
+1 1 0 325988 0 0
+/perch/resources/temperature-chart.jpg
+1 1 0 24052 0 0
+/perch/resources/2017-bartlett-xc-thumb@2x.jpg
+1 1 0 18655 0 0
+/images/ARF-logo-200.jpg
+1 44 0 213480 0 0
+/images/2019-hat.jpg
+1 1 0 15808 0 0
+/images/2020-2400x800/2019-military-mile-air-force-team.jpg
+1 9 0 2534733 0 0
+/perch/resources/kids-biker-crews-thumb@2x.jpg
+1 1 0 15770 0 0
+/docs/travel-hotel-docs/2020-Anchorage-RunFest-hotel-rates.pdf
+0 2 0 267336 0 0
+/perch/resources/2015-mile-women-heat3-640.jpg
+1 1 0 154624 0 0
+/blog/2017-11-15-alaska-airlines-donates-travel-awards
+0 13 0 76336 7 7
+/perch/resources/on-pace-logo-600px.jpg
+1 4 0 48556 0 0
+/pages/events/apple-touch-icon.png
+1 8 0 0 0 0
+/images/2020-2400x800/2019-marathon-start-c.jpg
+1 91 0 74493146 0 0
+/images/sponsor-logos-large/CHAP-logo145px.jpg
+1 8 0 69376 0 0
+/blog/
+0 201 0 2737420 46 67
+/perch/resources/lora-davis-thumb@2x.jpeg
+1 1 0 26180 0 0
+/perch/resources/beer-garden-2014.jpg
+1 1 0 50916 0 0
+/maps/RunFest_5k.pdf
+0 3 0 686779 0 0
+/pages/sponsors/all-sponsors.html
+0 53 0 758596 14 11
+/docs/2015-Race-Week-Schedule.pdf
+0 1 0 67502 0 0
+/perch/resources/marko-interview.jpg
+1 1 0 334304 0 0
+/blog/2015-08-25-50-states-marathon-club-decision
+0 7 0 61503 1 2
+/images/sponsor-logos-large/bear-tooth-theatrepub-145.jpg
+1 3 0 12717 0 0
+/blog/2015-06-16-the-man-who-never-quits-bart-yasso-will-run-2015-mooses-tooth-marathon
+0 10 0 85193 4 3
+/perch/core/inc/keepalive.php
+0 2 0 46 0 0
+/maps/RunFest_Marathon.pdf
+0 30 0 12576888 0 0
+/images/2020-2400x800/Clark-McCLeary-Fisherman-2400x800.jpg
+1 4 0 782956 0 0
+/perch/resources/2017-james-miller-thumb@2x.jpg
+1 1 0 23120 0 0
+/images/dedication/2019-dedication-header5.jpg
+1 5 0 567755 0 0
+/images/sponsors-600/Denaina-600.jpg
+1 2 0 33960 0 0
+/images/sponsor-logos-large/UPTround-145px.jpg
+1 39 0 315354 0 0
+/maps-2017/08.20.2017-road-closures.pdf
+0 2 0 1398372 0 0
+/images/support-logos/subway-logo-200.jpg
+1 6 0 33540 0 0
+/pages/runner-info/../../images/sponsor-logos-100x100/humpys-100x100.png
+1 3 0 15915 0 0
+/docs/expo-docs/2017-RunFest-Swag-Bag-Application.pdf
+0 1 0 190838 0 0
+/perch/resources/2017-moe-mile-win.jpg
+1 7 0 375550 0 0
+/images/race-committee/2017-toby.jpg
+1 4 0 28980 0 0
+/perch/resources/rrca-logo600w.jpg
+1 1 0 42323 0 0
+/blog/2015-12-20-spenard-roadhouse-takes-on-5k-sponsorship
+0 10 0 83252 5 5
+/images/sponsors-600/BearToothTheatrepub_logo-600.jpg
+1 2 0 40782 0 0
+/images/2018-2400x800/2018-mile-women-3501-2400.jpg
+1 2 0 542106 0 0
+/images/maps-jpg/RunFest_Half_Marathon.jpg
+1 50 0 2183650 0 0
+/blog/2018-01-05-humpys-marathon-makes-runners-world-2018-marathon-bucket-list
+0 15 0 115706 6 3
+/images/sponsor-logos-100x100/spenard-roadhouse-white-100x100.png
+1 1 0 2650 0 0
+/blog/2017-10-12-rrca-announces-2018-national-championship-event-se
+0 1 0 5199 1 0
+/perch/resources/2017-klain-mile.jpg
+1 7 0 355845 0 0
+/images/2019-49K-medal-shirt-620.jpg
+1 38 0 812212 0 0
+/perch/resources/2017-army-takes-military-mile.jpg
+1 5 0 299765 0 0
+/apple-touch-icon-120x120.png
+1 5 0 0 0 0
+/images/sponsors-600/Clear-Alaskan-Glacial-300x600-color.jpg
+1 2 0 28256 0 0
+/images/2015-2400x800/2015-expo-vendors.jpg
+1 5 0 216830 0 0
+/pages/runner-info/future-race-dates.html
+0 82 0 790146 30 22
+/images/vips/2019-VIP-header.jpg
+1 4 0 674460 0 0
+/images/2019-marathon-relay-medal-shirt-620.jpg
+1 1 0 438122 0 0
+/perch/resources/relay-639-finish-thumb@2x.jpg
+1 1 0 24911 0 0
+/images/sponsor-logos-large/VFW-145.jpg
+1 11 0 42592 0 0
+/jcountdown/jcountdown_slide_black.png
+1 222 0 3887442 0 0
+/perch/resources/sharron-speech-triptych-800-thumb@2x.jpg
+1 1 0 10147 0 0
+/images/sponsors-600/United-Physical-Therapy-600.jpg
+1 2 0 40434 0 0
+/images/2018-2400x800/2018-expo-2400.jpg
+1 1 0 246308 0 0
+/perch/resources/mile-air-force-team-thumb@2x.jpg
+1 1 0 20560 0 0
+/images/2015-2400x800/2015-kids-2k-runners.jpg
+1 1 0 148251 0 0
+/images/sponsors-600/hotel-captain-cook-logo-600.jpg
+1 2 0 40778 0 0
+/blog/2017-04-13-our-outstanding-biking-crew
+0 9 0 85618 3 1
+/perch/resources/allyzirkle.jpg
+1 2 0 39478 0 0
+/images/2020-2400x800/2019-half-marathon-start.jpg
+1 50 0 7461200 0 0
+/perch/core/assets/js/static/6.6.23f8a1427c17ade109a3.js
+0 2 0 1158 0 0
+/blog/2017-05-18-runfest-to-show-boston-the-documentary
+0 8 0 80905 3 3
+/pages/events/family-health-and-safety-day.html
+0 66 0 951774 14 10
+/images/2019-half-marathon-medal-shirt-620.jpg
+1 50 0 1080850 0 0
+/perch/resources/jeff-dusenbury-sweat-fest-poster.jpg
+1 1 0 37442 0 0
+/docs/travel-hotel-docs/2020-Alaska-Airlines-Discount.pdf
+0 1 0 0 0 0
+/images/sponsor-logos-large/mile side fill.jpg
+1 7 0 88011 0 0
+/images/2016-volunteers/kimo-andrew.jpg
+1 4 0 33444 0 0
+/images/sponsor-logos-100x100/Lynden-100x100.png
+1 311 0 903144 0 0
+/images/sponsors-600/VFW-color-600.jpg
+1 2 0 33534 0 0
+/pages/runner-info/../../images/Smoke-Free-logo-200-web.jpg
+1 3 0 24249 0 0
+/pages/runner-info/run-for-good.html
+0 75 0 1003400 10 8
+/perch/resources/2015-maraton-start-400.jpg
+1 1 0 25068 0 0
+/perch/core/users/
+0 6 0 12169 0 0
+/images/sponsors-600/Great-Harvest-Bread-Company-600.jpg
+1 2 0 40398 0 0
+/images/2017-2400x800/2017-marathon-start.jpg
+1 8 0 2022088 0 0
+/images/sponsor-logos-large/back-2-back-logo-200.jpg
+1 4 0 18804 0 0
+/images/home-page/RROTY-logo-white-600.png
+1 4 0 81184 0 0
+/images/sponsors-600/aviator-logo-white-on-navy-600.jpg
+1 2 0 38166 0 0
+/blog/2016-08-21-us-air-force-takes-the-inaugural-military-mile
+0 12 0 93514 4 6
+/images/2018-2400x800/2018-Half-2072-2400.jpg
+1 3 0 1097298 0 0
+/images/2017-medals-shirts/5K-minus-sleeve.jpg
+1 2 0 51484 0 0
+/pages/about/arc-scholarships.html
+0 118 0 1218720 23 10
+/pages/races/five-kilometer.html
+0 266 0 2197443 39 29
+/perch/core/assets/js/static/vendor.23f8a1427c17ade109a3.js
+0 2 0 61598 0 0
+/blog/2014-02-16-running-to-alaska-mallory-billings-litke
+0 10 0 110761 2 3
+/blog/2016-08-15-healthy-heroes-named-to-lead-the-kids-2k-warmup
+0 14 0 128370 8 7
+/images/home-page/home-race-photos/half.jpg
+1 237 0 2333976 0 0
+/perch/resources/srh-logo-640.jpg
+1 1 0 12711 0 0
+/perch/resources/pre-race-yoga.jpg
+1 1 0 50951 0 0
+/blog/2017-10-12-rrca-announces-2018-national-championship-event-series
+0 11 0 86923 4 2
+/images/2020-2400x800/2019-marathon-start4.jpg
+1 9 0 2061810 0 0
+/docs/travel-hotel-docs/2019-Alaska-Airlines-Discount.pdf
+0 2 0 1244273 0 0
+/perch/resources/2018-mile-awards.jpg
+1 1 0 30737 0 0
+/perch/core/apps/assets/
+0 1 0 3747 0 0
+/images/2018-2400x800/2018-kids2k-3415.jpg
+1 2 0 538836 0 0
+/images/2018-2400x800/2018-race-day-2400.jpg
+1 1 0 261180 0 0
+/perch/resources/tim-and-bridges.jpg
+1 1 0 343825 0 0
+/docs/2020-Sponsorship-Material.pdf
+0 6 0 2609058 0 0
+/jcountdown/jquery.jcountdown.min.js
+0 449 0 1733500 0 0
+/images/maps-jpg/RunFest_5k.jpg
+1 12 0 389172 0 0
+/maps-elevations/RunFest Maps_49kMap.pdf
+0 4 0 4581159 0 0
+/images/linkarrow.png
+1 192 0 202752 0 0
+/images/vips/Cheseto-196x250.jpg
+1 2 0 14434 0 0
+/images/movie/2019-TIM/2019-TIM-header.jpg
+1 7 0 865347 0 0
+/perch/resources/old-glory-bib.jpg
+1 3 0 102105 0 0
+/pages/races/../../
+0 12 0 80520 0 0
+/images/top.png
+1 314 0 450276 0 0
+/images/sponsors-600/Lynden-600.jpg
+1 2 0 24396 0 0
+/perch/resources/2016-air-force.jpg
+1 1 0 69979 0 0
+/perch/core/assets/js/static/app.23f8a1427c17ade109a3.js
+0 2 0 1092 0 0
+/perch/core/apps/content/
+0 9 0 15414 0 0
+/pages/races/marathon-walk.html
+0 230 0 1766206 24 15
+/images/arf-RRCA-coolidge-logo.png
+1 2 0 17652 0 0
+/images/USATandF-logo.jpg
+1 163 0 666833 0 0
+/apple-touch-icon.png
+1 85 0 362865 0 0
+/perch/resources/spirit-of-spenard-640.jpg
+1 2 0 72626 0 0
+/perch/core/editors/markitup/config.js
+0 1 0 1567 0 0
+/images/social-media/facebook-white40.png
+1 317 0 308441 0 0
+/images/home-page/home-race-photos/half-RRCA-event.jpg
+1 5 0 60270 0 0
+/images/2015-2400x800/2015-anchorage-mile-winners.jpg
+1 1 0 163057 0 0
+/images/2017-2400x800/2017-AK-Railroad-FAQ.jpg
+1 1 0 314469 0 0
+/blog/2014-02-28-running-to-alaska-ally-zirkle
+0 12 0 89990 5 4
+/robots.txt
+0 1292 0 190233 0 0
+/pages/runner-info/race-day.html
+0 80 0 1054751 22 15
+/perch/core/assets/svg/assets.svg
+0 2 0 15954 0 0
+/pages/races/the-anchorage-mile.html
+0 298 0 2452621 53 36
+/jquery/jquery-1.8.2.min.js
+0 448 0 17785293 0 0
+/pages/events/movie.html
+0 75 0 1027950 25 15
+/pages/races/the-military-mile.html
+0 103 0 1130183 28 20
+/images/sponsors-600/Kaladi-Brothers-600.jpg
+1 2 0 36536 0 0
+/images/home-page/home-race-photos/2019-mile.jpg
+1 236 0 2663968 0 0
+/perch/core/assets/js/static/2.2.23f8a1427c17ade109a3.js
+0 2 0 694 0 0
+/blog/2015-08-13-race-day-fun-come-early-stay-late
+0 12 0 100223 5 5
+/404.html
+0 1018 0 5317756 284 388
+/styles/home15.css
+0 357 0 1180779 0 0
+/perch/resources/military-mile-start.jpg
+1 1 0 31942 0 0
+/perch/resources/relay-639-finish.jpg
+1 5 0 230825 0 0
+/blog/2017-04-03-its-national-volunteer-appreciation-month
+0 9 0 109760 3 3
+/pages/about/race-committee.html
+0 122 0 1270100 29 16
+/images/movie/2019-TIM/la-barkley-620.jpg
+1 6 0 226206 0 0
+/perch/resources/boston-news-header-thumb@2x.jpg
+1 1 0 10291 0 0
+/perch/resources/massage-upt.jpg
+1 1 0 52326 0 0
+/blog/2016-08-09-rondy-summer-roundup-invites-runfest-to-party
+0 11 0 88130 3 5
+/images/sponsor-logos-100x100/UPT-round-white-100x100.png
+1 314 0 2641054 0 0
+/images/maps-jpg/RunFest_49k.jpg
+1 39 0 1471860 0 0
+/images/travel-logos-and-images/Anch-Trolley-logo.jpg
+1 15 0 256110 0 0
+/perch/resources/marko-2019-half-start.jpg
+1 2 0 98648 0 0
+/docs/travel-hotel-docs/2015-alaska-airlines-booking-instructions.pdf
+0 2 0 237492 0 0
+/docs/expo-docs/2017-RunFest-Exhibitor-Info-Sheet.pdf
+0 2 0 240767 0 0
+/blog/2015-11-13-alaska-airlines-donates-generous-awards-for-marathon-and-49k-ultra
+0 9 0 75726 3 4
+/docs/2016-Anchorage-RunFest-Race-Guide.pdf
+0 5 0 32878428 0 0
+/perch/resources/2015-taps-600.jpg
+1 1 0 45721 0 0
+/blog/2014-08-08-2014-finishers-medals
+0 10 0 80451 4 3
+/pages/races/marathon-relay.html
+0 219 0 2169583 18 15
+/perch/addons/apps/perch_blog/authors/
+0 1 0 1602 0 0
+/perch/core/assets/js/static/9.9.23f8a1427c17ade109a3.js
+0 2 0 572 0 0
+/images/2020-2400x800/2019-womens-mile-winner-ed.jpg
+1 6 0 915060 0 0
+/favicon.ico
+0 58 0 66584 0 0
+/blog/2017-02-03-2016-runfest-designated-as-rrca-road-race-of-the-year
+0 13 0 99371 9 7
+/images/2017-2400x800/2017-volunteers.jpg
+1 2 0 404822 0 0
+/blog/2015-08-19-marathon-maniacs-update
+0 16 0 115353 11 9
+/perch/core/assets/svg/blocks.svg
+0 2 0 67844 0 0
+/docs/expo-docs/2019-RunFest-Exhibitor-Info-Sheet.pdf
+0 3 0 480274 0 0
+/perch/resources/2015-crews.jpg
+1 1 0 54925 0 0
+/images/2015-2400x800/2015-south-xc-finishers-front.jpg
+1 1 0 137757 0 0
+/pages/runner-info/bib-pick-up.html
+0 97 0 1109311 39 13
+/blog/2015-08-15-2015-races-get-off-to-a-roaring-start
+0 13 0 104408 5 6
+/blog/2014-08-04-pacing-what-flavor-mm-are-you
+0 10 0 85385 3 3
+/blog/2016-04-01-running-to-alaska-tim-johnson
+0 9 0 77100 3 1
+/perch/resources/bonnie-carroll-600.jpg
+1 1 0 38946 0 0
+/images/sponsor-logos-100x100/humpys-100x100.png
+1 313 0 1660465 0 0
+/pages/events/race-week-schedule.html
+0 93 0 1070193 34 19
+/pages/events/expo-exhibitor-list.html
+0 11 0 51260 7 4
+/perch/resources/2015-gregory-thumb@2x.jpg
+1 1 0 14019 0 0
+/apple-touch-icon-precomposed.png
+1 2 0 13036 0 0
+/pages/runner-info/training/apple-touch-icon.png
+1 6 0 0 0 0
+/perch/resources/2017-bartlett-xc.jpg
+1 4 0 139864 0 0
+/perch/resources/bridge-rtside-620.jpg
+1 1 0 57982 0 0
+/blog/2015-08-18-update-on-2015-marathon-results
+0 9 0 76638 4 2
+/perch/core/settings/tasks/
+0 1 0 1657 0 0
+/images/2018-2400x800/2018-marathon-start-4178-2400.jpg
+1 9 0 2712258 0 0
+/perch/resources/spirit-of-spenard-640-thumb@2x.jpg
+1 1 0 16317 0 0
+/images/Smoke-Free-logo-200-web.jpg
+1 192 0 1551936 0 0
+/maps/RunFest_All_Races.pdf
+0 7 0 3337734 0 0
+/docs/2015-BWLR-Race-Guide.pdf
+0 2 0 32628794 0 0
+/perch/resources/i-want-you-speeding-ticket.jpg
+1 1 0 42324 0 0
+/images/sponsors-600/Healthy-Futures-600.jpg
+1 2 0 30176 0 0
+/images/our-partner-logos/Mauibanner.jpg
+1 1 0 6724 0 0
+/images/2017-medals-shirts/Challenge-medal.jpg
+1 156 0 2582112 0 0
+/images/2020-2400x800/2019-mens-mile-start.jpg
+1 8 0 2412280 0 0
+/images/2015-2400x800/2015-marathon-relay.jpg
+1 1 0 153726 0 0
+/docs/expo-docs/2017-RunFest-Exhibitor-Agreement.pdf
+0 4 0 349548 0 0
+/docs/expo-docs/2019-RunFest-Exhibitor-Agreement.pdf
+0 1 0 88063 0 0
+/images/support-logos/gatorade-logo-200.jpg
+1 154 0 745822 0 0
+/docs/expo-docs/2020-RunFest-Exhibitor-Agreement.pdf
+0 4 0 352784 0 0
+/perch/resources/bart-320.jpg
+1 2 0 144866 0 0
+/images/home-page/home-race-photos/ultra3-RRCA-event.jpg
+1 242 0 2551164 0 0
+/images/2015-2400x800/2015-5K-start.jpg
+1 1 0 293995 0 0
+/images/movie/2019-TIM/a-few-steps-further-620.jpg
+1 6 0 129024 0 0
+/pages/runner-info/results.html
+0 120 0 1086510 50 31
+/images/service logos 620px.jpg
+1 8 0 835120 0 0
+/perch/resources/service-logos-620px.jpg
+1 1 0 104390 0 0
+/maps/RunFest_49k.pdf
+0 17 0 6333456 0 0
+/images/2018-2400x800/2018-Expo-comboA-2400.jpg
+1 2 0 623614 0 0
+/images/2018-2400x800/2018-become-a-sponsor.jpg
+1 8 0 2568712 0 0
+/images/sponsor-logos-large/Lynden-200.jpg
+1 10 0 42310 0 0
+/perch/resources/upt-logo.jpg
+1 1 0 48276 0 0
+/perch/resources/rrca-logo600w-thumb@2x.jpg
+1 1 0 17642 0 0
+/images/2020-2400x800/2019-5Ka.jpg
+1 12 0 2251176 0 0
+/images/our-partner-logos/50-States-Half-Marathon-300.jpg
+1 1 0 5371 0 0
+/images/race-committee/2018-tammy.jpg
+1 4 0 34056 0 0
+/perch/resources/2017-army-takes-military-mile-thumb@2x.jpg
+1 1 0 30867 0 0
+/maps-elevations/RunFest Maps_MarathonMap.pdf
+0 6 0 12610884 0 0
+/images/temperature-chart-2019.jpg
+1 9 0 246483 0 0
+/blog/2016-03-03-sevigny-artwork-for-2016-poster-unveiled
+0 9 0 75336 3 3
+/docs/2015-adjusted-marathon-times/BWLR_Boston_Adjusted_one_sheet.pdf
+0 2 0 118678 0 0
+/blog/2015-08-04-original-artwork-for-bwlr-2015-poster-is-for-sale
+0 8 0 69706 2 3
+/perch/addons/apps/perch_blog/edit/
+0 1 0 5698 0 0
+/perch/core/assets/js/static/5.5.23f8a1427c17ade109a3.js
+0 2 0 5364 0 0
+/pages/runner-info/../../images/sponsor-logos-100x100/UPT-round-white-100x100.png
+1 3 0 25233 0 0
+/images/support-logos/Kaladi-Bros-200.jpg
+1 18 0 109566 0 0
+/images/race-committee/2018-howie.jpg
+1 4 0 35828 0 0
+/pages/races/../../jcountdown/jquery.jcountdown.min.js
+0 12 0 33948 0 0
+/images/2015-2400x800/pasta-2400.jpg
+1 2 0 240894 0 0
+/images/support-logos/franzs-bakery-logo-200.jpg
+1 16 0 649696 0 0
+/perch/resources/alaska-airlines-logo.jpg
+1 1 0 20491 0 0
+/pages/about/race-history.html
+0 132 0 1809984 55 19
+/perch/resources/2017-james-miller.jpg
+1 1 0 43625 0 0
+/blog/2013-10-20-online-registration-at-chronotrack-live-will-open-november-1st
+0 11 0 84922 5 4
+/perch/resources/2017-klain-mile-thumb@2x.jpg
+1 1 0 25058 0 0
+/perch/resources/bridge-straighton-620.jpg
+1 1 0 51487 0 0
+/images/vips/Yasso-196x250.jpg
+1 2 0 20658 0 0
+/docs/expo-docs/2016-ARF-Exhibitor-Agreement-Made-in-Alaska.pdf
+0 5 0 3034850 0 0
+/docs/expo-docs/2020-RunFest-Swag-Bag-Application.pdf
+0 2 0 380588 0 0
+/blog/2018-08-16-family-health-and-safety-day-gets-big-boost-from-kids-2k-sponsor
+0 12 0 124078 2 2
+/images/sponsors-600/EasyPark-600.jpg
+1 2 0 17626 0 0
+/images/home-page/home-race-photos/5K-RRCA-event.jpg
+1 4 0 48268 0 0
+/perch/resources/medalsandpatch-6.jpg
+1 5 0 1114995 0 0
+/images/2017-medals-shirts/Marathon-620.jpg
+1 1 0 147766 0 0
+/jcountdown/jcountdown.css
+0 504 0 1004725 0 0
+/images/2020-2400x800/2019-entertainment.jpg
+1 3 0 881232 0 0
+/images/run-for-good-logos/tcl-logo-145.jpg
+1 3 0 12600 0 0
+/images/social-media/twitter-white40.png
+1 320 0 398400 0 0
+/images/2015-2400x800/2015-townsquare-flowers.jpg
+1 2 0 368536 0 0
+/perch/resources/kids-biker-crews.jpg
+1 1 0 49870 0 0
+/images/race-committee/2019-Ann.jpg
+1 4 0 31084 0 0
+/perch/core/editors/markitup/jquery.markitup.js
+0 1 0 6104 0 0
+/blog/2015-07-13-memorial-race-jeff-dusenbury-sweat-fest
+0 10 0 99225 3 3
+/docs/travel-hotel-docs/2021-Anchorage-Runfest-hotel-rates.pdf
+0 3 0 434160 0 0
+/images/home-page/home-race-photos/ultra3.jpg
+1 5 0 37820 0 0
+/images/sponsors-600/CRW-logo-detailed-600.jpg
+1 2 0 37616 0 0
+/images/support-logos/clear-alaskan-glacial-200.jpg
+1 13 0 96616 0 0
+/images/2018-2400x800/2018-registration.jpg
+1 2 0 510090 0 0
+/perch/resources/2016-bib-pick-up-crew-800-thumb@2x.jpg
+1 1 0 15459 0 0
+/images/2018-2400x800/2018-family-health-and-safety-day.jpg
+1 3 0 896541 0 0
+/blog/archive.php
+0 1538 0 13682245 463 391
+/perch/resources/2012-bwlr-5k-afghanistan-620.jpg
+1 2 0 46666 0 0
+/perch/resources/marko-2019-half-start-thumb@2x.jpg
+1 1 0 35772 0 0
+/images/2020-2400x800/2019-spectators-at-marathon-start.jpg
+1 2 0 407980 0 0
+/blog/2016-08-14-whos-running-in-this-years-runfest
+0 13 0 110978 7 6
+/images/mainwrap-wrap-bkrnd.png
+1 287 0 299915 0 0
+/pages/events/pasta-feed.html
+0 68 0 775580 14 13
+/perch/resources/on-pace-logo-600px-thumb@2x.jpg
+1 1 0 10111 0 0
+/pages/runner-info/../../images/sponsor-logos-100x100/CHAP-100x100.png
+1 3 0 8874 0 0
+/perch/resources/healthy-heroes-2014b.jpg
+1 1 0 45742 0 0
+/images/2017-medals-shirts/Half-marathon-620.jpg
+1 3 0 107082 0 0
+/perch/resources/kim-and-david-wooten-620-1-thumb@2x.jpg
+1 1 0 24027 0 0
+/images/sponsors-600/Skinny-Raven-600.jpg
+1 2 0 75436 0 0
+/perch/resources/sharron-speech-triptych-800.jpg
+1 1 0 64802 0 0
+/perch/core/assets/svg/ext.svg
+0 1 0 22059 0 0
+/blog/blog.css
+0 39 0 24323 0 0
+/images/home-page/2018-home-page-half-start.jpg
+1 3 0 1139709 0 0
+/images/our-partner-logos/marathon-maniacs-300.jpg
+1 1 0 5259 0 0
+/images/2018-crew-shirt.jpg
+1 1 0 11322 0 0
+/images/movie/2019-TIM/running-on-empty-620.jpg
+1 6 0 205476 0 0
+/perch/core/assets/svg/burd.svg
+0 2 0 86666 0 0
+/blog/2014-10-30-speeding-ticket-discount
+0 8 0 71518 3 3
+/perch/core/editors/markitup/fonts/fontawesome-webfont.woff2
+0 1 0 56780 0 0
+/perch/resources/fur-rondy-summer-roundup.jpg
+1 1 0 24069 0 0
+/blog/2014-10-13-weve-made-some-changes
+0 11 0 100643 6 3
+/images/sponsors-600/Visit-Anchorage-600.jpg
+1 2 0 14642 0 0
+/images/home-page/2019-homepage-half-marathon1a.jpg
+1 228 0 51463227 0 0
+/images/sponsors-600/Hilton-Logo-600.jpg
+1 2 0 33760 0 0
+/pages/races/back-to-back-challenge.html
+0 78 0 908602 18 11
+/images/2018-2400x800/2018-results-B-2400x800.jpg
+1 2 0 450362 0 0
+/perch/resources/tri-tooth-humpys-1-thumb@2x.jpg
+1 1 0 6242 0 0
+/images/2015-2400x800/2015-happy-5K-couple.jpg
+1 1 0 152173 0 0
+/perch/resources/three-2016-champs.jpg
+1 5 0 104305 0 0
+/images/2019-Marathon-medal-shirt-620.jpg
+1 94 0 1936682 0 0
+/perch/resources/2018-mile-awards-thumb@2x.jpg
+1 1 0 20586 0 0
+/apple-touch-icon-120x120-precomposed.png
+1 5 0 0 0 0
+/images/ARF-logo-120.png
+1 3 0 11715 0 0
+/perch/core/assets/js/static/1.1.23f8a1427c17ade109a3.js
+0 2 0 718 0 0
+/images/home-page/home-race-photos/mile.jpg
+1 2 0 18580 0 0
+/pages/runner-info/entertainment.html
+0 71 0 880988 16 15
+/images/2017-2400x800/2017-run-for-good.jpg
+1 4 0 1328012 0 0
+/images/social-media/youtube-white40.png
+1 318 0 269664 0 0
+/perch/resources/chap-logo145px-thumb@2x.jpg
+1 1 0 8672 0 0
+/pages/sponsors/race-and-event-sponsors.html
+0 75 0 1519590 18 18
+/perch/resources/kim-and-david-wooten-620-2.jpg
+1 3 0 175017 0 0
+/images/sponsors-600/Mendola-600jpg.jpg
+1 2 0 20222 0 0
+/styles/main-nav.css
+0 502 0 1070286 0 0
+/perch/resources/2015-crews-thumb@2x.jpg
+1 1 0 17796 0 0
+/styles/innerpages-new4.css
+0 293 0 1529558 0 0
+/perch/core/settings/email/
+0 1 0 1639 0 0
+/perch/addons/apps/perch_blog/
+0 3 0 8422 0 0
+/images/2018-2400x800/2018-relay614-2259-2400.jpg
+1 1 0 259206 0 0
+/pages/races/49K.html
+0 280 0 2552256 58 38
+/perch/addons/apps/perch_blog/assets/css/blog.css
+0 1 0 457 0 0
+/perch/core/editors/markitup/assets/perchassets.js
+0 1 0 472 0 0
+/pages/runner-info/our-running-partners.html
+0 68 0 699737 16 15
+/blog/2019-04-03-marko-cheseto-interview
+0 15 0 129611 5 4
+/images/sponsors-600/sevigny-logo-600.jpg
+1 2 0 17172 0 0
+/maps-elevations/RunFest Maps_HalfMap.pdf
+0 2 0 4672078 0 0
+/perch/core/assets/js/static/8.8.23f8a1427c17ade109a3.js
+0 2 0 52052 0 0
+/images/2015-2400x800/2015-JeffG-announcing.jpg
+1 4 0 560024 0 0
+/pages/races/apple-touch-icon.png
+1 2 0 0 0 0
+/pages/races/marathon.html
+0 384 0 3333176 125 77
+/maps-2016/2015-Relay-Exchange-Zone-3.pdf
+0 1 0 124565 0 0
+/images/2020-2400x800/2020-scholarship-recipients.jpg
+1 1 0 166196 0 0
+/docs/certifications/Marathon-Cert.pdf
+0 1 0 816593 0 0
+/images/support-logos/Papa-Murphy's-logo-200.jpg
+1 6 0 29574 0 0
+/images/2020-2400x800/2019-marathon-walk.jpg
+1 11 0 1736361 0 0
+/blog/2015-12-09-skinny-raven-half-marathon-deemed-rrca-alaska-state-half-marathon-championship
+0 9 0 77502 6 5
+/perch/core/account/
+0 2 0 3538 0 0
+/docs/2015-adjusted-marathon-times/BWLR_Boston_Adjusted-chip_and_gun_times.pdf
+0 1 0 88970 0 0
+/blog/2015-09-12-embracing-the-cool
+0 13 0 100121 8 7
+/perch/resources/boston-news-header.jpg
+1 1 0 48871 0 0
+/pages/events/expo.html
+0 22 0 142616 16 8
+/perch/resources/2015-healthy-heroes.jpg
+1 2 0 125144 0 0
+/blog/2014-05-31-pacing-what-is-it-and-why-do-it
+0 9 0 82790 4 2
+/blog/2016-11-04-humpys-returns-as-title-sponsor-for-the-runfest-marathon
+0 10 0 86716 4 5
+/perch/core/editors/markitup/css/markitup.min.css
+0 1 0 6591 0 0
+/perch/core/assets/svg/core.svg
+0 2 0 64068 0 0
+/images/chevron-single-white.png
+1 206 0 221862 0 0
+/images/2017-2400x800/2017-entertainment-1.jpg
+1 1 0 220962 0 0
+/blog/1970-01-01-50-states-marathon-club-decision
+0 1 0 5199 1 1
+/blog/2017-04-24-runfest-adds-a-costume-contest-to-the-5k
+0 11 0 88367 6 3
+/styles/innerpages-new3.css
+0 3 0 57501 0 0
+/images/travel-logos-and-images/MarriottLogo.jpg
+1 15 0 67785 0 0
+/blog/2013-11-08-dick-beardsley-to-be-featured-at-the-2014-big-wild-life-runs-events
+0 9 0 76482 4 3
+/images/sun50.jpg
+1 222 0 157842 0 0
+/images/2017-2400x800/2017-49K-ultra.jpg
+1 2 0 338424 0 0
+/images/2017-medals-shirts/49K-620.jpg
+1 1 0 32682 0 0
+/docs/Sleeping-Lady-Challenge.pdf
+0 20 0 4526835 0 0
+/images/2018-2400x800/2018-VolunteersB-2400.jpg
+1 1 0 296179 0 0
+/images/arc-100x56.png
+1 234 0 642798 0 0
+/images/support-logos/great-harvest-bread-logo-200.jpg
+1 13 0 570011 0 0
+/images/hooflister.png
+1 12 0 16464 0 0
+/images/2020-2400x800/2019-media-Jenna.jpg
+1 1 0 157495 0 0
+/images/2015-2400x800/2015-whoosh-error.jpg
+1 25 0 3345425 0 0
+/perch/resources/2015-anchorage-mile-winners.jpg
+1 3 0 109695 0 0
+/pages/runner-info/../../images/sponsor-logos-100x100/skinny-raven-100x100.png
+1 3 0 38880 0 0
+/images/2018-2400x800/2018-our-partners-2400.jpg
+1 1 0 311710 0 0
+/blog/2014-12-24-running-to-alaska-stacy-bolyard
+0 11 0 129672 3 2
+/perch/resources/rrca-champ-medals.jpg
+1 1 0 41226 0 0
+/images/sponsors-600/gatorade-logo-600.jpg
+1 2 0 19384 0 0
+/docs/expo-docs/2020-RunFest-Exhibitor-Info-Sheet.pdf
+0 2 0 479938 0 0
+/images/2020-2400x800/2019-tunnel-silouette.jpg
+1 9 0 1950318 0 0
+/perch/resources/besa-and-timi.jpg
+1 2 0 187364 0 0
+/docs/certifications/Anch-mile-certification.pdf
+0 6 0 3430990 0 0
+/perch/resources/salerno5k-finish-line.jpg
+1 4 0 100544 0 0
+/docs/certifications/Half-Marathon-Cert.pdf
+0 1 0 787176 0 0
+/pages/runner-info/spectators.html
+0 66 0 752350 10 9
+/images/2017-volunteers/2017-Amber-Stull.jpg
+1 1 0 11599 0 0
+/images/travel-logos-and-images/alaskaair147x.jpg
+1 15 0 95895 0 0
+/images/sponsors-600/Alaska-Pediatric-Therapy-600.jpg
+1 2 0 36832 0 0
+/blog/2018-08-14-alaska-an-anniversary-gift-to-parents
+0 16 0 160694 7 5
+/images/support-logos/family-health-and-safety-day-logo-200.jpg
+1 10 0 106140 0 0
+/pages/news-room/media.html
+0 104 0 997016 12 12
+/images/sponsor-logos-large/skinnyraven-logo-145px.png
+1 54 0 1136052 0 0
+/blog/2014-10-28-alaska-airlines-donates-round-trip-travel
+0 10 0 81381 4 2
+/perch/
+0 10 0 7890 2 0
+/images/newsletter-icon.png
+1 230 0 318550 0 0
+/images/2020-2400x800/2019-B2B.jpg
+1 4 0 1188236 0 0
+/images/2017-2400x800/2017-half-marathon.jpg
+1 2 0 957588 0 0
+/blog/post.php
+0 115 0 3091203 115 6
+/perch/resources/lora-davis.jpeg
+1 1 0 228182 0 0
+/pages/races/kids-two-kilometer.html
+0 87 0 1173428 39 25
+/perch/resources/2015-orignal-artwork.jpg
+1 1 0 52315 0 0
+/perch/resources/bolyard-stacy.jpg
+1 2 0 112978 0 0
+/perch/resources/1443650980_ARF-logo-235.jpg
+1 2 0 78816 0 0
+/images/home-page/home-race-photos/marathon-2.jpg
+1 240 0 2412000 0 0
+/images/2020-2400x800/2019-49Kd.jpg
+1 39 0 11614941 0 0
+/perch/resources/bridge-leftside-620.jpg
+1 2 0 159320 0 0
+/docs/2018-Marathon-Relay-Instructions.pdf
+0 3 0 470631 0 0
+/images/sponsors-600/aetna-600.jpg
+1 2 0 14232 0 0
+/perch/resources/2016-bib-pick-up-crew-800.jpg
+1 2 0 88724 0 0
+/perch/resources/rrca-champ-logo-200-1.jpg
+1 2 0 96434 0 0
+/images/2019-5K-medal-shirt-620.jpg
+1 13 0 267579 0 0
+/perch/resources/rw-logo-thumb@2x.jpeg
+1 1 0 17052 0 0
+/perch/resources/kim-and-david-wooten-620-2-thumb@2x.jpg
+1 1 0 24027 0 0
+/perch/resources/teamrwblogo-runners.jpg
+1 2 0 55608 0 0
+/images/travel-logos-and-images/visit-anchorage-147.jpg
+1 15 0 108840 0 0
+/blog/2013-10-20-jeff-galloway-returning-for-5th-year
+0 10 0 79406 4 5
+/perch/core/assets/js/static/4.4.23f8a1427c17ade109a3.js
+0 2 0 3010 0 0
+/blog/2018-08-12-30-miles-for-30-years
+0 24 0 187114 13 7
+/blog/2018-08-19-rrca-state-mile-champions-both-run-511s-air-force-takes-the-military-mile
+0 17 0 184155 7 5
+/perch/resources/tri-tooth-humpys-thumb@2x.jpg
+1 1 0 6242 0 0
+/pages/credits.html
+0 64 0 744536 10 8
+/pages/news-room/vip-guests.html
+0 105 0 1153305 19 11
+/images/sponsor-logos-large/Bear-Tooth-200.jpg
+1 7 0 44905 0 0
+/images/2020-2400x800/2019-race-day-amenities.jpg
+1 13 0 4005430 0 0
+/perch/core/apps/assets/async/asset-filter/
+0 1 0 889 0 0
+/perch/core/assets/js/static/10.10.23f8a1427c17ade109a3.js
+0 2 0 41654 0 0
+/pages/news-room/apple-touch-icon.png
+1 2 0 0 0 0
+/images/sponsors-600/VoyagerInn_logo-600.jpg
+1 1 0 10568 0 0
+/images/sponsors-600/Franz-Bakery-600.jpg
+1 2 0 28818 0 0
+/docs/2015-Sponsorship-Material-2015.pdf
+0 1 0 103645 0 0
+/pages/about/apple-touch-icon.png
+1 2 0 0 0 0
+/images/sponsor-logos-100x100/CHAP-100x100.png
+1 313 0 925854 0 0
+/blog/2019-02-12-marko-cheseto-awarded-rrca-2018-challenged-athlete-of-the-year
+0 16 0 178372 5 6
+/images/home-page/2017-home-page-coastaltrail.jpg
+1 4 0 1225988 0 0
+/blog/2014-01-25-announcing-the-latest-on-our-49k-race
+0 7 0 66020 2 3
+/docs/travel-hotel-docs/2018-Anchorage-RunFest-hotel-rates.pdf
+0 2 0 240837 0 0
+/styles/arf-main9.css
+0 510 0 2243272 0 0
+/perch/resources/mile-air-force-team.jpg
+1 1 0 91745 0 0
+/images/2017-2400x800/2017-family-health-and-safety-day.jpg
+1 1 0 265483 0 0
+/images/home-page/home-race-photos/mile-RRCA-event.jpg
+1 5 0 58595 0 0
+/perch/resources/marko-interview-thumb@2x.jpg
+1 1 0 21044 0 0
+/images/our-partner-logos/run_for_fun_tours_logo-250.jpg
+1 1 0 26292 0 0
+/images/support-logos/humpys-great-alaskan-alehouse-200.jpg
+1 13 0 141726 0 0
+/perch/resources/2016-champs.jpg
+1 3 0 648600 0 0
+/images/2020-2400x800/2019-BGR-miler.jpg
+1 7 0 1168825 0 0
+/docs/certifications/5K-Cert.pdf
+0 5 0 3909035 0 0
+/images/rtsidelinksbkgrnd.jpg
+1 200 0 408600 0 0
+/pages/events/galloway-clinic.html
+0 27 0 313512 12 5
+/images/2018-2400x800/2018-5K-4718-2400.jpg
+1 2 0 392456 0 0
+/images/sponsor-logos-100x100/MPFC-100x100.png
+1 1 0 5808 0 0
+/docs/travel-hotel-docs/2017-Anchorage-RunFest-hotel-rates.pdf
+0 4 0 725358 0 0
+/pages/events/expo-exhibitor-information.html
+0 15 0 87450 9 6
+/blog/2015-08-17-2015-marathon-course-length
+0 9 0 75167 4 3
+/perch/resources/mpfc-640.jpg
+1 3 0 233850 0 0
+/favicon.png
+1 246 0 377364 0 0
+/perch/resources/runners-world-logo-thumb@2x.png
+1 1 0 33291 0 0
+/perch/resources/patty-boyce-story-620.jpg
+1 3 0 142974 0 0
+/images/our-partner-logos/dubrovnik-half-marathon-150.jpg
+1 1 0 5580 0 0
+/maps/RunFest_Half_Marathon.pdf
+0 5 0 2344055 0 0
+/images/2016-2400x800/race-history-header.jpg
+1 1 0 207469 0 0
+/images/our-partner-logos/half-fanatics.jpg
+1 1 0 6216 0 0
+/sitemap.xml
+0 78 0 704496 0 0
+/blog/apple-touch-icon.png
+1 3 0 0 0 0
+/images/sponsors-600/Alaska-Family-Medicine-Residency-600.jpg
+1 2 0 141450 0 0
+/perch/resources/2015-gregory.jpg
+1 1 0 274543 0 0
+/images/2015-2400x800/race-committee-2400.jpg
+1 1 0 151650 0 0
+/blog/2015-02-15-running-to-alaska-besa-alimi
+0 18 0 310014 8 3
+/images/movie/2019-TIM/on-the-corner-620.jpg
+1 6 0 113658 0 0
+/pages/volunteer.html
+0 65 0 780460 15 13
+/images/home-page/home-race-photos/marathon-RRCA-event.jpg
+1 2 0 24852 0 0
+/images/arf-logo-black80.png
+1 9 0 33075 0 0
+/images/social-media/email40.png
+1 321 0 529971 0 0
+/images/vips/Galloway-196x250.jpg
+1 2 0 17756 0 0
+/images/asphaltbkgrnd.jpg
+1 159 0 1471545 0 0
+/blog/2019-11-11-on-pace-movement-pacers-coming-to-anchorage
+0 21 0 255927 8 8
+/images/home-page/chester-creek-2015-mobile.jpg
+1 1 0 80837 0 0
+/blog/wp-admin/
+0 3 0 0 0 0
+/perch/resources/galloway-and-moose-620.jpg
+1 1 0 120198 0 0
+/docs/travel-hotel-docs/2016-Anchorage-RunFest-hotel-rates.pdf
+0 3 0 777522 0 0
+/blog/2015-09-30-announcing-the-anchorage-runfest
+0 10 0 82190 4 4
+/images/2017-2400x800/credits-header.jpg
+1 2 0 884656 0 0
+/images/home-page/chester-creek-2015.jpg
+1 2 0 954110 0 0
+# End Of Table - urls
+# -sites- (monthly)
+157.55.39.236
+0 1 1 6334 1 1607961413
+/pages/races/half-marathon.html
+13.66.139.108
+0 5 3 20397 4 1607331988
+/pages/events/movie.html
+209.17.97.18
+0 1 1 28577 1 1608210403
+/
+66.249.73.155
+0 2 2 276 0 0
+-
+114.119.137.173
+0 1 1 138 0 0
+-
+66.249.73.157
+0 1 1 6710 1 1607602391
+/
+114.119.159.152
+0 1 1 138 0 0
+-
+3.89.132.227
+0 3 3 18906 3 1608125081
+/pages/sponsors/become-a-sponsor.html
+207.237.156.1
+0 6 6 25182 0 0
+-
+47.156.0.173
+0 37 37 422178 1 1608171881
+/
+18.184.195.200
+0 1 1 0 1 1606785484
+/
+142.47.96.16
+0 1 1 28122 1 1607895766
+/blog/post.php
+23.250.2.237
+0 1 1 6710 1 1607610530
+/
+114.119.132.10
+0 1 1 138 0 0
+-
+114.119.136.138
+0 1 1 138 0 0
+-
+40.77.190.253
+0 1 1 5427 0 0
+-
+114.119.158.118
+0 1 1 138 0 0
+-
+114.119.147.129
+0 1 1 138 0 0
+-
+114.119.130.78
+0 1 1 138 0 0
+-
+40.77.188.181
+0 1 1 19231 0 0
+-
+114.119.132.16
+0 1 1 138 0 0
+-
+114.119.154.39
+0 1 1 4771 1 1608273055
+/pages/about/race-director-message.html
+69.126.144.147
+0 6 6 17128 1 1607093665
+/
+36.67.71.67
+0 3 2 57095 1 1607159350
+-
+13.66.139.82
+0 2 2 316628 1 1607800171
+/pages/runner-info/results.html
+104.243.50.101
+0 37 37 422178 1 1607613373
+/
+40.77.188.185
+0 1 1 5427 0 0
+-
+207.46.13.182
+0 6 5 27475 5 1608318047
+/blog/archive.php
+77.88.5.143
+0 6 5 9670 0 0
+-
+13.66.139.110
+0 1 1 6715 1 1607353228
+/pages/races/marathon.html
+77.88.5.144
+0 1 1 207 0 0
+-
+104.196.30.166
+0 10 10 34240 3 1608205494
+/
+13.66.139.88
+0 10 10 103948 7 1606861699
+/pages/races/49K.html
+77.88.5.146
+0 1 1 9032 0 0
+-
+173.252.127.112
+0 1 1 184739 0 0
+-
+208.69.196.2
+0 20 20 1011598 0 0
+-
+13.66.139.114
+0 1 1 5925 1 1606815000
+/pages/news-room/vip-guests.html
+157.55.39.243
+0 1 1 138 0 0
+-
+174.107.192.116
+0 5 5 10418 0 0
+-
+77.88.5.148
+0 2 2 5870 1 1607893476
+/blog/2019-04-03-marko-cheseto-interview
+207.46.13.2
+0 3 2 10985 2 1608143956
+/
+37.120.203.72
+0 6 3 56502 3 1607198731
+/404.html
+216.152.189.231
+0 57 57 736133 2 1607183906
+/
+77.88.5.149
+0 5 4 20337 3 1608301000
+/
+173.236.9.250
+0 37 37 420782 1 1607261737
+/
+207.46.13.3
+0 1 1 5120 1 1606828903
+/pages/runner-info/entertainment.html
+166.137.240.125
+0 89 89 2854242 2 1607683610
+/pages/races/marathon.html
+17.58.102.33
+0 3 3 414 0 0
+-
+75.163.165.161
+0 54 54 1838389 1 1608022233
+/pages/races/marathon.html
+157.55.39.247
+0 4 4 13145 2 1607932638
+/pages/races/marathon.html
+95.217.201.96
+0 1 1 26411 1 1608022124
+/pages/races/half-marathon.html
+207.46.13.6
+0 1 1 138 0 0
+-
+166.137.240.128
+0 29 29 277414 1 1606822454
+/blog/2017-08-19-moe-sets-mile-record-army-takes-the-military-mile-in-record-time
+64.184.81.42
+0 47 47 702731 1 1607542097
+/pages/runner-info/travel-hotel.html
+114.119.159.160
+0 1 1 138 0 0
+-
+173.252.95.6
+0 1 1 229090 0 0
+-
+161.69.123.10
+0 54 54 1838389 1 1608028620
+/pages/races/marathon.html
+173.252.95.8
+0 1 1 225181 0 0
+-
+34.255.183.210
+0 16 16 107614 2 1607308081
+/
+114.119.148.174
+0 1 1 138 0 0
+-
+207.244.124.179
+0 6 3 18143 1 1607586427
+/
+46.32.240.37
+0 1 0 224 1 1607843173
+-
+105.247.148.210
+0 1 1 28122 1 1607870958
+/blog/post.php
+85.112.90.42
+0 1 1 28122 1 1607705739
+/blog/post.php
+114.119.157.4
+0 1 1 138 0 0
+-
+95.217.120.254
+0 5 4 26724 2 1607748324
+/blog/archive.php
+66.249.79.201
+0 9 9 27530 4 1608201622
+/
+203.119.241.109
+0 1 1 6710 1 1608263825
+/
+66.249.79.203
+0 4 4 7124 1 1607920679
+/
+114.119.130.87
+0 1 1 138 0 0
+-
+39.105.40.86
+0 1 1 4605 1 1606822336
+/pages/runner-info/bib-pick-up.html
+73.5.67.124
+0 56 56 1050261 2 1607327917
+/pages/runner-info/bib-pick-up.html
+77.88.5.150
+0 6 6 7538 1 1608090978
+/
+13.66.139.93
+0 63 58 5193382 43 1607646401
+/404.html
+158.69.228.209
+0 4 4 114308 4 1608282023
+/
+209.17.96.122
+0 1 0 0 1 1607431359
+/
+13.66.139.120
+0 4 4 32719 1 1607885136
+/pages/races/the-anchorage-mile.html
+13.66.139.96
+0 2 1 4275 1 1607588329
+/404.html
+70.94.110.167
+0 122 122 3304583 3 1607849218
+/pages/runner-info/travel-hotel.html
+13.66.139.97
+0 1 1 1651 0 0
+-
+77.88.5.154
+0 2 1 6710 1 1607356695
+/
+207.46.13.195
+0 1 1 6710 1 1607277054
+/
+77.88.5.155
+0 9 6 14506 2 1608312491
+/
+13.66.139.122
+0 4 4 22998 4 1607770513
+/pages/races/49K.html
+13.66.139.98
+0 4 2 8550 2 1608312740
+/404.html
+157.55.39.251
+0 1 1 5199 1 1606838800
+/blog/2017-10-12-rrca-announces-2018-national-championship-event-se
+192.71.36.158
+0 5 5 20069 2 1607780768
+/
+94.75.250.83
+0 2 2 12704 2 1608263505
+/pages/races/kids-two-kilometer.html
+13.66.139.123
+0 15 10 52620 7 1608315896
+/blog/archive.php
+207.46.13.197
+0 5 5 11386 2 1608029475
+/blog/archive.php
+77.88.5.157
+0 6 4 24510 2 1607272680
+/
+49.207.205.231
+0 3 2 47411 1 1608274477
+/
+31.13.127.120
+0 1 1 5930 0 0
+-
+207.46.13.198
+0 4 4 6394 1 1607672609
+/pages/events/race-week-schedule.html
+157.55.39.253
+0 1 1 6596 1 1607536018
+/blog/
+157.55.39.254
+0 6 6 35444 5 1607583678
+/pages/races/the-military-mile.html
+207.46.13.199
+0 2 2 12039 2 1607683980
+/pages/races/the-anchorage-mile.html
+192.162.101.84
+0 3 3 85731 2 1607498042
+/
+66.249.73.171
+0 6 6 26460 4 1607674947
+/
+34.74.157.10
+0 29 29 159483 1 1607699571
+/pages/news-room/media.html
+13.66.139.129
+0 37 30 407737 21 1608227790
+/404.html
+66.249.73.173
+0 2 2 739 0 0
+-
+44.229.42.100
+0 1 1 6710 1 1608167740
+/
+54.226.89.193
+0 2 2 12702 2 1607168611
+/blog/rss.php
+118.174.219.88
+0 1 1 28122 1 1607763871
+/blog/post.php
+3.238.122.95
+0 2 2 13420 1 1608159771
+/
+24.191.207.29
+0 80 80 1092332 5 1608200048
+/pages/runner-info/register.html
+68.36.190.112
+0 40 40 433525 1 1607879476
+/
+46.45.185.176
+0 1 1 6710 1 1607838484
+/
+180.97.224.225
+0 1 1 28577 1 1608120904
+/
+174.222.4.61
+0 79 79 1722753 1 1607923608
+/pages/races/marathon.html
+69.178.21.218
+0 7 7 18205 1 1607552566
+/
+209.17.96.130
+0 1 1 28577 1 1607394478
+/
+77.88.5.162
+0 5 3 14075 2 1607568987
+/
+101.51.141.20
+0 2 1 28973 1 1606998624
+-
+82.59.98.196
+0 3 2 47411 1 1607868415
+/
+13.66.139.132
+0 10 5 21375 5 1607584012
+/404.html
+188.166.242.78
+0 2 1 6934 1 1608092974
+/
+13.66.139.135
+0 2 2 9236 2 1607334745
+/pages/races/back-to-back-challenge.html
+140.143.148.79
+0 4 4 26840 4 1608216944
+/
+88.198.36.62
+0 3 3 85472 3 1608172257
+/pages/about/race-history.html
+77.88.5.169
+0 2 2 705896 1 1607175730
+/
+73.158.170.182
+0 37 37 422178 1 1607380847
+/
+66.249.84.170
+0 3 3 904086 0 0
+-
+173.201.196.119
+0 1 0 224 0 0
+-
+51.15.184.118
+0 2 2 57154 2 1607803363
+/
+66.249.84.172
+0 2 2 602724 0 0
+-
+212.102.57.137
+0 3 0 672 2 1607422875
+-
+40.77.202.105
+0 7 7 46648 0 0
+-
+66.249.84.174
+0 2 2 307292 0 0
+-
+107.77.70.48
+0 52 52 1374134 1 1606788020
+/pages/races/marathon.html
+34.82.192.151
+0 2 2 57154 1 1607166992
+/
+62.210.172.215
+0 38 38 933764 1 1606959208
+/pages/credits.html
+43.229.84.224
+0 2 1 18834 1 1607906317
+/404.html
+46.45.185.180
+0 1 1 6710 1 1607390261
+/
+54.162.100.6
+0 2 2 6848 1 1607222567
+/
+114.119.135.126
+0 1 1 5600 1 1608304360
+/pages/about/arc-scholarships.html
+94.16.121.91
+0 1 1 6710 1 1608188435
+/
+42.156.136.29
+0 2 2 4685 0 0
+-
+114.119.146.117
+0 1 1 138 0 0
+-
+116.202.115.219
+0 134 134 10847336 0 0
+-
+112.119.216.19
+0 37 37 422178 1 1607247690
+/
+99.42.112.120
+0 60 60 763665 1 1607978657
+/blog/2020-04-20-anchorage-runfest-cancels-2020-event
+172.58.38.144
+0 38 38 426558 1 1607794150
+/
+34.229.242.2
+0 1 1 6351 1 1608000431
+/blog/rss.php
+67.200.221.218
+0 37 37 422178 1 1607336764
+/
+13.66.139.140
+0 14 9 41876 9 1607512249
+/404.html
+13.66.139.141
+0 4 2 8550 2 1608184942
+/404.html
+40.75.111.121
+0 6 0 1344 1 1607340905
+-
+35.202.145.205
+0 32 4 30339 2 1607708099
+-
+103.115.252.26
+0 3 2 57095 1 1607110769
+-
+13.66.139.144
+0 5 2 8774 3 1606854411
+/404.html
+95.237.37.70
+0 31 31 172723 1 1607497039
+/
+3.235.42.247
+0 1 1 5930 0 0
+-
+34.82.129.74
+0 2 2 0 2 1608189881
+/
+172.219.81.229
+0 52 52 1374023 1 1608204532
+/pages/races/marathon.html
+13.66.139.147
+0 1 0 224 1 1606937745
+-
+13.66.139.148
+0 2 1 4275 1 1608338580
+/404.html
+192.111.137.35
+0 1 1 28122 1 1607858386
+/blog/post.php
+13.66.139.149
+0 6 4 63747 2 1608313660
+/404.html
+34.74.229.138
+0 46 46 238967 4 1607994203
+/
+138.197.160.8
+0 38 37 439478 1 1608129213
+/404.html
+31.13.115.116
+0 1 1 6715 1 1608246781
+/pages/races/marathon.html
+181.64.143.161
+0 37 37 422178 1 1606994097
+/
+185.143.228.226
+0 1 1 4771 1 1608048596
+/pages/about/race-director-message.html
+35.233.141.50
+0 1 1 0 1 1606832839
+/
+114.119.158.151
+0 1 1 138 0 0
+-
+77.120.103.130
+0 1 0 224 0 0
+-
+193.47.240.11
+0 3 2 57095 1 1607021952
+-
+114.119.158.156
+0 1 1 138 0 0
+-
+85.208.98.21
+0 1 1 6710 1 1607332852
+/
+23.101.210.134
+0 1 1 6710 1 1608113265
+/
+95.216.10.178
+0 1 1 6710 1 1607052046
+/
+198.23.197.31
+0 1 1 5600 1 1608251533
+/pages/about/arc-scholarships.html
+114.119.135.139
+0 1 1 138 0 0
+-
+93.158.161.11
+0 1 1 1534 0 0
+-
+35.187.23.223
+0 1 1 6710 1 1608027370
+/
+35.226.62.58
+0 12 12 68059 1 1607603405
+/
+93.158.161.12
+0 3 2 638 0 0
+-
+93.158.161.14
+0 5 4 7555 1 1607741750
+/
+114.119.156.19
+0 124 90 17413264 80 1607853312
+-
+13.66.139.150
+0 13 13 349559 6 1607745922
+/pages/races/marathon.html
+90.168.34.174
+0 3 2 57095 1 1607509312
+-
+13.66.139.151
+0 1 1 6154 1 1606905180
+/pages/runner-info/faq.html
+13.66.139.152
+0 37 33 1119436 18 1608058040
+/404.html
+95.217.225.226
+0 1 1 20246 1 1607260880
+/pages/events/galloway-clinic.html
+17.58.101.235
+0 50 48 1521034 33 1607456378
+/blog/2018-08-12-30-miles-for-30-years
+47.183.17.83
+0 28 28 431148 2 1607549121
+/
+13.66.139.153
+0 1 1 58339 0 0
+-
+17.58.101.236
+0 57 52 2218762 42 1608309569
+/pages/news-room/vip-guests.html
+13.66.139.154
+0 9 8 51564 5 1607809498
+/pages/runner-info/results.html
+93.158.161.18
+0 2 1 4275 1 1608063824
+/404.html
+192.55.208.60
+0 28 28 281854 1 1607951165
+/pages/runner-info/register.html
+13.66.139.156
+0 1 1 7308 1 1606833055
+/pages/about/race-history.html
+199.244.88.132
+0 3 3 20130 3 1607470264
+/
+209.17.97.66
+0 1 1 28577 1 1607845416
+/
+95.67.82.237
+0 2 2 13420 1 1607584716
+/
+17.58.102.76
+0 6 6 828 0 0
+-
+17.58.102.77
+0 6 6 828 0 0
+-
+40.77.189.28
+0 2 2 19899 0 0
+-
+17.58.102.78
+0 1 1 138 0 0
+-
+202.182.118.168
+0 1 1 6710 1 1607093446
+/
+83.103.206.56
+0 1 0 224 1 1606944828
+-
+35.214.170.141
+0 2 1 18834 1 1607566678
+/404.html
+114.119.155.1
+0 1 1 138 0 0
+-
+24.21.64.102
+0 27 27 219230 1 1608309165
+/blog/2014-02-06-running-to-alaska-dustin-morris
+84.199.187.146
+0 46 46 1333325 1 1608277298
+/pages/events/movie.html
+35.160.94.46
+0 1 1 6710 1 1607642027
+/
+46.8.11.61
+0 1 1 6710 1 1607539262
+/
+67.140.128.195
+0 19 19 330030 1 1608142477
+/
+69.163.162.47
+0 2 1 28973 1 1607329259
+-
+93.158.161.22
+0 1 1 207 0 0
+-
+17.58.101.241
+0 6 6 119747 5 1608232525
+/blog/
+59.4.202.142
+0 5 1 4947 1 1607720337
+-
+209.17.96.162
+0 1 1 28577 1 1608213973
+/
+160.153.147.130
+0 1 0 224 0 0
+-
+93.158.161.24
+0 6 6 8309 2 1607859399
+/404.html
+95.217.202.215
+0 1 1 25169 1 1607261140
+/pages/races/kids-two-kilometer.html
+93.158.161.26
+0 5 4 12726 1 1607733147
+/
+91.192.103.44
+0 1 1 6710 1 1608188383
+/
+173.201.196.144
+0 2 1 18834 1 1607840398
+/404.html
+93.158.161.28
+0 3 3 15742 1 1608063835
+/
+13.66.139.164
+0 9 9 63903 5 1606922427
+/
+159.65.24.22
+0 7 7 44497 1 1607889799
+/pages/races/five-kilometer.html
+51.15.198.78
+0 8 8 53545 1 1607994297
+/pages/races/the-anchorage-mile.html
+40.77.167.10
+0 1 1 6710 1 1608190821
+/
+40.77.189.33
+0 1 1 93436 0 0
+-
+209.17.97.74
+0 1 1 28577 1 1607486667
+/
+100.34.190.197
+0 60 60 1404094 1 1607468914
+/pages/races/five-kilometer.html
+50.62.208.183
+0 2 1 18834 1 1607285439
+/404.html
+40.77.189.34
+0 1 1 19231 0 0
+-
+54.160.11.247
+0 3 3 6710 1 1607008997
+/
+40.77.167.13
+0 2 2 251863 1 1607881389
+/
+131.93.13.237
+0 37 37 422178 1 1607183687
+/
+172.58.27.55
+0 1 1 6710 1 1607799064
+/
+40.77.167.19
+0 2 2 441671 1 1607003066
+/blog/archive.php
+54.202.37.22
+0 1 1 6710 1 1608081371
+/
+114.119.158.172
+0 1 1 6334 1 1608193934
+/pages/races/half-marathon.html
+114.119.146.141
+0 1 1 138 0 0
+-
+114.119.145.102
+0 1 1 138 0 0
+-
+66.249.66.89
+0 5 5 18543 3 1607372666
+/
+34.229.98.96
+0 1 1 28577 1 1608204068
+/
+66.249.68.26
+0 2 2 6855 1 1608085502
+/blog/2017-04-07-volunteer-spotlight-our-bib-pick-up-crew
+24.237.84.9
+0 37 37 422178 1 1607300934
+/
+114.119.156.33
+0 121 96 8975991 80 1607880282
+/blog/archive.php
+24.101.44.29
+0 38 38 426447 1 1608162332
+/
+157.245.218.24
+0 1 1 28577 1 1606811892
+/
+84.7.24.244
+0 25 25 1220060 1 1607442665
+/pages/runner-info/race-day.html
+114.119.145.109
+0 1 1 138 0 0
+-
+51.89.204.73
+0 2 1 6934 1 1606935622
+/
+192.71.12.140
+0 5 4 15174 2 1607345164
+/
+68.230.67.234
+0 37 37 1051829 1 1607297370
+/pages/races/marathon.html
+34.219.100.145
+0 1 1 18528 1 1607424925
+/pages/runner-info/future-race-dates.html
+93.158.161.37
+0 9 8 20638 2 1607859416
+/
+40.77.189.41
+0 1 1 14472 0 0
+-
+209.17.97.82
+0 1 1 28577 1 1606840043
+/
+95.217.225.248
+0 1 1 23241 1 1608022516
+/pages/events/race-week-schedule.html
+98.33.204.32
+0 1 1 6710 1 1607294820
+/
+72.169.96.208
+0 35 35 1011311 1 1607074387
+/pages/races/marathon.html
+138.201.36.87
+0 1 0 0 1 1607944711
+/
+54.39.243.186
+0 26 24 546667 2 1607850754
+/pages/races/five-kilometer.html
+152.166.175.236
+0 11 11 57453 1 1607374971
+/blog/archive.php
+40.77.167.23
+0 2 1 6423 2 1607751966
+/pages/events/family-health-and-safety-day.html
+131.221.173.40
+0 4 4 123978 1 1607707316
+/blog/
+166.170.0.95
+0 29 29 277414 1 1607181097
+/blog/2017-08-19-moe-sets-mile-record-army-takes-the-military-mile-in-record-time
+72.21.196.65
+0 7 7 18205 1 1608009554
+/
+40.77.167.27
+0 1 1 6710 1 1607850708
+/
+136.243.17.142
+0 10 10 243774 3 1607859415
+/pages/sitemap.html
+185.114.23.222
+0 1 1 4605 1 1608086434
+/pages/runner-info/bib-pick-up.html
+54.36.148.202
+0 2 2 6848 1 1607369168
+/
+66.249.66.90
+0 5 4 13849 3 1607373981
+-
+94.59.121.126
+0 5 1 4947 1 1607686865
+-
+24.249.199.12
+0 1 1 28122 1 1607767151
+/blog/post.php
+220.181.77.162
+0 107 107 1278758 2 1607898187
+/
+66.249.66.91
+0 6 5 13682 2 1607378961
+/pages/races/half-marathon.html
+173.252.87.111
+0 1 1 4771 1 1608290577
+/pages/about/race-director-message.html
+54.36.148.205
+0 2 2 10655 2 1608116239
+/pages/runner-info/future-race-dates.html
+71.112.190.206
+0 37 37 422178 1 1607047577
+/
+179.96.28.225
+0 2 1 28973 1 1607325687
+-
+136.57.222.134
+0 46 46 696021 1 1607090735
+/pages/runner-info/travel-hotel.html
+18.207.239.127
+0 2 2 11860 0 0
+-
+114.119.145.110
+0 127 95 611687 84 1607882816
+/pages/runner-info/entertainment.html
+54.36.148.208
+0 1 1 5707 1 1606980206
+/blog/archive.php
+35.188.172.154
+0 4 2 37668 2 1607906745
+/404.html
+104.192.108.9
+0 85 85 433005 2 1607239603
+/
+173.252.87.117
+0 1 1 5994 1 1608290616
+/pages/races/kids-two-kilometer.html
+175.24.232.97
+0 3 3 20130 2 1608208807
+/
+114.119.144.63
+0 1 1 138 0 0
+-
+163.172.68.99
+0 4 4 12264 2 1608217938
+/pages/races/kids-two-kilometer.html
+107.6.162.218
+0 3 3 20130 3 1607554442
+/
+85.114.96.154
+0 1 1 28122 1 1607692065
+/blog/post.php
+101.108.198.207
+0 1 1 28122 1 1607852086
+/blog/post.php
+128.204.197.30
+0 1 0 224 1 1607867678
+-
+172.58.145.133
+0 7 7 21397 1 1608048890
+/
+93.158.161.41
+0 1 1 207 0 0
+-
+108.4.238.168
+0 54 54 1838389 1 1607116868
+/pages/races/marathon.html
+114.119.132.89
+0 1 1 138 0 0
+-
+171.251.28.224
+0 2 2 13774 1 1607363164
+/blog/2020-04-20-anchorage-runfest-cancels-2020-event
+95.217.225.253
+0 1 1 20246 1 1608021833
+/pages/events/galloway-clinic.html
+93.158.161.44
+0 2 2 414 0 0
+-
+209.17.97.90
+0 1 1 28577 1 1607070746
+/
+93.158.161.46
+0 6 5 12584 3 1608220320
+/404.html
+93.158.161.47
+0 11 9 31943 5 1608312485
+/404.html
+209.17.96.186
+0 2 2 57154 2 1606869173
+/
+165.225.50.165
+0 7 7 231900 1 1607371052
+/pages/runner-info/results.html
+17.121.205.91
+0 2 2 13425 1 1608148423
+/pages/races/marathon.html
+107.174.54.73
+0 1 1 7308 1 1608248596
+/pages/about/race-history.html
+173.201.196.169
+0 2 1 18834 1 1607285465
+/404.html
+193.112.248.186
+0 2 2 57154 2 1608103537
+/
+110.82.145.170
+0 12 0 0 12 1607537760
+-
+31.13.103.120
+0 1 1 6710 1 1608340214
+/
+178.134.71.138
+0 1 1 28122 1 1607563144
+/blog/post.php
+40.77.189.57
+0 2 2 14759 0 0
+-
+134.122.30.37
+0 2 1 6934 1 1608278143
+/
+54.36.148.210
+0 1 1 9458 1 1607159623
+/pages/sponsors/race-and-event-sponsors.html
+202.103.49.245
+0 32 32 644060 1 1608263939
+/pages/events/movie.html
+54.36.148.213
+0 1 1 138 0 0
+-
+194.36.144.72
+0 1 1 28577 1 1607360388
+/
+54.36.148.216
+0 1 1 138 0 0
+-
+68.175.34.34
+0 54 54 1544943 1 1608147682
+/
+54.36.148.217
+0 1 1 6710 1 1607414785
+/
+54.36.148.218
+0 2 2 14018 2 1607063788
+/
+114.119.156.110
+0 1 1 138 0 0
+-
+54.36.148.219
+0 1 1 138 0 0
+-
+75.71.143.27
+0 55 55 1392988 2 1608318650
+/pages/runner-info/register.html
+136.49.245.211
+0 36 36 1050895 1 1607462393
+/pages/races/marathon.html
+176.108.104.84
+0 6 4 114190 2 1606944418
+-
+66.249.68.45
+0 3 3 6664 1 1607803506
+/blog/2018-08-12-30-miles-for-30-years
+157.49.231.115
+0 3 2 47411 1 1607644314
+/
+73.212.139.251
+0 29 29 336507 1 1607437392
+/pages/runner-info/results.html
+66.249.68.47
+0 7 7 13788 2 1607771483
+/blog/2018-08-12-30-miles-for-30-years
+114.119.157.158
+0 1 1 138 0 0
+-
+66.249.68.49
+0 1 1 686198 0 0
+-
+66.249.66.203
+0 2 1 362 0 0
+-
+192.71.225.127
+0 2 2 10761 2 1608256630
+/
+70.35.200.95
+0 1 1 28577 1 1607303833
+/
+114.119.156.59
+0 1 1 138 0 0
+-
+45.76.39.215
+0 1 1 5623 1 1608336491
+/pages/races/the-anchorage-mile.html
+39.105.56.14
+0 1 1 21019 1 1607133985
+/pages/races/back-to-back-challenge.html
+160.153.147.162
+0 1 0 224 0 0
+-
+93.158.161.56
+0 5 4 17695 2 1607091736
+/
+185.143.231.142
+0 1 1 5044 1 1608251531
+/pages/about/race-committee.html
+93.158.161.59
+0 1 1 207 0 0
+-
+175.158.40.140
+0 3 2 57095 1 1607247830
+-
+173.201.196.176
+0 1 0 224 0 0
+-
+23.227.8.100
+0 2 2 0 1 1607745169
+/pages/races/back-to-back-challenge.html
+172.58.228.106
+0 10 10 228108 1 1608051472
+/pages/events/galloway-clinic.html
+23.227.8.103
+0 2 2 0 1 1607143231
+/pages/races/back-to-back-challenge.html
+52.34.195.117
+0 1 1 28577 1 1607681045
+/
+136.243.222.140
+0 21 21 507867 2 1607870964
+/pages/runner-info/bib-pick-up.html
+54.36.148.220
+0 1 1 138 0 0
+-
+18.236.171.82
+0 1 1 28577 1 1607079625
+/
+54.36.148.223
+0 2 0 448 2 1607983519
+-
+34.77.108.104
+0 1 1 28577 1 1607834438
+/
+54.36.148.225
+0 1 1 6828 1 1606881656
+/blog/archive.php
+222.236.188.146
+0 4 0 896 1 1607740881
+-
+193.56.29.15
+0 2 1 6934 1 1607497383
+/
+51.91.218.19
+0 36 36 420644 1 1607851094
+/
+66.249.68.51
+0 3 3 13522 2 1607340317
+/
+83.209.24.96
+0 1 1 93682 0 0
+-
+34.227.30.166
+0 2 2 6848 1 1608269149
+/
+68.82.147.14
+0 31 31 679673 1 1607330402
+/pages/events/family-health-and-safety-day.html
+114.119.156.60
+0 1 1 138 0 0
+-
+114.119.135.187
+0 1 1 138 0 0
+-
+114.119.156.124
+0 1 1 6906 1 1608272321
+/pages/races/marathon-relay.html
+114.119.144.85
+0 1 1 138 0 0
+-
+45.153.217.150
+0 1 1 28577 1 1607881882
+/
+138.128.4.103
+0 1 1 5600 1 1606947023
+/pages/about/arc-scholarships.html
+43.248.191.54
+0 1 1 28577 1 1607669299
+/
+67.227.38.198
+0 1 1 6710 1 1607876867
+/
+73.109.58.243
+0 1 1 1077 0 0
+-
+35.172.115.29
+0 1 1 6263 1 1608045307
+/blog/rss.php
+173.201.196.182
+0 1 0 224 0 0
+-
+93.158.161.65
+0 3 2 414 0 0
+-
+66.249.66.217
+0 1 0 224 0 0
+-
+107.6.162.34
+0 1 1 6710 1 1607911895
+/
+64.233.172.25
+0 7 7 39177 0 0
+-
+93.158.161.67
+0 1 1 207 0 0
+-
+67.177.58.2
+0 54 54 1841621 1 1607853383
+/pages/races/marathon.html
+216.18.204.208
+0 2 2 276 0 0
+-
+24.237.218.81
+0 43 43 439417 2 1607397682
+/
+118.173.75.70
+0 3 2 57095 1 1606940541
+-
+108.49.23.60
+0 1 1 50393 0 0
+-
+72.21.217.12
+0 1 1 28577 1 1607477800
+/
+64.233.172.27
+0 9 9 890200 0 0
+-
+68.116.249.141
+0 6 6 17128 1 1606814297
+/
+64.233.172.29
+0 7 7 57243 1 1607458458
+/pages/races/marathon.html
+72.21.217.16
+0 1 1 28577 1 1607492510
+/
+40.77.167.55
+0 7 7 62873 3 1608243441
+/pages/sponsors/become-a-sponsor.html
+72.42.147.241
+0 38 38 430047 2 1606933701
+/
+40.77.189.78
+0 1 1 4927 0 0
+-
+54.36.148.230
+0 2 2 5637 1 1607711299
+/pages/runner-info/run-for-good.html
+54.36.148.231
+0 1 1 5830 1 1606977311
+/pages/events/expo-exhibitor-information.html
+195.154.122.7
+0 9 9 57784 2 1607721752
+/pages/credits.html
+54.36.148.233
+0 1 1 138 0 0
+-
+54.36.148.234
+0 3 3 10893 2 1607053770
+/pages/runner-info/entertainment.html
+54.36.148.235
+0 1 1 138 0 0
+-
+201.182.150.98
+0 2 1 4275 1 1607697372
+-
+54.36.148.236
+0 1 1 5447 1 1607082579
+/blog/archive.php
+187.19.169.65
+0 1 0 224 1 1607622365
+-
+54.36.148.237
+0 2 2 12136 2 1607886162
+/
+54.36.148.238
+0 2 2 11507 2 1608052930
+/blog/archive.php
+199.16.157.180
+0 8 8 7124 1 1607092881
+/
+199.16.157.181
+0 11 11 18847 3 1608031375
+/blog/2018-08-14-alaska-an-anniversary-gift-to-parents
+199.16.157.182
+0 2 2 6917 1 1607454851
+/
+132.148.197.208
+0 1 0 224 0 0
+-
+192.36.71.133
+0 2 1 9256 0 0
+-
+178.171.14.144
+0 1 1 5623 1 1607306479
+/pages/races/the-anchorage-mile.html
+199.16.157.183
+0 5 5 13256 1 1607866541
+/blog/2018-08-04-joy-of-the-running-community-convinces-a-volunteer-to-join
+114.119.156.72
+0 1 1 5054 1 1607873098
+/pages/events/race-week-schedule.html
+34.222.180.215
+0 37 36 388827 1 1607042081
+/404.html
+66.249.66.221
+0 1 1 138 0 0
+-
+109.24.229.106
+0 1 1 256590 0 0
+-
+66.249.91.71
+0 1 1 6710 1 1608168635
+/
+24.237.88.12
+0 73 73 842822 2 1608233464
+/
+93.158.161.72
+0 7 5 23314 2 1607528662
+/
+89.132.116.240
+0 1 1 28122 1 1607548505
+/blog/post.php
+93.158.161.73
+0 1 0 0 0 0
+-
+103.16.25.190
+0 1 1 28122 1 1607551777
+/blog/post.php
+64.188.20.121
+0 2 1 6934 1 1606938595
+/
+192.210.192.129
+0 2 1 18834 1 1607017340
+/404.html
+174.204.72.61
+0 5 5 265954 1 1607981551
+/pages/runner-info/register.html
+173.252.111.3
+0 1 1 6710 1 1606994110
+/
+192.71.10.105
+0 7 7 39724 4 1608256629
+/404.html
+173.252.111.5
+0 1 1 113551 0 0
+-
+54.36.148.240
+0 1 1 4409 1 1607622018
+/pages/runner-info/our-running-partners.html
+107.172.99.230
+0 39 39 222698 1 1606806497
+/pages/sponsors/race-and-event-sponsors.html
+54.36.148.241
+0 2 1 362 1 1607333825
+-
+2.47.39.213
+0 1 1 28577 1 1607636698
+/
+191.101.106.48
+0 1 1 6710 1 1607953097
+/
+173.252.111.9
+0 1 1 6715 1 1607555012
+/pages/races/marathon.html
+54.36.148.244
+0 3 3 9734 1 1607567582
+/pages/sponsors/race-and-event-sponsors.html
+54.36.148.245
+0 1 1 6075 1 1607192849
+/pages/sponsors/become-a-sponsor.html
+18.237.63.199
+0 1 1 27473 1 1608270668
+/pages/races/marathon.html
+66.58.197.14
+0 2 2 13774 1 1607912909
+/blog/2020-04-20-anchorage-runfest-cancels-2020-event
+54.36.148.246
+0 1 1 138 0 0
+-
+2.47.39.218
+0 1 1 28577 1 1608151932
+/
+34.200.255.72
+0 3 3 14468 0 0
+-
+54.36.148.247
+0 1 0 224 1 1607910592
+-
+31.13.115.5
+0 1 1 6715 1 1608246781
+/pages/races/marathon.html
+54.36.148.248
+0 2 2 12902 2 1607129325
+/blog/2018-01-05-humpys-marathon-makes-runners-world-2018-marathon-bucket-list
+114.119.145.150
+0 1 1 138 0 0
+-
+40.77.190.78
+0 1 1 12686 0 0
+-
+34.77.119.119
+0 1 1 28577 1 1607210078
+/
+154.21.20.48
+0 1 1 4269 0 0
+-
+114.119.146.195
+0 2 2 11053 2 1608252708
+/
+96.249.241.21
+0 36 36 420755 1 1607343884
+/
+114.119.133.126
+0 1 1 7308 1 1608278067
+/pages/about/race-history.html
+114.119.144.116
+0 1 1 138 0 0
+-
+76.121.102.2
+0 20 20 331564 1 1607682246
+/
+49.156.152.110
+0 5 1 4947 1 1607746101
+-
+185.147.214.81
+0 4 4 26468 1 1608197339
+/blog/2020-04-20-anchorage-runfest-cancels-2020-event
+79.106.162.122
+0 1 1 28122 1 1607588847
+/blog/post.php
+104.227.210.67
+0 1 1 5044 1 1608236706
+/pages/about/race-committee.html
+85.117.235.155
+0 3 2 57095 1 1607012266
+-
+106.75.231.83
+0 1 1 28577 1 1607571087
+/
+75.72.124.165
+0 38 38 426558 1 1607542326
+/
+187.111.214.42
+0 1 1 6710 1 1607693152
+/
+62.216.5.247
+0 1 1 7938 0 0
+-
+1.2.182.121
+0 1 1 28122 1 1607702081
+/blog/post.php
+120.229.26.65
+0 1 1 6710 1 1607410222
+/
+149.0.99.52
+0 52 52 1374134 1 1607834115
+/pages/races/marathon.html
+185.25.35.8
+0 2 2 6803 1 1608307889
+/blog/
+18.209.110.99
+0 1 1 6351 1 1608156224
+/blog/rss.php
+2.47.39.223
+0 1 1 28577 1 1607116536
+/
+114.6.88.238
+0 3 2 57095 1 1607114500
+-
+173.252.111.21
+0 2 1 4275 1 1607585041
+/404.html
+54.36.148.254
+0 1 1 6007 1 1607006612
+/blog/2015-11-17-taps-founder-to-receive-presidential-medal-of-freedom
+173.252.111.22
+0 1 1 6710 1 1607919248
+/
+40.77.190.83
+0 1 1 4927 0 0
+-
+54.36.148.255
+0 1 1 5466 1 1607083480
+/blog/archive.php
+72.42.168.204
+0 37 37 422178 1 1607894111
+/
+174.230.22.251
+0 62 62 982605 1 1608217119
+/pages/races/five-kilometer.html
+178.159.37.104
+0 1 1 28577 1 1606809827
+/
+104.131.97.9
+0 1 1 28577 1 1607293176
+/
+154.21.20.58
+0 37 37 422178 1 1607004768
+/
+114.119.145.163
+0 1 1 138 0 0
+-
+35.243.252.220
+0 33 33 173179 2 1607151801
+/pages/news-room/media.html
+114.119.146.55
+0 1 1 138 0 0
+-
+198.71.236.73
+0 1 1 28577 1 1607640865
+/
+73.164.54.181
+0 59 59 1647492 1 1607621401
+/pages/runner-info/travel-hotel.html
+114.119.136.14
+0 1 1 138 0 0
+-
+34.222.182.44
+0 1 1 1148 0 0
+-
+203.217.241.66
+0 1 1 6710 1 1608150704
+/
+192.71.3.26
+0 5 4 29049 2 1608252738
+/404.html
+200.73.132.95
+0 3 2 57095 1 1607162846
+-
+40.77.167.80
+0 2 1 20861 0 0
+-
+96.127.137.202
+0 1 1 6710 1 1607002651
+/
+13.89.112.113
+0 37 37 576712 1 1607570507
+/pages/races/49K.html
+159.65.210.36
+0 8 8 80865 1 1607207103
+/pages/runner-info/bib-pick-up.html
+103.131.71.100
+0 1 1 6710 1 1608177275
+/
+103.131.71.101
+0 1 1 138 0 0
+-
+196.244.200.143
+0 1 1 28577 1 1608109880
+/
+13.89.112.116
+0 145 145 3727930 4 1608285371
+/pages/races/marathon.html
+103.131.71.103
+0 1 1 138 0 0
+-
+13.89.112.117
+0 183 183 4331374 6 1608269268
+/pages/races/49K.html
+103.131.71.106
+0 1 1 138 0 0
+-
+103.131.71.107
+0 1 1 6710 1 1608265658
+/
+31.134.125.80
+0 4 4 114652 2 1607129273
+/pages/runner-info/register.html
+148.72.232.104
+0 1 0 224 0 0
+-
+31.28.172.16
+0 2 2 0 2 1607645255
+/
+128.90.174.66
+0 2 2 11987 1 1608139785
+/blog/archive.php
+72.42.168.217
+0 1 1 6710 1 1607097759
+/
+160.153.154.11
+0 1 0 224 0 0
+-
+192.185.128.17
+0 2 1 18834 1 1606954672
+/404.html
+35.199.183.196
+0 1 1 0 1 1606893821
+/
+185.206.225.134
+0 4 2 37668 2 1606957516
+/404.html
+114.236.155.124
+0 35 35 197580 1 1607337146
+/pages/about/race-committee.html
+114.119.145.175
+0 1 1 138 0 0
+-
+114.119.151.5
+0 1 1 138 0 0
+-
+45.61.162.195
+0 40 40 229338 1 1607061880
+/pages/sponsors/race-and-event-sponsors.html
+97.74.24.222
+0 3 1 19058 1 1607285517
+/404.html
+114.119.158.43
+0 1 1 138 0 0
+-
+114.119.132.104
+0 1 1 138 0 0
+-
+116.202.237.44
+0 6 6 60867 0 0
+-
+49.12.72.40
+0 2 2 61000 2 1608273969
+/blog/archive.php
+114.119.134.89
+0 1 1 138 0 0
+-
+45.61.160.115
+0 1 1 6710 1 1606864379
+/
+198.71.238.21
+0 2 1 18834 1 1607728938
+/404.html
+216.137.226.214
+0 38 38 423437 1 1607486390
+/
+198.71.238.22
+0 1 0 224 0 0
+-
+114.119.129.233
+0 3 3 20998 3 1608267887
+/pages/sponsors/race-and-event-sponsors.html
+89.64.77.69
+0 35 35 1015599 1 1608296004
+/pages/races/marathon.html
+23.242.67.198
+0 38 38 426558 1 1608161422
+/
+162.241.218.82
+0 30 30 0 14 1608139824
+/
+166.137.136.65
+0 2 2 10086 1 1608231065
+/
+13.89.112.120
+0 38 38 583427 2 1608149932
+/pages/races/49K.html
+3.250.228.55
+0 1 1 138 0 0
+-
+168.119.11.187
+0 1 1 21832 1 1607503866
+/pages/about/race-committee.html
+13.89.112.121
+0 38 38 583228 2 1607623264
+/pages/races/49K.html
+27.115.124.6
+0 22 22 385617 0 0
+-
+45.80.118.228
+0 1 1 6710 1 1607353365
+/
+23.19.98.221
+0 1 1 6710 1 1607607179
+/
+196.247.57.252
+0 42 42 436757 1 1607672677
+/blog/
+195.154.122.207
+0 6 6 17581 1 1607556515
+/pages/races/five-kilometer.html
+108.87.151.9
+0 37 37 422178 1 1607351008
+/
+45.33.105.206
+0 31 3 26288 2 1606973950
+-
+141.101.143.49
+0 1 1 6710 1 1606977468
+/
+160.153.154.21
+0 1 0 224 0 0
+-
+91.170.128.188
+0 13 13 438295 1 1607958290
+/pages/races/49K.html
+54.145.179.95
+0 2 2 12614 2 1607832748
+/blog/rss.php
+114.119.134.91
+0 1 1 138 0 0
+-
+172.56.27.16
+0 23 23 261158 1 1607195269
+/pages/runner-info/future-race-dates.html
+165.231.54.106
+0 1 1 28577 1 1607881882
+/
+24.27.9.7
+0 37 37 422289 1 1607876931
+/
+160.153.154.29
+0 2 1 18834 1 1607728682
+/404.html
+51.158.126.162
+0 8 8 53358 1 1607994325
+/
+114.119.136.32
+0 2 2 13884 2 1608281510
+/pages/credits.html
+185.42.105.4
+0 2 1 18834 1 1607845397
+/404.html
+76.121.21.230
+0 38 38 426558 1 1608209317
+/
+69.180.90.148
+0 37 37 1051829 1 1607290188
+/pages/races/marathon.html
+114.119.148.17
+0 1 1 138 0 0
+-
+38.18.50.60
+0 1 1 6710 1 1607324691
+/
+18.236.138.92
+0 1 1 6710 1 1608246434
+/
+154.117.157.180
+0 2 2 56871 1 1606884797
+/pages/runner-info/register.html
+177.198.82.189
+0 1 1 6710 1 1607889295
+/
+98.24.103.47
+0 36 36 420755 1 1607343979
+/
+13.58.213.103
+0 1 1 28577 1 1607877023
+/
+54.36.149.0
+0 1 1 5427 1 1607411326
+/blog/archive.php
+114.119.145.193
+0 1 1 138 0 0
+-
+54.36.149.7
+0 1 1 6710 1 1607344047
+/
+54.36.149.8
+0 1 1 4583 1 1607766804
+/pages/news-room/media.html
+114.119.133.165
+0 1 1 138 0 0
+-
+45.94.45.98
+0 1 1 6710 1 1606889291
+/
+107.77.109.95
+0 12 12 432632 1 1607129353
+/pages/races/49K.html
+197.216.8.62
+0 3 2 47411 1 1606978494
+/
+149.102.113.6
+0 5 1 4947 1 1607675792
+-
+71.241.238.45
+0 40 40 433525 1 1607457285
+/
+114.119.143.119
+0 1 1 6655 1 1607850143
+/blog/archive.php
+136.58.87.176
+0 32 32 951652 2 1608081950
+/pages/races/49K.html
+24.97.253.246
+0 1 1 138 0 0
+-
+34.78.164.233
+0 412 366 2182045 2 1607575670
+/
+114.119.128.218
+0 1 1 138 0 0
+-
+103.240.34.190
+0 1 1 28122 1 1607558718
+/blog/post.php
+95.217.229.81
+0 1 1 23241 1 1607261473
+/pages/events/race-week-schedule.html
+54.36.149.13
+0 1 1 5513 1 1606958334
+/blog/archive.php
+54.36.149.15
+0 3 3 22878 3 1607952071
+/pages/sponsors/race-and-event-sponsors.html
+3.92.162.53
+0 1 1 6263 1 1607202423
+/blog/rss.php
+95.217.229.84
+0 18 18 316783 1 1608022703
+/pages/runner-info/results.html
+108.61.103.112
+0 1 1 6710 1 1608280012
+/
+193.169.252.66
+0 5 3 83514 1 1607962621
+/blog/archive.php
+54.36.149.19
+0 3 3 414 0 0
+-
+202.0.188.100
+0 10 10 384102 1 1607319805
+/pages/races/the-anchorage-mile.html
+46.4.83.150
+0 1 1 20246 1 1607220076
+/pages/events/galloway-clinic.html
+24.237.97.172
+0 49 49 1708588 1 1607808214
+/pages/races/marathon.html
+114.119.155.150
+0 1 1 138 0 0
+-
+36.84.65.60
+0 4 0 896 1 1607679978
+-
+46.229.173.68
+0 2 2 6922 1 1608326992
+/pages/races/marathon.html
+77.126.72.220
+0 4 0 896 0 0
+-
+24.237.88.71
+0 112 112 1273752 3 1607870167
+/
+45.138.100.191
+0 1 1 6710 1 1606968146
+/
+66.249.64.201
+0 3 2 5846 1 1607302209
+/blog/archive.php
+116.203.92.38
+0 18 0 4032 1 1607740854
+-
+114.119.146.98
+0 1 1 138 0 0
+-
+34.212.162.102
+0 1 1 20122 1 1607063113
+/pages/runner-info/bib-pick-up.html
+76.168.104.251
+0 58 58 987705 1 1606822786
+/
+66.249.64.205
+0 1 1 138 0 0
+-
+71.204.225.177
+0 1 1 343825 0 0
+-
+192.121.146.160
+0 226 218 1291368 1 1607430642
+/blog/archive.php
+103.28.36.185
+0 1 0 224 0 0
+-
+54.36.149.20
+0 1 1 138 0 0
+-
+54.36.149.22
+0 1 1 4660 1 1606962228
+/pages/events/expo-exhibitor-list.html
+204.80.136.140
+0 53 53 1185079 1 1607914215
+/
+54.36.149.23
+0 1 1 6710 1 1607157383
+/
+18.212.157.255
+0 2 2 12614 2 1607992036
+/blog/rss.php
+107.77.100.55
+0 37 37 422289 1 1607876972
+/
+54.36.149.24
+0 1 0 224 1 1607637538
+-
+174.204.84.3
+0 15 15 289507 1 1607366862
+/pages/races/half-marathon.html
+54.36.149.28
+0 2 2 6848 1 1607735468
+/
+54.36.149.29
+0 1 1 5480 1 1607112502
+/blog/archive.php
+31.13.103.18
+0 1 1 184739 0 0
+-
+34.228.156.75
+0 2 2 13420 1 1607004747
+/
+103.131.71.37
+0 2 2 276 0 0
+-
+103.131.71.38
+0 1 1 138 0 0
+-
+103.131.71.39
+0 1 1 138 0 0
+-
+114.119.143.133
+0 1 1 138 0 0
+-
+89.248.171.185
+0 1 1 28577 1 1607350674
+/
+54.88.25.125
+0 1 1 6351 1 1607482932
+/blog/rss.php
+13.229.78.216
+0 3 3 16302 1 1607997796
+/pages/runner-info/results.html
+66.249.64.217
+0 5 3 862 0 0
+-
+98.127.230.157
+0 16 14 533521 2 1607033483
+-
+73.148.65.222
+0 61 61 499496 1 1607775152
+/blog/2020-04-20-anchorage-runfest-cancels-2020-event
+35.197.31.4
+0 1 1 0 1 1606893823
+/
+159.89.90.114
+0 6 3 18143 2 1607545293
+/404.html
+195.154.122.240
+0 9 9 56262 1 1607591337
+/blog/post.php
+45.179.79.249
+0 6 6 31603 1 1607374990
+/blog/archive.php
+54.36.149.33
+0 2 2 10652 2 1608030777
+/
+54.36.149.35
+0 3 3 6986 1 1607577397
+/
+103.131.71.40
+0 1 1 138 0 0
+-
+103.218.26.189
+0 5 1 4947 1 1607733589
+-
+54.36.149.37
+0 3 3 19141 3 1607972817
+/blog/2014-10-13-weve-made-some-changes
+31.13.103.24
+0 1 1 133817 0 0
+-
+1.4.250.154
+0 3 2 57095 1 1607368997
+-
+54.202.39.81
+0 1 1 28577 1 1607508710
+/
+192.71.42.108
+0 7 6 24681 4 1608256628
+/404.html
+162.241.219.173
+0 2 1 18834 1 1607707461
+/404.html
+103.131.71.43
+0 2 2 276 0 0
+-
+54.38.190.109
+0 1 1 28577 1 1606978082
+/
+128.199.221.172
+0 1 1 4605 1 1607063255
+/pages/runner-info/bib-pick-up.html
+24.19.194.21
+0 52 52 1374023 1 1606783386
+/pages/races/marathon.html
+114.119.133.192
+0 2 2 276 0 0
+-
+103.131.71.48
+0 1 1 138 0 0
+-
+192.227.161.46
+0 1 1 4771 1 1608236704
+/pages/about/race-director-message.html
+75.190.226.240
+0 83 83 2353782 1 1606810117
+/pages/sponsors/all-sponsors.html
+23.228.111.66
+0 1 1 28577 1 1607511483
+/
+192.36.70.176
+0 3 3 9308 0 0
+-
+114.119.132.153
+0 1 1 138 0 0
+-
+114.119.158.94
+0 1 1 138 0 0
+-
+114.119.158.97
+0 1 1 138 0 0
+-
+195.123.209.118
+0 2 2 57154 2 1606840114
+/
+114.119.148.56
+0 1 1 138 0 0
+-
+35.233.173.136
+0 1 1 0 1 1608189880
+/
+64.137.83.46
+0 1 1 6710 1 1607919219
+/
+3.16.156.215
+0 1 1 28577 1 1607724563
+/
+66.249.64.229
+0 21 20 76156 11 1608288327
+/
+54.36.149.40
+0 1 1 6710 1 1606888328
+/
+35.233.192.48
+0 1 1 0 1 1606832838
+/
+69.171.251.14
+0 1 1 252761 0 0
+-
+54.36.149.41
+0 1 1 138 0 0
+-
+69.171.251.15
+0 4 3 11123 1 1606881696
+/404.html
+167.71.182.120
+0 3 3 42940 1 1608294557
+/
+54.36.127.22
+0 4 2 13868 2 1608057933
+/
+54.36.149.45
+0 1 1 138 0 0
+-
+174.198.94.11
+0 61 61 1327896 1 1607084635
+/pages/runner-info/race-day.html
+154.16.46.204
+0 1 1 6710 1 1608239627
+/
+54.36.149.46
+0 1 1 5499 1 1608113760
+/pages/runner-info/run-for-good.html
+54.36.149.47
+0 1 1 138 0 0
+-
+174.196.6.230
+0 1 1 6710 1 1607468606
+/
+165.225.57.46
+0 37 37 422178 1 1607074050
+/
+174.244.243.98
+0 38 38 426558 1 1607286828
+/
+103.131.71.52
+0 1 1 138 0 0
+-
+50.62.176.148
+0 1 0 224 0 0
+-
+195.154.123.42
+0 8 8 52914 1 1607757342
+/pages/volunteer.html
+103.131.71.53
+0 2 2 276 0 0
+-
+1.214.196.154
+0 2 2 59755 1 1608110144
+/blog/2020-04-20-anchorage-runfest-cancels-2020-event
+66.58.131.32
+0 96 96 2222151 5 1608297764
+/
+168.151.174.55
+0 1 1 6710 1 1607287842
+/
+173.30.28.48
+0 54 54 1838389 1 1608040192
+/pages/races/marathon.html
+5.183.92.116
+0 5 5 30316 1 1608197333
+/pages/credits.html
+115.248.223.180
+0 1 1 4771 1 1608086399
+/pages/about/race-director-message.html
+193.8.94.208
+0 1 1 6710 1 1608125757
+/
+212.227.174.234
+0 2 1 4275 1 1607280389
+/404.html
+52.91.102.89
+0 5 5 23149 1 1608177102
+/pages/runner-info/faq.html
+51.158.178.50
+0 8 8 53358 1 1607994325
+/
+69.28.34.3
+0 65 65 2780648 1 1607790308
+/pages/runner-info/results.html
+60.31.30.118
+0 1 1 28577 1 1607277242
+/
+17.58.88.142
+0 3 3 20135 2 1608148421
+/pages/races/marathon.html
+114.119.142.112
+0 1 1 138 0 0
+-
+66.249.64.231
+0 18 15 297040 9 1608288527
+/404.html
+3.17.71.162
+0 1 1 23692 1 1607698134
+/pages/races/the-anchorage-mile.html
+52.95.75.6
+0 1 1 28577 1 1607580674
+/
+66.249.64.233
+0 20 17 127688 5 1607285365
+/pages/runner-info/future-race-dates.html
+3.238.244.248
+0 1 1 4269 0 0
+-
+114.119.128.253
+0 1 1 138 0 0
+-
+43.241.146.235
+0 4 0 896 1 1607731204
+-
+46.4.77.27
+0 9 8 50056 1 1607540858
+/blog/
+88.198.90.9
+0 1 1 32924 1 1608139200
+/pages/about/race-history.html
+78.187.12.211
+0 3 2 57550 1 1606888243
+-
+72.42.170.112
+0 9 9 28649 1 1607917239
+/blog/2020-04-20-anchorage-runfest-cancels-2020-event
+114.119.138.206
+0 1 1 138 0 0
+-
+54.36.149.53
+0 2 2 11275 2 1607672473
+/blog/2015-08-19-marathon-maniacs-update
+69.171.251.27
+0 2 2 140527 1 1607464829
+/
+66.220.149.118
+0 2 2 158507 1 1607971120
+/pages/races/half-marathon.html
+54.36.149.55
+0 1 1 138 0 0
+-
+71.241.251.57
+0 38 38 676621 1 1608284359
+/pages/events/race-week-schedule.html
+66.220.149.119
+0 1 1 252761 0 0
+-
+54.36.149.56
+0 2 2 6848 1 1607717116
+/
+54.36.149.57
+0 1 1 4426 1 1608098829
+/pages/credits.html
+75.105.205.247
+0 35 35 1225904 1 1607788104
+/pages/runner-info/results.html
+54.36.149.58
+0 2 1 6934 1 1607466296
+/
+34.243.28.93
+0 1 1 6715 1 1607809975
+/pages/races/marathon.html
+34.75.169.236
+0 25 25 137327 1 1607385366
+/pages/about/arc-scholarships.html
+34.229.129.1
+0 6 6 26803 1 1608150676
+/pages/about/race-committee.html
+45.57.247.46
+0 4 4 98869 1 1606800437
+/blog/archive.php
+173.252.111.119
+0 1 0 224 0 0
+-
+66.181.161.100
+0 1 0 224 1 1607620344
+-
+195.154.123.57
+0 7 7 46648 0 0
+-
+207.246.89.54
+0 1 1 6710 1 1606943560
+/
+40.77.189.215
+0 1 1 93436 0 0
+-
+114.119.132.171
+0 1 1 138 0 0
+-
+173.252.95.111
+0 3 2 257036 1 1608229266
+/404.html
+173.252.95.112
+0 1 1 138 0 0
+-
+192.71.30.89
+0 5 3 10260 2 1608252737
+/404.html
+24.237.72.112
+0 36 36 420644 1 1607298859
+/
+173.54.100.152
+0 2 2 12029 0 0
+-
+78.131.13.36
+0 1 1 28577 1 1607150013
+/
+66.249.64.242
+0 2 1 362 0 0
+-
+144.76.162.206
+0 2 2 56555 2 1608139216
+/pages/about/race-history.html
+114.119.153.113
+0 1 1 138 0 0
+-
+173.252.95.118
+0 2 2 423144 0 0
+-
+94.43.191.27
+0 1 1 28122 1 1607325646
+/blog/post.php
+66.249.64.244
+0 1 1 138 0 0
+-
+5.189.239.157
+0 6 6 189633 1 1607882535
+/blog/2019-11-11-on-pace-movement-pacers-coming-to-anchorage
+34.83.221.39
+0 1 1 0 1 1606893825
+/
+66.249.83.72
+0 16 16 454575 0 0
+-
+66.249.83.74
+0 14 14 242589 0 0
+-
+168.119.101.117
+0 1 1 6075 1 1608251565
+/pages/sponsors/become-a-sponsor.html
+66.249.83.75
+0 16 16 121048 1 1607891080
+/pages/races/half-marathon.html
+69.171.251.34
+0 1 1 252761 0 0
+-
+37.9.13.68
+0 1 1 28577 1 1607076705
+/
+185.100.87.41
+0 42 42 599179 1 1607063990
+/pages/runner-info/register.html
+66.91.201.244
+0 38 38 426558 1 1607684304
+/
+174.136.12.74
+0 2 1 18834 1 1607840641
+/404.html
+54.36.149.63
+0 2 1 6934 2 1608265314
+/
+54.209.158.185
+0 2 2 6848 1 1608136715
+/
+54.36.149.64
+0 1 1 138 0 0
+-
+54.85.120.234
+0 1 1 5623 1 1607033881
+/pages/races/the-anchorage-mile.html
+173.252.111.120
+0 1 1 6710 1 1607038351
+/
+31.13.127.11
+0 2 1 4275 1 1607265590
+/404.html
+54.36.149.66
+0 1 1 138 0 0
+-
+3.228.13.199
+0 1 1 5930 0 0
+-
+117.71.158.43
+0 1 1 6710 1 1607893437
+/
+216.243.245.19
+0 1 1 215387 0 0
+-
+104.144.155.38
+0 1 1 5600 1 1607349107
+/pages/about/arc-scholarships.html
+31.13.127.15
+0 2 1 4275 1 1607663078
+/404.html
+178.128.77.147
+0 33 2 17705 1 1608182607
+-
+24.209.166.248
+0 1 1 6710 1 1606900606
+/
+40.77.167.3
+0 1 1 4343 1 1607122121
+/pages/events/pasta-feed.html
+107.23.225.193
+0 1 1 6351 1 1606855915
+/blog/rss.php
+195.154.123.67
+0 8 8 53358 1 1606888329
+/
+40.124.15.87
+0 6 2 11657 2 1607090564
+-
+40.77.167.4
+0 3 3 1537763 2 1608173967
+/pages/races/five-kilometer.html
+212.156.94.118
+0 1 1 28122 1 1607329218
+/blog/post.php
+51.15.83.217
+0 8 8 53358 1 1607994325
+/
+173.252.95.120
+0 1 1 5930 0 0
+-
+40.77.167.6
+0 1 1 9458 1 1608334003
+/pages/sponsors/race-and-event-sponsors.html
+200.225.223.131
+0 1 0 224 1 1606884806
+-
+40.77.167.9
+0 9 7 38181 6 1607654629
+/blog/archive.php
+45.79.7.119
+0 38 37 439478 1 1608070344
+/404.html
+34.75.13.163
+0 28 28 139416 3 1608302293
+/
+114.119.142.135
+0 1 1 138 0 0
+-
+54.187.171.238
+0 1 1 24561 1 1607418178
+/pages/races/five-kilometer.html
+114.119.130.105
+0 1 1 5677 1 1607870552
+/blog/archive.php
+69.131.174.86
+0 6 6 17128 1 1607721546
+/
+54.36.149.72
+0 1 1 6710 1 1607396992
+/
+114.119.149.215
+0 1 1 138 0 0
+-
+54.36.149.75
+0 1 1 138 0 0
+-
+183.224.87.35
+0 3 3 85731 3 1607858594
+/
+54.36.149.78
+0 3 2 500 1 1607411519
+-
+50.62.176.178
+0 2 1 18834 1 1607840311
+/404.html
+54.36.149.79
+0 2 2 13049 2 1607085573
+/blog/archive.php
+176.240.100.232
+0 3 2 47411 1 1608074447
+/
+195.154.123.75
+0 8 8 53358 1 1607063789
+/
+195.154.123.79
+0 1 1 4618 1 1607570914
+/pages/races/back-to-back-challenge.html
+68.224.199.71
+0 36 36 420644 1 1606809720
+/
+114.119.132.192
+0 1 1 6203 1 1607872204
+/pages/runner-info/race-day.html
+40.77.189.237
+0 1 1 93436 0 0
+-
+66.58.213.126
+0 2 2 57426 0 0
+-
+177.139.130.157
+0 1 1 28122 1 1607769594
+/blog/post.php
+167.71.89.213
+0 1 1 28577 1 1607289517
+/
+18.236.21.177
+0 1 1 6710 1 1607358576
+/
+154.12.162.125
+0 4 4 22723 1 1607633438
+/pages/about/race-committee.html
+3.137.158.70
+0 1 1 28577 1 1607617024
+/
+98.116.70.137
+0 37 37 1055164 1 1607681967
+/pages/races/marathon.html
+209.112.216.185
+0 37 37 422289 1 1607221159
+/
+213.164.204.90
+0 34 34 552698 1 1607704574
+/pages/runner-info/register.html
+66.58.209.218
+0 46 46 1517527 2 1608078580
+/
+137.135.204.204
+0 2 1 6934 1 1607052338
+/
+54.36.149.81
+0 1 1 138 0 0
+-
+54.36.149.82
+0 1 1 4605 1 1607082209
+/pages/runner-info/bib-pick-up.html
+35.243.174.27
+0 33 33 173179 2 1607882612
+/
+166.137.248.89
+0 36 36 396261 1 1607151191
+/pages/races/half-marathon.html
+54.36.149.83
+0 1 1 4771 1 1607738353
+/pages/about/race-director-message.html
+108.69.77.190
+0 104 104 1900199 2 1607429467
+/pages/races/half-marathon.html
+95.217.193.16
+0 1 1 25169 1 1608021883
+/pages/races/kids-two-kilometer.html
+148.66.147.36
+0 1 1 28577 1 1608164725
+/
+54.36.149.86
+0 1 1 138 0 0
+-
+104.196.119.37
+0 3 3 6986 1 1607583462
+/
+103.131.71.91
+0 1 1 138 0 0
+-
+195.154.123.80
+0 6 6 21150 1 1607567583
+/pages/sponsors/race-and-event-sponsors.html
+64.90.48.204
+0 2 1 28973 1 1606827754
+-
+54.36.149.87
+0 3 3 11399 2 1607685827
+/pages/events/movie.html
+131.108.73.254
+0 7 7 273398 1 1608050901
+/pages/runner-info/travel-hotel.html
+51.222.13.156
+0 3 2 57095 1 1607092362
+-
+103.131.71.92
+0 1 1 138 0 0
+-
+103.131.71.94
+0 2 2 6848 1 1607098700
+/
+34.209.214.75
+0 1 1 5623 1 1608296990
+/pages/races/the-anchorage-mile.html
+103.131.71.95
+0 1 1 6710 1 1608118079
+/
+91.203.36.102
+0 2 1 32563 1 1606975562
+-
+103.131.71.96
+0 2 2 276 0 0
+-
+117.198.25.69
+0 11 5 29929 1 1608200787
+-
+54.235.17.83
+0 1 1 6263 1 1607938012
+/blog/rss.php
+91.160.51.56
+0 31 31 172723 1 1607162663
+/
+103.131.71.98
+0 1 1 138 0 0
+-
+103.131.71.99
+0 2 2 276 0 0
+-
+194.48.218.206
+0 2 1 28346 1 1606898794
+-
+173.252.83.111
+0 1 1 4051 1 1608275332
+/404.html
+34.205.84.194
+0 1 1 4269 0 0
+-
+185.220.101.218
+0 1 1 207 0 0
+-
+114.119.131.163
+0 1 1 138 0 0
+-
+185.181.245.68
+0 2 2 57498 1 1607461861
+/pages/runner-info/register.html
+54.165.207.78
+0 1 1 6263 1 1606783889
+/blog/rss.php
+173.252.83.117
+0 1 1 6710 1 1608275332
+/
+89.181.166.233
+0 2 1 4275 1 1607616185
+/404.html
+173.252.83.118
+0 1 1 6710 1 1608275332
+/
+94.200.91.54
+0 5 1 4947 1 1607723435
+-
+44.232.183.245
+0 1 1 1148 0 0
+-
+68.33.51.118
+0 54 54 1838389 1 1607113664
+/pages/races/marathon.html
+96.2.118.195
+0 39 39 1272037 1 1607456515
+/pages/races/marathon.html
+52.60.52.119
+0 10 10 247907 1 1608280935
+/pages/runner-info/results.html
+168.195.229.60
+0 1 1 28122 1 1607628222
+/blog/post.php
+178.128.218.47
+0 1 1 28577 1 1606810792
+/
+35.196.95.178
+0 3 3 13558 1 1608030993
+/
+173.69.155.246
+0 52 52 1374023 1 1607471734
+/pages/races/marathon.html
+54.36.149.92
+0 1 1 5651 1 1607167562
+/pages/races/the-military-mile.html
+191.101.72.50
+0 1 1 7308 1 1608239668
+/pages/about/race-history.html
+18.210.18.133
+0 11 10 45103 2 1607284238
+/pages/runner-info/register.html
+54.36.149.94
+0 3 3 16953 3 1608123405
+/blog/archive.php
+73.9.168.101
+0 50 50 874311 1 1608223994
+/pages/runner-info/travel-hotel.html
+54.36.149.96
+0 1 1 138 0 0
+-
+139.155.248.28
+0 4 2 0 2 1607779103
+-
+54.36.149.97
+0 2 1 362 1 1607680838
+-
+174.82.95.144
+0 56 56 985907 1 1607029074
+/
+54.36.149.99
+0 2 2 6292 1 1608094967
+/pages/runner-info/faq.html
+54.208.135.113
+0 1 1 4269 0 0
+-
+23.153.208.205
+0 6 6 17128 1 1606806017
+/
+170.0.4.113
+0 1 1 6710 1 1607306007
+/
+174.204.14.182
+0 22 22 346782 1 1607248286
+/
+40.77.189.253
+0 1 1 93436 0 0
+-
+183.88.219.206
+0 1 1 28122 1 1607555302
+/blog/post.php
+96.44.144.226
+0 63 63 535726 1 1607987685
+/blog/2020-04-20-anchorage-runfest-cancels-2020-event
+207.46.13.210
+0 40 40 5520 0 0
+-
+108.20.113.223
+0 20 20 307056 1 1607550878
+/pages/races/half-marathon.html
+199.127.56.236
+0 6 6 11495 0 0
+-
+207.46.13.211
+0 4 4 552 0 0
+-
+168.119.55.44
+0 1 1 21019 1 1608106961
+/pages/races/back-to-back-challenge.html
+207.46.13.212
+0 4 4 552 0 0
+-
+17.58.99.180
+0 3 3 414 0 0
+-
+192.71.44.44
+0 4 3 18426 0 0
+-
+207.46.13.213
+0 5 5 690 0 0
+-
+207.46.13.215
+0 5 5 690 0 0
+-
+3.124.1.202
+0 1 1 6710 1 1608053895
+/
+216.238.228.97
+0 16 16 953033 1 1607336848
+/pages/races/marathon.html
+177.136.210.216
+0 1 1 28122 1 1607922188
+/blog/post.php
+207.46.13.217
+0 5 5 240050 4 1608125944
+/pages/runner-info/faq.html
+51.77.128.205
+0 36 36 420644 1 1606864027
+/
+17.58.99.186
+0 1 1 138 0 0
+-
+204.13.201.137
+0 11 9 76982 1 1607413814
+/404.html
+118.24.106.70
+0 2 2 13420 1 1607323866
+/
+52.154.239.35
+0 36 36 1050406 1 1608052991
+/pages/races/marathon.html
+114.119.128.35
+0 1 1 138 0 0
+-
+204.13.201.139
+0 5 3 28477 1 1607059263
+/404.html
+52.154.239.37
+0 37 37 576712 1 1607738725
+/pages/races/49K.html
+203.217.245.66
+0 1 1 6710 1 1607974599
+/
+52.154.239.38
+0 2 2 13226 1 1607071707
+/pages/races/49K.html
+107.152.249.74
+0 1 1 5044 1 1608248600
+/pages/about/race-committee.html
+52.154.239.39
+0 2 2 53464 2 1608128251
+/pages/races/49K.html
+69.171.249.111
+0 1 1 293995 0 0
+-
+96.255.208.240
+0 24 24 1767829 1 1607724121
+/pages/runner-info/results.html
+95.217.122.124
+0 2 1 6112 1 1607553421
+/blog/archive.php
+88.248.23.216
+0 3 2 57095 1 1607098829
+-
+69.171.249.117
+0 2 2 13420 2 1607842012
+/
+114.119.161.89
+0 1 1 138 0 0
+-
+107.133.64.253
+0 9 9 35078 0 0
+-
+79.7.231.169
+0 55 55 1608530 1 1606829250
+/pages/races/marathon.html
+34.236.37.227
+0 1 1 5930 0 0
+-
+71.1.99.100
+0 29 29 179704 1 1607207585
+/blog/2016-08-04-team-rwbs-old-glory-relay-will-run-in-our-49k
+174.198.82.98
+0 26 26 276051 1 1608306781
+/pages/runner-info/register.html
+173.252.127.10
+0 6 3 12825 3 1607689562
+/404.html
+166.137.10.132
+0 3 3 6527 0 0
+-
+168.119.48.222
+0 1 1 26411 1 1608279608
+/pages/races/half-marathon.html
+173.252.127.12
+0 3 3 669248 0 0
+-
+173.252.127.15
+0 1 1 133817 0 0
+-
+207.46.13.222
+0 1 1 138 0 0
+-
+69.161.29.7
+0 31 31 1020941 1 1607724789
+/pages/races/marathon.html
+13.48.194.97
+0 11 11 276926 1 1607458066
+/pages/races/marathon-walk.html
+173.252.127.17
+0 6 6 1093753 1 1607908771
+/
+128.199.141.200
+0 19 1 32609 1 1608083226
+-
+24.237.72.163
+0 116 116 1883294 3 1608337539
+/pages/races/the-military-mile.html
+173.252.127.18
+0 1 1 140006 0 0
+-
+173.252.127.19
+0 2 1 134041 0 0
+-
+38.18.34.175
+0 1 1 5623 1 1607960809
+/pages/races/the-anchorage-mile.html
+52.154.239.41
+0 38 38 1104611 3 1608180560
+/pages/races/marathon.html
+207.46.13.227
+0 4 3 233295 2 1608201835
+/blog/archive.php
+159.89.174.9
+0 1 1 6710 1 1607664952
+/
+172.58.140.110
+0 12 12 245547 1 1607081388
+/pages/runner-info/results.html
+52.154.239.45
+0 43 43 1114741 3 1608155756
+/pages/races/49K.html
+114.119.149.252
+0 1 1 138 0 0
+-
+69.171.249.120
+0 1 1 6710 1 1607317454
+/
+24.237.36.26
+0 65 65 2462596 2 1607896497
+/pages/runner-info/results.html
+68.183.156.35
+0 1 1 28577 1 1608314340
+/
+68.113.100.166
+0 29 29 339842 1 1607009773
+/pages/runner-info/results.html
+69.178.60.208
+0 74 74 844578 2 1607649942
+/
+45.159.179.196
+0 1 1 28577 1 1607532957
+/
+54.145.246.127
+0 1 1 6263 1 1607570886
+/blog/rss.php
+104.192.108.10
+0 4 4 12704 1 1607137323
+/
+85.17.74.161
+0 3 3 20130 3 1608265188
+/
+180.175.137.100
+0 3 3 20130 3 1607704804
+/
+147.78.64.200
+0 1 1 28577 1 1607217692
+/
+209.17.96.2
+0 1 1 28577 1 1607997594
+/
+81.71.147.165
+0 1 1 28577 1 1607637134
+/
+173.252.127.21
+0 5 5 718313 0 0
+-
+46.101.9.216
+0 7 7 44497 1 1607969896
+/pages/races/five-kilometer.html
+148.251.50.77
+0 5 5 186590 4 1608281354
+/blog/post.php
+31.193.51.72
+0 1 1 5889 1 1607512135
+/pages/races/five-kilometer.html
+173.252.127.25
+0 1 1 252761 0 0
+-
+95.217.228.119
+0 18 18 316783 1 1607261605
+/pages/runner-info/results.html
+124.121.20.178
+0 1 1 28122 1 1607830525
+/blog/post.php
+173.252.127.26
+0 2 2 321206 1 1607908990
+/
+173.252.127.27
+0 3 2 138092 1 1607908989
+/404.html
+34.210.21.70
+0 1 1 6710 1 1607516619
+/
+114.119.130.152
+0 1 1 138 0 0
+-
+207.46.13.237
+0 22 22 3036 0 0
+-
+192.121.136.49
+0 156 148 830503 1 1607212551
+/pages/events/galloway-clinic.html
+51.91.96.177
+0 1 1 6710 1 1608064373
+/
+187.32.175.203
+0 3 2 57095 1 1607198439
+-
+73.112.151.236
+0 37 37 422178 1 1608305090
+/
+114.119.138.99
+0 1 1 138 0 0
+-
+110.78.141.127
+0 3 2 57095 1 1607254127
+-
+173.252.87.6
+0 3 3 471945 1 1608058181
+/404.html
+34.73.99.199
+0 31 31 166331 2 1608325243
+/pages/news-room/media.html
+173.252.87.7
+0 1 1 4051 1 1608058181
+/404.html
+114.119.128.58
+0 1 1 138 0 0
+-
+63.152.100.218
+0 28 28 153901 1 1607809528
+/
+66.249.75.33
+0 3 3 4859 1 1607424967
+/pages/news-room/media.html
+184.94.240.92
+0 2 2 57154 1 1606781568
+/
+61.36.136.82
+0 50 50 293547 2 1607779825
+/
+211.176.125.70
+0 2 2 13420 2 1607760887
+/
+114.119.151.63
+0 1 1 138 0 0
+-
+5.34.180.192
+0 1 1 28577 1 1606797120
+/
+23.225.248.242
+0 2 1 18834 1 1608163674
+/404.html
+54.175.7.228
+0 2 2 6848 1 1608272417
+/
+88.255.217.102
+0 3 2 57095 1 1607258933
+-
+188.78.31.223
+0 14 6 36973 1 1606825348
+-
+173.252.127.30
+0 1 1 259206 0 0
+-
+51.235.204.208
+0 2 1 18834 1 1607515243
+/404.html
+173.252.127.31
+0 3 3 197688 2 1608229265
+/
+63.140.98.70
+0 1 1 5930 0 0
+-
+173.252.127.32
+0 4 4 714740 1 1607908991
+/
+192.36.248.249
+0 2 1 6934 1 1607313975
+/
+173.252.127.33
+0 2 2 539472 0 0
+-
+64.57.165.3
+0 40 40 1514601 1 1608106962
+/pages/events/race-week-schedule.html
+45.7.205.103
+0 3 2 57095 1 1607079161
+-
+107.172.15.193
+0 1 1 28577 1 1606825332
+/
+54.196.77.217
+0 2 2 12614 2 1607730478
+/blog/rss.php
+168.119.48.246
+0 3 3 83677 3 1608111946
+/
+173.252.127.35
+0 1 1 5930 0 0
+-
+207.46.13.242
+0 2 2 290646 1 1607627154
+/pages/races/marathon-walk.html
+173.252.127.36
+0 2 1 4275 1 1607523432
+/404.html
+5.157.56.47
+0 1 1 28577 1 1607447154
+/
+108.240.47.145
+0 35 35 391992 1 1607383109
+/pages/races/half-marathon.html
+64.20.204.115
+0 53 53 1831679 1 1608120784
+/pages/races/marathon.html
+209.99.175.7
+0 18 18 1246360 1 1607287522
+/pages/volunteer.html
+207.46.13.246
+0 26 26 3588 0 0
+-
+52.203.84.190
+0 1 1 6263 1 1607043662
+/blog/rss.php
+167.71.99.216
+0 1 1 28577 1 1607300557
+/
+77.88.5.209
+0 5 5 6206 1 1607093467
+/404.html
+207.46.13.249
+0 1 1 207558 0 0
+-
+185.15.56.22
+0 1 1 0 1 1607235461
+/
+175.44.42.59
+0 2 2 40111 1 1608274145
+/
+54.175.233.243
+0 1 1 6263 1 1607306505
+/blog/rss.php
+204.236.248.123
+0 1 1 6351 1 1607844321
+/blog/rss.php
+104.227.204.67
+0 1 1 6710 1 1608248550
+/
+66.249.75.43
+0 18 15 29493 3 1607778957
+/
+5.13.209.156
+0 1 0 224 1 1607624790
+-
+66.249.75.45
+0 14 12 33709 5 1607867739
+/
+34.201.145.243
+0 3 3 13558 1 1607913047
+/
+85.166.11.176
+0 2 2 557437 0 0
+-
+114.119.159.228
+0 2 2 10939 2 1608207762
+/pages/runner-info/spectators.html
+185.229.144.22
+0 4 4 70574 4 1607934325
+/
+134.35.105.219
+0 1 1 28122 1 1607897333
+/blog/post.php
+71.223.63.249
+0 49 49 894312 1 1607910088
+/pages/races/the-military-mile.html
+40.77.191.128
+0 1 1 14472 0 0
+-
+165.22.10.115
+0 1 1 207 0 0
+-
+172.245.64.36
+0 1 1 7308 1 1607349099
+/pages/about/race-history.html
+40.77.191.129
+0 1 1 27473 1 1607019613
+/pages/races/marathon.html
+168.119.48.254
+0 1 1 23582 1 1607865245
+/pages/races/marathon-walk.html
+118.96.134.67
+0 3 2 57095 1 1607437434
+-
+111.194.218.15
+0 1 1 6710 1 1607085654
+/
+143.110.235.163
+0 1 1 28577 1 1607172589
+/
+207.46.13.252
+0 2 2 11419 2 1607660015
+/pages/races/marathon.html
+3.88.46.124
+0 1 1 6351 1 1608053188
+/blog/rss.php
+77.88.5.213
+0 1 1 207 0 0
+-
+162.212.226.252
+0 58 58 1790500 1 1607502308
+/pages/runner-info/race-day.html
+205.169.39.102
+0 27 27 299231 1 1607544525
+/pages/runner-info/bib-pick-up.html
+80.81.154.24
+0 11 11 912481 1 1607922601
+/pages/races/marathon.html
+149.56.173.225
+0 4 2 8550 2 1607403172
+/404.html
+196.244.4.214
+0 1 1 28577 1 1607654918
+/
+77.88.5.218
+0 10 6 21009 4 1608021465
+/
+109.167.134.253
+0 2 1 28973 1 1606970942
+-
+18.206.59.166
+0 1 1 6710 1 1607191899
+/
+3.15.234.63
+0 1 1 23692 1 1607329150
+/pages/races/the-anchorage-mile.html
+158.46.149.178
+0 1 1 6710 1 1607836107
+/
+172.85.211.42
+0 41 41 441350 1 1607018618
+/
+34.105.10.54
+0 1 1 0 1 1608189882
+/
+34.77.26.168
+0 1 1 207 0 0
+-
+66.249.75.57
+0 27 23 61562 9 1607716211
+/
+194.243.47.57
+0 15 7 41024 1 1607422570
+-
+66.220.149.2
+0 2 2 138588 1 1607352224
+/pages/about/race-director-message.html
+114.119.147.205
+0 1 1 4618 1 1608247287
+/pages/races/back-to-back-challenge.html
+40.77.191.132
+0 1 1 5427 0 0
+-
+66.249.75.59
+0 36 32 158572 10 1607713625
+/pages/events/family-health-and-safety-day.html
+65.153.119.222
+0 17 17 324316 1 1607011868
+/
+34.243.251.229
+0 2 2 28784 1 1608247376
+/
+66.220.149.4
+0 1 1 286514 0 0
+-
+40.77.191.134
+0 7 7 106683 0 0
+-
+69.178.68.118
+0 37 37 422289 1 1608343032
+/
+66.220.149.8
+0 1 1 169212 0 0
+-
+107.172.234.67
+0 2 2 12310 1 1608242667
+/pages/about/arc-scholarships.html
+66.220.149.9
+0 2 1 4275 1 1607438057
+/404.html
+174.204.78.66
+0 1 1 1188 0 0
+-
+207.46.13.14
+0 2 2 11481 2 1607125587
+/pages/about/race-director-message.html
+77.88.5.11
+0 3 3 6917 1 1607371014
+/
+173.201.196.30
+0 2 1 18834 1 1607728833
+/404.html
+207.46.13.16
+0 7 7 38250 7 1607048949
+/pages/races/five-kilometer.html
+207.46.13.18
+0 6 5 348740 3 1607442239
+/pages/about/race-history.html
+207.46.13.19
+0 1 1 5054 1 1606908688
+/pages/events/race-week-schedule.html
+118.173.84.206
+0 3 2 57095 1 1606809387
+-
+114.119.152.161
+0 1 1 138 0 0
+-
+77.88.5.228
+0 7 5 14265 2 1608341490
+/
+20.194.56.26
+0 15 15 951845 1 1607303623
+/pages/races/marathon.html
+205.251.233.178
+0 37 37 422178 1 1607513835
+/
+103.73.182.109
+0 1 1 28122 1 1607882882
+/blog/post.php
+175.100.47.144
+0 1 1 28122 1 1606970912
+/blog/post.php
+82.117.88.44
+0 1 1 6710 1 1607836705
+/
+3.87.18.119
+0 1 1 6263 1 1607623349
+/blog/rss.php
+66.249.75.61
+0 24 22 90404 12 1607864346
+/
+87.121.217.181
+0 5 1 4947 1 1607779805
+-
+66.249.75.63
+0 2 1 362 0 0
+-
+3.238.226.4
+0 1 1 4269 0 0
+-
+123.123.219.54
+0 2 2 6848 1 1608263647
+/
+23.241.8.250
+0 1 1 1534 0 0
+-
+40.77.191.141
+0 1 1 12686 0 0
+-
+73.197.106.28
+0 62 62 2354243 1 1606855752
+/pages/runner-info/faq.html
+40.77.191.146
+0 1 1 9332 0 0
+-
+207.46.13.20
+0 4 4 25331 4 1608134389
+/blog/archive.php
+40.77.191.149
+0 7 7 159511 0 0
+-
+69.178.217.156
+0 2 1 18834 1 1607936316
+/404.html
+160.254.108.24
+0 36 36 392926 1 1606986184
+/pages/races/half-marathon.html
+77.88.5.231
+0 1 1 207 0 0
+-
+209.17.96.202
+0 1 1 28577 1 1607741624
+/
+77.88.5.232
+0 4 4 15019 3 1607988975
+/
+174.197.73.17
+0 34 34 379349 0 0
+-
+77.88.5.22
+0 4 4 22659 2 1607741746
+/
+148.251.143.210
+0 1 1 6710 1 1607817107
+/
+207.46.13.27
+0 2 2 11830 2 1607821291
+/
+77.88.5.24
+0 1 1 207 0 0
+-
+167.114.175.39
+0 28 28 2872491 3 1608278932
+/pages/runner-info/our-running-partners.html
+77.88.5.235
+0 4 4 20000 2 1608312474
+/404.html
+77.88.5.26
+0 1 1 6710 1 1608112250
+/
+77.88.5.237
+0 2 2 6917 1 1608112250
+/
+34.75.185.85
+0 6 6 31817 1 1607068525
+/pages/races/the-military-mile.html
+77.88.5.29
+0 6 5 265490 3 1607528662
+/
+47.184.203.41
+0 7 7 19484 1 1608115881
+/pages/races/marathon.html
+173.197.89.164
+0 52 52 1374023 1 1607114680
+/pages/races/marathon.html
+110.138.199.159
+0 3 2 57095 1 1606960902
+-
+54.200.86.57
+0 1 0 0 1 1607325341
+/
+114.119.159.254
+0 1 1 138 0 0
+-
+114.119.147.2
+0 1 1 138 0 0
+-
+18.209.28.206
+0 2 2 12614 2 1607742505
+/blog/rss.php
+89.201.195.179
+0 1 1 28122 1 1607863710
+/blog/post.php
+66.223.215.194
+0 41 41 440235 2 1606856298
+/
+96.241.128.233
+0 144 144 3382516 4 1608048901
+/pages/races/marathon.html
+47.75.186.231
+0 3 2 57095 1 1606897727
+-
+187.93.145.83
+0 1 0 224 1 1607440984
+-
+40.77.191.153
+0 1 1 4927 0 0
+-
+114.119.136.238
+0 1 1 138 0 0
+-
+173.252.83.20
+0 2 2 8102 1 1608275332
+/404.html
+77.35.115.180
+0 2 2 59755 1 1608086171
+/blog/2020-04-20-anchorage-runfest-cancels-2020-event
+207.46.13.30
+0 7 7 560140 5 1607928601
+/pages/races/half-marathon.html
+173.252.83.23
+0 5 5 28232 1 1608275332
+/
+207.46.13.32
+0 3 2 195286 1 1607318791
+/pages/volunteer.html
+173.252.83.24
+0 1 1 6710 1 1608275332
+/
+37.9.40.59
+0 2 2 56966 1 1607862738
+/blog/2015-02-15-running-to-alaska-besa-alimi
+71.40.80.242
+0 7 7 18316 1 1608290586
+/
+73.245.89.217
+0 50 50 2185362 2 1607194827
+/pages/runner-info/results.html
+73.13.111.13
+0 44 44 2707954 2 1608201362
+/pages/races/marathon.html
+77.88.5.33
+0 6 5 14041 2 1608287735
+/
+178.63.51.106
+0 3 3 83499 3 1608281354
+/blog/2014-02-06-running-to-alaska-dustin-morris
+77.88.5.245
+0 8 5 21216 3 1607364996
+/
+77.88.5.246
+0 1 1 6710 1 1607171015
+/
+185.191.204.9
+0 1 1 6710 1 1607449375
+/
+157.55.39.100
+0 5 5 265289 4 1607324207
+/blog/archive.php
+181.78.8.42
+0 1 1 28122 1 1607915954
+/blog/post.php
+157.55.39.101
+0 2 2 12274 2 1607937143
+/
+73.25.241.28
+0 105 105 2579121 2 1607939735
+/pages/races/marathon.html
+77.88.5.249
+0 2 2 414 0 0
+-
+77.88.5.38
+0 1 1 6710 1 1607025561
+/
+160.116.240.14
+0 1 1 5600 1 1607527166
+/pages/about/arc-scholarships.html
+47.4.60.195
+0 36 36 392926 1 1607848597
+/pages/races/half-marathon.html
+77.88.5.39
+0 10 9 25026 4 1607952451
+/
+160.116.240.17
+0 1 1 4771 1 1607633437
+/pages/about/race-director-message.html
+180.211.191.94
+0 3 2 57095 1 1606894171
+-
+34.69.77.200
+0 7 7 18205 1 1608300506
+/
+192.162.102.26
+0 9 9 259794 3 1607951074
+/
+157.55.39.109
+0 2 2 5651 1 1607527345
+/blog/archive.php
+31.204.152.195
+0 1 1 5889 1 1607422510
+/pages/races/five-kilometer.html
+35.196.150.168
+0 29 29 159483 1 1607072034
+/pages/news-room/media.html
+118.24.4.5
+0 6 2 19058 1 1607662991
+-
+103.126.149.198
+0 4 0 896 1 1607735933
+-
+23.95.235.17
+0 1 1 4771 1 1608242662
+/pages/about/race-director-message.html
+154.16.0.230
+0 1 1 4605 1 1607063712
+/pages/runner-info/bib-pick-up.html
+174.53.212.168
+0 36 36 722263 1 1607471588
+/pages/runner-info/results.html
+107.2.208.68
+0 35 35 1049361 1 1607270146
+/pages/races/marathon.html
+66.249.65.43
+0 2 2 556427 0 0
+-
+62.112.194.218
+0 1 0 224 0 0
+-
+47.149.47.199
+0 2 2 6330 1 1608006169
+/blog/2018-01-05-humpys-marathon-makes-runners-world-2018-marathon-bucket-list
+35.184.176.76
+0 6 6 17128 1 1607573318
+/
+67.164.147.253
+0 37 37 404667 1 1606917867
+/
+114.119.135.204
+0 1 1 5499 1 1608271335
+/pages/runner-info/run-for-good.html
+116.202.237.215
+0 80 80 454943 1 1607748699
+/blog/archive.php
+114.119.153.53
+0 1 1 138 0 0
+-
+35.196.157.247
+0 20 20 107391 1 1607445330
+/pages/races/five-kilometer.html
+114.119.141.76
+0 1 1 138 0 0
+-
+116.202.237.218
+0 82 81 463659 1 1607532175
+/blog/archive.php
+219.140.115.24
+0 13 13 53358 5 1606923756
+/
+38.18.46.14
+0 1 1 6710 1 1607428615
+/
+173.252.95.11
+0 1 1 140006 0 0
+-
+45.179.169.126
+0 4 0 896 1 1607689893
+-
+207.46.13.43
+0 4 4 21978 4 1608120271
+/pages/races/the-anchorage-mile.html
+173.252.95.13
+0 1 1 169212 0 0
+-
+45.121.107.159
+0 1 1 6710 1 1608217643
+/
+18.217.84.32
+0 11 11 56967 1 1608223324
+/pages/about/race-director-message.html
+70.32.68.14
+0 2 1 18834 1 1607173450
+/404.html
+173.252.95.14
+0 1 1 133817 0 0
+-
+205.169.39.54
+0 27 27 299231 1 1607082114
+/pages/runner-info/bib-pick-up.html
+77.88.5.252
+0 1 1 207 0 0
+-
+77.88.5.41
+0 1 1 6710 1 1607170891
+/
+207.46.13.46
+0 4 4 70207 1 1607818684
+/blog/archive.php
+77.88.5.42
+0 6 6 27253 4 1608112251
+/
+205.169.39.57
+0 33 33 391164 1 1607417662
+/pages/races/five-kilometer.html
+89.46.105.133
+0 2 1 18834 1 1607813252
+/404.html
+174.204.81.239
+0 20 20 331218 1 1607089016
+/
+174.234.3.189
+0 37 37 419848 0 0
+-
+111.206.198.140
+0 1 1 1839 0 0
+-
+160.116.240.24
+0 1 1 6710 1 1607513375
+/
+157.55.39.113
+0 11 10 333614 7 1607868805
+/blog/archive.php
+185.253.218.243
+0 2 2 13420 2 1607999137
+/
+192.227.153.8
+0 1 1 5044 1 1608239673
+/pages/about/race-committee.html
+157.55.39.114
+0 1 1 6154 1 1607430095
+/pages/runner-info/faq.html
+72.42.174.69
+0 88 88 1794667 2 1607719040
+/pages/races/marathon.html
+157.55.39.115
+0 6 4 23059 4 1607805653
+/blog/archive.php
+157.55.39.116
+0 1 1 6334 1 1606977846
+/pages/races/half-marathon.html
+17.58.85.159
+0 2 2 13425 1 1608148442
+/pages/races/marathon.html
+74.125.210.10
+0 3 3 378470 2 1608209183
+/
+40.77.191.170
+0 1 1 19231 0 0
+-
+79.70.0.57
+0 57 57 1394324 1 1606980536
+/pages/races/49K.html
+74.125.210.12
+0 1 1 6334 1 1607891081
+/pages/races/half-marathon.html
+63.140.109.121
+0 19 19 843769 1 1607624005
+/pages/runner-info/spectators.html
+140.32.111.76
+0 74 74 6054602 0 0
+-
+74.125.210.14
+0 1 1 6715 1 1607458460
+/pages/races/marathon.html
+114.119.131.42
+0 1 1 138 0 0
+-
+116.202.237.228
+0 1 1 181138 0 0
+-
+40.77.190.132
+0 1 1 10937 0 0
+-
+40.77.190.133
+0 7 7 159511 0 0
+-
+173.252.95.20
+0 1 1 252761 0 0
+-
+207.46.13.52
+0 1 1 6440 1 1607622910
+/pages/events/movie.html
+168.151.244.182
+0 1 1 6710 1 1607983364
+/
+77.88.5.50
+0 1 1 6710 1 1606944755
+/
+77.88.5.51
+0 6 5 21953 4 1608065345
+/404.html
+173.252.95.26
+0 2 2 11860 0 0
+-
+173.252.95.27
+0 1 1 229090 0 0
+-
+209.17.96.50
+0 1 1 28577 1 1607070511
+/
+103.73.182.145
+0 3 2 57095 1 1606799931
+-
+173.236.224.16
+0 3 1 19058 1 1607952520
+-
+40.77.188.13
+0 1 1 14472 0 0
+-
+77.88.5.57
+0 2 1 6710 1 1607025562
+/
+116.179.32.77
+0 1 1 6710 1 1607926848
+/
+40.66.32.120
+0 12 0 2738 1 1607197485
+-
+191.101.72.121
+0 1 1 0 1 1607504491
+/
+54.82.154.95
+0 2 2 12526 2 1608247794
+/blog/rss.php
+64.53.151.86
+0 6 6 17128 1 1608127762
+/
+119.45.152.29
+0 2 0 0 1 1607220854
+-
+46.185.119.20
+0 1 1 28577 1 1606834016
+/
+209.17.96.58
+0 1 1 28577 1 1607149693
+/
+24.201.222.74
+0 29 29 443463 1 1607125862
+/pages/sponsors/become-a-sponsor.html
+129.226.49.27
+0 2 2 57154 2 1607649012
+/
+3.137.169.241
+0 1 1 28577 1 1607047456
+/
+54.213.22.74
+0 1 1 5223 1 1607898374
+/blog/archive.php
+95.32.21.129
+0 44 2 23692 1 1607660857
+-
+116.58.237.4
+0 15 7 41024 1 1607019955
+-
+47.132.65.120
+0 37 37 422178 1 1607886624
+/
+66.249.69.132
+0 29 26 706463 14 1608312295
+/pages/about/arc-scholarships.html
+67.212.167.242
+0 74 74 841564 2 1607209650
+/
+66.249.69.134
+0 16 14 60156 9 1608318496
+/404.html
+193.42.110.206
+0 1 1 77950 0 0
+-
+218.17.105.24
+0 1 1 28122 1 1607888448
+/blog/post.php
+172.58.27.251
+0 37 37 422289 1 1606864974
+/
+66.249.69.136
+0 32 30 541627 11 1608323306
+/
+64.71.131.244
+0 41 40 606694 13 1608258766
+/
+3.90.236.84
+0 1 1 6351 1 1607945772
+/blog/rss.php
+34.244.219.230
+0 9 9 215924 1 1608260546
+/pages/about/race-history.html
+85.233.150.58
+0 18 2 40804 2 1608273014
+-
+98.209.144.166
+0 37 37 419848 0 0
+-
+118.71.120.102
+0 1 1 28122 1 1607633259
+/blog/post.php
+207.46.13.69
+0 3 2 10919 2 1608290176
+/blog/
+173.252.127.1
+0 4 4 679311 1 1607618572
+/pages/races/49K.html
+17.58.90.27
+0 2 2 13420 2 1607529306
+/
+75.42.60.196
+0 36 36 420755 1 1607010530
+/
+173.252.127.3
+0 1 1 133817 0 0
+-
+173.252.127.4
+0 2 2 569582 0 0
+-
+173.252.107.29
+0 1 1 6710 1 1608267876
+/
+194.213.43.166
+0 1 1 28122 1 1607018688
+/blog/post.php
+173.252.127.6
+0 3 3 411580 1 1608271575
+/
+40.77.188.28
+0 1 1 9332 0 0
+-
+1.10.186.167
+0 1 1 28122 1 1607997968
+/blog/post.php
+173.252.83.5
+0 1 1 6710 1 1608275332
+/
+14.192.216.190
+0 3 2 47411 1 1607047366
+/
+114.119.146.220
+0 1 1 138 0 0
+-
+74.128.171.84
+0 51 51 715120 1 1607367650
+/pages/races/half-marathon.html
+114.119.146.223
+0 1 1 138 0 0
+-
+54.82.223.191
+0 3 3 18877 3 1608197502
+/blog/rss.php
+34.71.130.39
+0 10 10 61550 1 1607696105
+/pages/races/the-anchorage-mile.html
+89.76.56.217
+0 1 1 28577 1 1608194706
+/
+136.56.5.35
+0 52 52 1374023 1 1607596895
+/pages/races/marathon.html
+207.46.13.71
+0 1 1 5495 1 1607137563
+/blog/archive.php
+148.251.121.91
+0 2 2 28784 1 1607848277
+/
+51.222.43.122
+0 13 12 270927 1 1606863841
+/pages/races/back-to-back-challenge.html
+172.58.86.128
+0 53 53 1378403 1 1607209094
+/pages/races/marathon.html
+207.46.13.73
+0 6 6 494011 4 1607524136
+/pages/runner-info/race-day.html
+209.17.96.250
+0 2 2 57154 2 1607417331
+/
+54.151.7.208
+0 12 11 47900 3 1608235628
+/pages/runner-info/register.html
+77.88.5.72
+0 2 1 207 0 0
+-
+192.71.23.211
+0 9 7 36259 3 1608269955
+/404.html
+108.74.186.40
+0 13 13 1075151 1 1607977659
+/pages/races/marathon.html
+40.71.1.6
+0 4 2 13868 1 1607128000
+/
+114.119.140.190
+0 1 1 138 0 0
+-
+209.193.11.178
+0 21 21 332152 1 1607906041
+/
+179.83.31.69
+0 1 1 6710 1 1607643095
+/
+157.55.39.143
+0 4 4 25445 4 1607533634
+/blog/archive.php
+157.55.39.144
+0 4 2 11214 2 1607136113
+/404.html
+64.18.246.162
+0 9 9 36872 1 1607760992
+/
+66.58.156.236
+0 36 36 415468 0 0
+-
+199.249.161.4
+0 28 28 274840 1 1606836966
+/pages/about/race-history.html
+68.66.216.16
+0 2 1 18834 1 1607859460
+/404.html
+54.219.232.13
+0 2050 1739 14191966 19 1608259860
+/pages/races/the-anchorage-mile.html
+75.104.50.196
+0 51 51 1218391 1 1607198581
+/pages/races/five-kilometer.html
+73.60.40.203
+0 51 51 715231 1 1608196894
+/pages/races/half-marathon.html
+178.148.245.127
+0 1 1 20122 1 1607143585
+/pages/runner-info/bib-pick-up.html
+69.178.52.85
+0 8 8 38499 1 1607827695
+/
+114.119.143.50
+0 1 1 138 0 0
+-
+66.249.69.156
+0 5 4 20492 2 1608197818
+/
+66.249.69.157
+0 6 5 14058 1 1608151256
+/
+35.153.80.35
+0 1 1 6263 1 1606835391
+/blog/rss.php
+66.249.69.158
+0 2 2 6848 1 1608197832
+/
+69.178.67.148
+0 74 74 842026 1 1608217928
+/
+184.88.76.199
+0 30 30 169765 1 1608235070
+/
+207.46.13.83
+0 10 9 677605 5 1608156575
+/404.html
+77.88.5.80
+0 1 1 0 0 0
+-
+173.252.107.40
+0 1 1 6710 1 1608267876
+/
+54.224.247.147
+0 1 1 7308 1 1607638028
+/pages/about/race-history.html
+114.119.133.17
+0 1 1 4343 1 1607842158
+/pages/events/pasta-feed.html
+207.46.13.87
+0 1 1 5889 1 1607403631
+/pages/races/five-kilometer.html
+203.77.240.76
+0 1 1 28122 1 1607565523
+/blog/post.php
+40.77.188.40
+0 1 1 93436 0 0
+-
+77.88.5.85
+0 4 3 4482 1 1607637369
+/404.html
+3.87.120.48
+0 1 1 6351 1 1608207034
+/blog/rss.php
+73.63.182.219
+0 33 33 1749140 1 1607870186
+/pages/sponsors/become-a-sponsor.html
+40.77.188.44
+0 1 1 12686 0 0
+-
+157.55.39.153
+0 21 16 2790150 11 1607363159
+/pages/volunteer.html
+3.239.39.178
+0 1 1 28577 1 1607081890
+/
+157.55.39.156
+0 1 1 6189 1 1608081437
+/blog/2016-08-22-race-records-fall-at-2016-runfest
+146.151.204.234
+0 5 5 850117 1 1607698078
+/pages/races/marathon.html
+45.55.207.227
+0 30 29 275401 1 1607669169
+/pages/runner-info/bib-pick-up.html
+95.217.202.99
+0 2 2 207 1 1607023805
+/
+85.208.22.182
+0 1 1 6710 1 1607483377
+/
+190.216.147.229
+0 1 0 224 0 0
+-
+172.13.174.196
+0 44 44 1545698 1 1607813612
+/pages/events/race-week-schedule.html
+137.116.116.251
+0 1 0 224 1 1608333302
+-
+54.245.196.72
+0 1 1 5623 1 1608297052
+/pages/races/the-anchorage-mile.html
+93.104.208.37
+0 10 2 9894 2 1607743592
+-
+120.29.97.175
+0 44 44 765657 1 1607729515
+/pages/sponsors/become-a-sponsor.html
+66.249.79.12
+0 6 6 44823 1 1607922516
+/blog/2015-07-13-memorial-race-jeff-dusenbury-sweat-fest
+66.249.79.14
+0 4 4 50201 0 0
+-
+40.77.190.173
+0 1 1 9332 0 0
+-
+66.249.79.16
+0 5 5 17707 3 1608149745
+/blog/2017-04-24-runfest-adds-a-costume-contest-to-the-5k
+47.210.117.182
+0 4 4 225252 1 1606860796
+/pages/runner-info/results.html
+66.249.69.169
+0 6 4 20716 2 1607993014
+/
+207.46.13.92
+0 3 2 10609 2 1607755837
+/pages/races/half-marathon.html
+40.77.190.177
+0 7 7 159511 0 0
+-
+114.119.143.68
+0 1 1 138 0 0
+-
+102.37.9.245
+0 13 2 13225 1 1608171506
+-
+173.254.222.170
+0 2 2 57326 1 1607244235
+/pages/runner-info/register.html
+180.97.224.126
+0 1 1 28577 1 1606850883
+/
+40.77.190.179
+0 1 1 14472 0 0
+-
+45.153.217.223
+0 1 1 28577 1 1607703597
+/
+207.46.13.96
+0 2 2 109308 1 1608024687
+/blog/2019-04-03-marko-cheseto-interview
+2.58.12.188
+0 1 1 28577 1 1607984843
+/
+168.119.69.91
+0 5 5 120078 5 1607926720
+/pages/about/race-committee.html
+209.17.96.90
+0 2 2 57154 2 1608194443
+/
+117.50.101.161
+0 2 2 24561 1 1607583283
+/pages/races/five-kilometer.html
+40.77.188.50
+0 1 1 27473 1 1607104236
+/pages/races/marathon.html
+77.88.5.94
+0 2 2 6917 1 1607348557
+/
+77.88.5.95
+0 6 6 828 0 0
+-
+157.55.39.160
+0 9 7 20953 4 1607099619
+/404.html
+107.192.44.69
+0 37 37 422289 1 1607938082
+/
+77.88.5.97
+0 3 2 13420 2 1607679379
+/
+40.77.188.54
+0 1 1 12686 0 0
+-
+157.55.39.165
+0 1 1 6334 1 1606890903
+/pages/races/half-marathon.html
+209.17.96.98
+0 1 1 28577 1 1608188386
+/
+111.67.28.15
+0 1 0 224 1 1607813956
+-
+157.55.39.166
+0 9 7 38671 6 1607307218
+/blog/archive.php
+201.46.19.188
+0 2 2 13420 2 1607757227
+/
+51.15.183.217
+0 2 2 57154 2 1607489831
+/
+54.36.149.101
+0 4 3 638 1 1607231147
+-
+54.36.149.103
+0 1 1 138 0 0
+-
+40.85.161.87
+0 2 1 6934 1 1607721869
+/
+54.36.149.104
+0 1 1 138 0 0
+-
+35.185.42.63
+0 1 1 10568 0 0
+-
+172.58.172.161
+0 13 13 264058 1 1608221161
+/pages/races/half-marathon.html
+49.0.4.13
+0 2 1 28801 1 1608099519
+/
+54.36.149.106
+0 2 2 12215 2 1607833075
+/
+103.16.62.45
+0 2 1 18834 1 1607816522
+/404.html
+54.36.149.107
+0 2 2 12243 2 1607583894
+/blog/archive.php
+66.249.69.171
+0 1 1 138 0 0
+-
+114.119.134.220
+0 1 1 138 0 0
+-
+71.244.166.124
+0 36 36 392926 1 1608196797
+/pages/races/half-marathon.html
+66.249.69.173
+0 4 4 7124 1 1607952234
+/
+114.119.155.51
+0 1 1 138 0 0
+-
+35.162.210.112
+0 26 26 115396 1 1607898429
+/blog/archive.php
+114.119.134.224
+0 1 1 138 0 0
+-
+52.237.166.198
+0 2 1 6934 1 1608224958
+/
+114.119.134.226
+0 128 94 760463 87 1607886316
+/pages/runner-info/our-running-partners.html
+114.119.143.75
+0 1 1 138 0 0
+-
+121.57.228.143
+0 1 1 6710 1 1607939362
+/
+114.119.131.97
+0 1 1 138 0 0
+-
+66.249.69.179
+0 5 4 14383 2 1607992983
+/
+54.175.78.152
+0 1 1 6263 1 1607781912
+/blog/rss.php
+78.46.94.83
+0 1 1 21832 1 1607503880
+/pages/about/race-committee.html
+118.126.82.125
+0 1 1 28577 1 1608018170
+/
+198.49.76.114
+0 9 9 33075 0 0
+-
+66.249.79.129
+0 4 4 1572576 0 0
+-
+198.255.190.232
+0 37 37 422289 1 1608234531
+/
+98.202.114.236
+0 105 105 1027849 4 1608133014
+/
+5.128.67.145
+0 36 36 420644 1 1607937451
+/
+139.155.88.164
+0 2 2 57154 2 1607986742
+/
+52.33.152.203
+0 1 1 1148 0 0
+-
+157.55.39.174
+0 1 1 6710 1 1607756248
+/
+114.119.150.170
+0 1 1 138 0 0
+-
+157.55.39.175
+0 7 5 260445 4 1608249052
+/pages/about/race-committee.html
+17.58.103.55
+0 1 1 4409 1 1608089587
+/pages/runner-info/our-running-partners.html
+103.145.67.246
+0 1 0 224 1 1607244249
+-
+185.25.35.10
+0 1 1 3945 1 1608307911
+/pages/runner-info/future-race-dates.html
+185.25.35.11
+0 2 2 6558 1 1607241439
+/blog/rss.php
+185.25.35.12
+0 2 2 12102 2 1607983478
+/blog/rss.php
+185.25.35.13
+0 2 2 5028 1 1608307899
+/pages/runner-info/results.html
+66.249.69.181
+0 4 3 6141 1 1608007021
+/blog/archive.php
+185.25.35.14
+0 1 1 207 0 0
+-
+66.249.69.183
+0 5 5 7262 1 1607970211
+/
+209.237.150.168
+0 1 0 224 0 0
+-
+110.77.235.110
+0 3 2 57095 1 1606948084
+-
+95.217.228.19
+0 1 0 224 1 1608021572
+-
+66.249.79.33
+0 1 1 138 0 0
+-
+3.87.91.170
+0 8 8 35731 1 1608164127
+/pages/runner-info/register.html
+66.249.79.131
+0 1 1 138 0 0
+-
+95.163.255.32
+0 2 2 9239 0 0
+-
+95.216.42.246
+0 2 1 18834 1 1607870011
+/404.html
+95.163.255.33
+0 1 0 224 1 1606930065
+-
+174.55.202.248
+0 14 14 675199 1 1608191723
+/pages/races/49K.html
+54.167.232.129
+0 1 1 6351 1 1607589771
+/blog/rss.php
+95.163.255.35
+0 2 2 9239 0 0
+-
+104.60.230.171
+0 6 6 245742 1 1608131188
+/pages/races/half-marathon.html
+95.163.255.37
+0 1 1 6334 1 1608268263
+/pages/races/half-marathon.html
+125.27.27.80
+0 1 1 28122 1 1607578584
+/blog/post.php
+208.87.235.180
+0 57 57 1091633 1 1607615395
+/pages/races/49K.html
+103.210.23.192
+0 1 1 6710 1 1606935320
+/
+95.163.255.39
+0 2 2 414 0 0
+-
+40.77.188.73
+0 1 1 5427 0 0
+-
+198.143.175.42
+0 1 1 6710 1 1607888752
+/
+106.12.71.7
+0 2 2 57154 2 1608079182
+/
+209.193.41.5
+0 64 64 1929058 2 1607754522
+/pages/runner-info/register.html
+157.55.39.0
+0 48 48 6624 0 0
+-
+157.55.39.188
+0 4 4 575118 3 1606929629
+/blog/archive.php
+206.174.56.28
+0 10 10 935530 1 1607438097
+/pages/races/marathon.html
+95.217.228.21
+0 1 0 224 1 1607260644
+-
+118.160.87.236
+0 5 1 4947 1 1607684051
+-
+77.222.115.97
+0 8 8 239020 4 1607935452
+/blog/2020-04-20-anchorage-runfest-cancels-2020-event
+157.55.39.6
+0 19 19 2622 0 0
+-
+50.87.253.29
+0 2 1 18834 1 1606800257
+/404.html
+157.55.39.7
+0 2 2 13430 2 1607591883
+/pages/races/marathon.html
+35.239.58.193
+0 42 42 1363893 9 1608263465
+/
+89.108.88.240
+0 1 1 0 1 1608010648
+/
+107.172.155.217
+0 1 1 6710 1 1606946989
+/
+54.175.70.11
+0 1 1 6351 1 1607326062
+/blog/rss.php
+114.119.145.235
+0 1 1 138 0 0
+-
+138.118.174.50
+0 16 8 46577 1 1608030127
+/blog/
+109.168.103.116
+0 1 0 224 0 0
+-
+172.241.82.53
+0 1 1 6710 1 1607271670
+/
+40.77.188.80
+0 7 7 159511 0 0
+-
+67.86.38.106
+0 68 68 1942896 4 1608203956
+/pages/events/race-week-schedule.html
+51.15.90.233
+0 8 8 53358 1 1607994325
+/
+35.185.98.127
+0 28 28 159345 1 1606792212
+/pages/news-room/media.html
+157.55.39.192
+0 2 1 4275 1 1606820247
+/404.html
+168.245.155.26
+0 1 1 28577 1 1606996106
+/
+168.245.155.27
+0 1 1 28577 1 1608116649
+/
+99.16.96.47
+0 2 2 9292 1 1606825429
+/
+168.245.155.28
+0 23 23 496356 1 1608212710
+/pages/races/49K.html
+157.55.39.197
+0 3 1 4499 2 1608237884
+-
+107.77.87.112
+0 3 3 38089 0 0
+-
+217.171.147.164
+0 1 1 6710 1 1607216518
+/
+157.55.39.199
+0 2 2 875740 0 0
+-
+58.87.125.65
+0 2 2 57154 2 1608279080
+/
+73.154.73.11
+0 61 61 537048 2 1607371400
+/
+104.210.152.107
+0 13 1 6789 1 1606793797
+/404.html
+134.228.111.223
+0 5 5 15819 1 1607190273
+/
+114.119.133.211
+0 2 2 9230 2 1608306641
+/pages/runner-info/results.html
+190.75.132.87
+0 1 1 1534 0 0
+-
+54.166.211.78
+0 1 1 6351 1 1607378137
+/blog/rss.php
+114.119.155.88
+0 1 1 138 0 0
+-
+114.119.157.24
+0 1 1 138 0 0
+-
+200.73.131.81
+0 3 2 57095 1 1606930811
+-
+40.77.188.90
+0 1 1 19231 0 0
+-
+40.77.188.91
+0 7 7 151217 0 0
+-
+168.245.155.32
+0 1 1 28577 1 1607006849
+/
+168.245.155.33
+0 1 1 28577 1 1608142694
+/
+166.137.10.60
+0 69 69 2304988 3 1607802945
+/pages/races/five-kilometer.html
+40.77.188.93
+0 1 1 4927 0 0
+-
+168.245.155.34
+0 1 1 28577 1 1608130457
+/
+162.216.145.22
+0 54 54 1838389 1 1607713056
+/pages/races/marathon.html
+40.77.188.95
+0 1 1 5427 0 0
+-
+168.245.155.35
+0 2 2 57154 2 1608201699
+/
+139.60.93.195
+0 11 11 66692 1 1607762055
+/
+174.204.71.71
+0 19 19 301545 1 1607201723
+/pages/races/half-marathon.html
+168.245.155.38
+0 2 2 29725 1 1608207434
+/
+173.230.136.246
+0 1 1 31789 1 1606997368
+/pages/sponsors/all-sponsors.html
+54.36.148.100
+0 1 1 6710 1 1607441773
+/
+157.46.82.93
+0 36 36 517413 1 1606902038
+/pages/races/kids-two-kilometer.html
+161.117.186.203
+0 2 1 6934 1 1606826819
+/
+54.36.148.103
+0 1 1 5454 1 1607045269
+/blog/archive.php
+104.144.204.251
+0 1 1 7308 1 1606947019
+/pages/about/race-history.html
+54.36.148.104
+0 68 65 391029 52 1608231247
+/pages/about/race-director-message.html
+95.181.37.114
+0 1 1 28122 1 1607723598
+/blog/post.php
+54.36.148.105
+0 2 2 11512 2 1608053585
+/pages/races/five-kilometer.html
+159.224.255.154
+0 3 1 4499 2 1608228755
+-
+172.58.3.20
+0 29 29 555544 2 1607864957
+/pages/races/half-marathon.html
+54.36.148.106
+0 2 1 5676 2 1607971372
+-
+52.12.64.227
+0 1 1 6710 1 1606871696
+/
+114.119.133.220
+0 1 1 138 0 0
+-
+54.36.148.108
+0 3 3 18543 3 1608341760
+/pages/races/half-marathon.html
+54.36.148.109
+0 2 2 10440 2 1607746746
+/pages/events/galloway-clinic.html
+123.57.235.231
+0 1 1 28577 1 1607133489
+/
+66.249.79.164
+0 1 1 6710 1 1606917865
+/
+34.219.34.73
+0 1 1 6710 1 1608080495
+/
+81.169.230.129
+0 5 5 13558 2 1608115314
+/
+66.249.79.69
+0 1 1 6601 1 1607730850
+/blog/archive.php
+66.249.79.167
+0 6 6 20544 3 1607034632
+/
+76.188.224.166
+0 19 19 344826 1 1607544813
+/pages/races/back-to-back-challenge.html
+106.11.159.73
+0 1 1 1309 0 0
+-
+24.0.190.73
+0 10 9 166507 1 1606936530
+/
+66.249.79.168
+0 3 3 13256 2 1608056245
+/blog/
+44.234.112.255
+0 1 1 6710 1 1607325302
+/
+173.252.87.12
+0 2 2 261755 1 1607940673
+/
+173.252.87.14
+0 1 1 4821 1 1608290613
+/pages/runner-info/results.html
+207.89.48.12
+0 92 92 3988766 2 1608191555
+/pages/runner-info/register.html
+173.252.87.16
+0 1 1 4051 1 1608058181
+/404.html
+173.252.87.17
+0 3 3 14812 2 1608058182
+/404.html
+173.252.87.18
+0 1 1 268682 0 0
+-
+213.178.43.121
+0 3 3 83639 1 1607989289
+/blog/2020-04-20-anchorage-runfest-cancels-2020-event
+173.252.87.19
+0 4 4 238054 2 1608290577
+/pages/about/race-director-message.html
+45.57.232.54
+0 1 1 7308 1 1608048592
+/pages/about/race-history.html
+166.216.165.130
+0 6 6 17128 1 1606833682
+/
+213.227.152.162
+0 1 1 5994 1 1608176221
+/pages/races/kids-two-kilometer.html
+31.13.127.1
+0 1 1 133817 0 0
+-
+54.36.148.112
+0 2 1 362 1 1607649030
+-
+54.36.148.114
+0 2 2 12673 2 1607683849
+/blog/2015-02-15-running-to-alaska-besa-alimi
+176.31.163.123
+0 1 1 28577 1 1606839498
+/
+74.125.212.50
+0 2 1 1758 1 1607446788
+-
+54.36.148.116
+0 2 2 5659 1 1606996312
+/blog/archive.php
+31.13.127.5
+0 1 1 195739 0 0
+-
+66.249.79.71
+0 1 1 138 0 0
+-
+199.247.47.139
+0 37 37 422178 1 1608286898
+/
+54.36.148.117
+0 1 1 5623 1 1607975902
+/pages/races/the-anchorage-mile.html
+52.70.240.76
+0 1 1 6351 1 1608104141
+/blog/rss.php
+74.125.212.52
+0 2 2 362907 0 0
+-
+35.237.97.120
+0 31 31 166326 2 1608016965
+/
+66.249.79.170
+0 6 6 13972 2 1606995624
+/
+54.36.148.118
+0 1 1 138 0 0
+-
+66.249.80.202
+0 4 4 31367 1 1607905274
+/pages/races/kids-two-kilometer.html
+66.249.79.73
+0 2 2 276 0 0
+-
+69.212.60.222
+0 54 54 1057116 1 1608166025
+/pages/races/49K.html
+66.249.79.171
+0 4 4 13696 2 1607421654
+/
+31.13.127.9
+0 1 1 365766 0 0
+-
+74.125.212.54
+0 4 4 19005 3 1607768818
+/
+66.249.80.204
+0 3 3 344044 0 0
+-
+66.249.79.173
+0 3 3 2102090 0 0
+-
+217.182.138.8
+0 1 1 28577 1 1608293724
+/
+66.249.79.77
+0 4 4 13696 2 1608101056
+/
+66.249.80.206
+0 3 3 30451 0 0
+-
+107.158.93.26
+0 23 23 131503 1 1607287550
+/pages/events/family-health-and-safety-day.html
+24.237.97.235
+0 37 37 422178 1 1608067486
+/
+95.163.255.72
+0 26 18 49162 15 1608262564
+-
+95.163.255.73
+0 21 15 43978 8 1607938634
+-
+34.227.97.43
+0 1 1 6351 1 1607640528
+/blog/rss.php
+95.163.255.74
+0 26 12 20996 12 1608262351
+-
+95.163.255.75
+0 23 14 37544 12 1608268200
+-
+95.163.255.76
+0 27 19 32044 8 1608261593
+-
+43.255.217.186
+0 3 2 57095 1 1606951917
+-
+95.163.255.77
+0 32 22 44387 15 1608327083
+-
+173.252.87.21
+0 2 2 13420 2 1608324323
+/
+95.163.255.78
+0 26 16 27431 8 1608327082
+-
+95.163.255.79
+0 28 21 45603 13 1608324305
+/404.html
+54.147.223.236
+0 2 2 6848 1 1608338588
+/
+173.252.87.25
+0 2 1 4275 1 1606954556
+/404.html
+192.71.38.71
+0 8 5 30139 4 1608194706
+/404.html
+173.252.87.26
+0 1 1 6710 1 1608056228
+/
+34.203.221.238
+0 2 2 12614 2 1607536479
+/blog/rss.php
+173.252.87.27
+0 1 1 133817 0 0
+-
+70.123.150.191
+0 36 36 194712 1 1608206694
+/
+23.94.228.77
+0 1 1 4771 1 1607349100
+/pages/about/race-director-message.html
+196.242.195.42
+0 1 1 28577 1 1608258158
+/
+209.165.166.193
+0 14 14 292942 1 1606853536
+/pages/races/half-marathon.html
+209.180.91.43
+0 2 2 13420 2 1608050543
+/
+54.36.148.124
+0 1 1 5467 1 1607099227
+/blog/archive.php
+192.227.138.177
+0 1 1 4771 1 1608251529
+/pages/about/race-director-message.html
+192.71.2.171
+0 5 2 8774 2 1607876298
+/404.html
+73.171.132.124
+0 51 51 715120 1 1607995373
+/pages/races/half-marathon.html
+34.219.84.199
+0 1 1 1148 0 0
+-
+195.123.214.116
+0 1 1 26792 1 1607905783
+/blog/post.php
+192.185.83.142
+0 2 1 18834 1 1608200864
+/404.html
+54.36.148.127
+0 2 2 5182 1 1607127410
+/pages/about/race-committee.html
+107.77.75.119
+0 35 35 391992 1 1607703747
+/pages/races/half-marathon.html
+54.36.148.128
+0 4 4 12200 2 1607206558
+/pages/races/five-kilometer.html
+34.74.170.184
+0 25 25 132435 2 1607696863
+/pages/races/marathon.html
+114.119.144.233
+0 1 1 138 0 0
+-
+91.236.239.183
+0 7 3 13049 3 1607454535
+/404.html
+46.166.171.50
+0 1 0 224 0 0
+-
+160.153.153.28
+0 2 1 18834 1 1607728756
+/404.html
+111.206.222.82
+0 1 1 33401 0 0
+-
+73.89.29.63
+0 2 2 10086 1 1606933424
+/
+128.201.96.192
+0 2 2 56871 1 1607440980
+/pages/runner-info/register.html
+3.17.179.3
+0 1 1 28577 1 1607397448
+/
+114.119.135.36
+0 1 1 138 0 0
+-
+34.238.131.143
+0 1 1 6263 1 1607517974
+/blog/rss.php
+45.238.25.138
+0 3 2 57095 1 1606966856
+-
+184.2.170.114
+0 80 80 2915907 1 1607973225
+/pages/runner-info/results.html
+52.23.171.211
+0 4 4 17659 1 1608191723
+/pages/races/marathon-walk.html
+63.250.59.63
+0 2 0 448 1 1607386429
+-
+3.235.40.127
+0 5 1 4947 1 1607263576
+/404.html
+107.172.241.25
+0 2 2 13425 1 1608258756
+/
+34.230.15.217
+0 2 2 12702 2 1608260022
+/blog/rss.php
+188.240.100.126
+0 1 1 28122 1 1607984802
+/blog/post.php
+101.51.155.120
+0 3 2 57095 1 1606806395
+-
+54.36.148.134
+0 1 1 5436 1 1606959619
+/blog/archive.php
+31.13.103.4
+0 2 1 4275 1 1608101911
+/404.html
+49.12.128.14
+0 8 7 38366 2 1607751305
+/blog/archive.php
+54.36.148.136
+0 1 1 138 0 0
+-
+54.36.148.137
+0 1 1 6596 1 1608127919
+/blog/
+3.85.174.227
+0 2 2 11860 0 0
+-
+40.77.191.56
+0 1 1 12686 0 0
+-
+54.36.148.139
+0 1 1 6975 1 1607132265
+/blog/2014-10-13-weve-made-some-changes
+49.12.128.18
+0 73 72 440781 2 1607750246
+/blog/2013-11-08-dick-beardsley-to-be-featured-at-the-2014-big-wild-life-runs-events
+192.71.224.240
+0 2 1 4275 1 1607876298
+/404.html
+94.247.241.70
+0 2 2 56871 1 1607017991
+/pages/runner-info/register.html
+70.122.234.123
+0 37 37 422178 1 1607614681
+/
+74.125.214.12
+0 1 1 6710 1 1607059263
+/
+45.94.46.32
+0 1 1 6710 1 1608242404
+/
+54.174.206.160
+0 1 1 6263 1 1607149745
+/blog/rss.php
+172.58.62.165
+0 12 12 70004 1 1607460280
+/
+74.125.214.14
+0 1 1 1534 0 0
+-
+107.145.246.79
+0 62 62 1456675 1 1607599503
+/pages/runner-info/register.html
+146.112.47.72
+0 1 1 28577 1 1607986199
+/
+34.219.180.126
+0 2 2 106122 0 0
+-
+69.50.241.117
+0 1 1 6710 1 1607239412
+/
+73.240.232.46
+0 52 52 893619 1 1607992549
+/pages/races/49K.html
+167.172.151.176
+0 2 2 13774 1 1608073906
+/
+140.147.40.94
+0 50 50 1360598 0 0
+-
+87.115.231.207
+0 8 8 80865 1 1607207103
+/pages/runner-info/bib-pick-up.html
+119.82.253.123
+0 2 2 11208 1 1608086402
+/pages/runner-info/spectators.html
+42.194.133.28
+0 20 20 134200 1 1607112073
+/
+76.234.125.207
+0 9 9 28475 1 1606900152
+/
+69.178.113.207
+0 2 2 10158 1 1607455797
+/pages/races/five-kilometer.html
+95.217.228.81
+0 25 25 368790 1 1607261248
+/pages/races/half-marathon.html
+5.196.87.174
+0 2 2 276 0 0
+-
+54.36.148.15
+0 1 0 224 1 1606966770
+-
+54.36.148.16
+0 3 3 5708 1 1606926852
+/blog/archive.php
+103.210.133.174
+0 27 27 364168 1 1608195916
+/pages/events/expo-exhibitor-list.html
+54.36.148.144
+0 1 1 138 0 0
+-
+95.217.118.99
+0 48 48 1163765 2 1607745430
+/
+206.174.57.214
+0 4 4 10158 1 1608264267
+/pages/races/five-kilometer.html
+172.242.169.207
+0 23 23 101506 1 1606967149
+/
+176.31.225.170
+0 1 0 224 0 0
+-
+197.210.54.147
+0 1 1 4051 1 1607754401
+/404.html
+74.76.22.123
+0 37 37 422178 1 1608120879
+/
+54.145.79.13
+0 1 1 6263 1 1606889728
+/blog/rss.php
+54.164.91.161
+0 1 1 28577 1 1607257349
+/
+35.243.148.14
+0 1 1 6710 1 1607136165
+/
+71.238.108.28
+0 203 203 3206606 4 1607695717
+/pages/about/race-committee.html
+66.249.66.132
+0 5 5 25323 3 1607319779
+/pages/runner-info/entertainment.html
+66.249.66.134
+0 7 7 23899 3 1607321242
+/pages/sponsors/all-sponsors.html
+3.15.4.79
+0 8 8 53358 1 1608101762
+/
+114.119.154.207
+0 1 1 138 0 0
+-
+66.249.66.137
+0 2 1 362 0 0
+-
+165.117.232.82
+0 2 2 16439214 0 0
+-
+165.22.118.246
+0 2 1 18834 1 1607285573
+/404.html
+114.119.159.17
+0 1 1 138 0 0
+-
+24.240.31.137
+0 14 14 41509 2 1607633884
+/pages/races/half-marathon.html
+41.115.37.244
+0 1 1 21156 0 0
+-
+54.36.148.20
+0 2 2 12184 2 1607415793
+/blog/archive.php
+54.36.148.21
+0 1 1 6334 1 1607382469
+/pages/races/half-marathon.html
+54.36.148.22
+0 1 1 6647 1 1606925913
+/blog/archive.php
+220.135.192.123
+0 1 0 224 0 0
+-
+54.36.148.23
+0 5 5 17368 3 1607268035
+/
+27.115.124.70
+0 85 85 1488944 2 1607716799
+/
+54.36.148.24
+0 1 1 138 0 0
+-
+66.58.241.135
+0 36 36 415579 0 0
+-
+54.36.148.25
+0 2 1 5921 2 1607941949
+-
+54.36.148.151
+0 2 2 13419 2 1607516728
+/pages/runner-info/travel-hotel.html
+106.52.247.16
+0 1 1 28577 1 1607536842
+/
+54.36.148.26
+0 1 1 5678 1 1607130924
+/blog/archive.php
+54.36.148.153
+0 1 1 6709 1 1607752207
+/pages/runner-info/travel-hotel.html
+54.36.148.28
+0 1 1 6710 1 1607618430
+/
+195.154.122.21
+0 8 8 53358 1 1607003467
+/
+54.36.148.154
+0 1 1 5994 1 1607199642
+/pages/races/kids-two-kilometer.html
+120.229.26.200
+0 1 1 6710 1 1608272881
+/
+54.36.148.29
+0 2 2 6341 1 1607243813
+/pages/runner-info/race-day.html
+54.36.148.155
+0 1 1 6710 1 1607203485
+/
+5.180.220.89
+0 1 1 28577 1 1607939645
+/
+44.234.104.62
+0 1 1 6710 1 1608293530
+/
+141.101.143.8
+0 1 1 6710 1 1607902692
+/
+111.206.222.130
+0 1 1 2829 0 0
+-
+54.36.148.159
+0 2 2 13420 2 1607632382
+/
+66.249.69.73
+0 5 4 27064 3 1608200637
+/
+35.196.68.46
+0 29 29 159483 1 1606784043
+/pages/news-room/media.html
+78.85.17.64
+0 1 0 224 1 1607882282
+-
+73.203.54.10
+0 29 29 177980 1 1607356642
+/blog/2014-12-24-running-to-alaska-stacy-bolyard
+66.249.69.75
+0 2 2 276 0 0
+-
+66.249.69.77
+0 6 5 14058 2 1608200622
+/
+45.177.78.191
+0 1 1 6710 1 1607812510
+/
+114.119.159.20
+0 1 1 138 0 0
+-
+97.74.24.112
+0 2 1 18834 1 1607840768
+/404.html
+49.234.195.183
+0 1 1 6710 1 1607846241
+/
+161.35.5.59
+0 1 1 6710 1 1608073907
+/
+75.82.99.97
+0 1 1 36565 0 0
+-
+69.171.249.16
+0 1 1 286514 0 0
+-
+108.252.235.209
+0 46 46 1480150 1 1607629369
+/pages/races/49K.html
+58.87.84.34
+0 1 1 6710 1 1607955516
+/
+68.231.174.38
+0 26 26 990465 1 1607173699
+/pages/races/marathon.html
+73.163.68.80
+0 21 21 493236 1 1607929731
+/pages/races/49K.html
+95.217.201.149
+0 2 2 207 1 1607639600
+/
+54.36.148.31
+0 1 1 5678 1 1606902461
+/blog/archive.php
+92.249.13.235
+0 2 2 55160 1 1608145341
+/pages/runner-info/register.html
+46.4.226.222
+0 62 62 3842612 0 0
+-
+54.36.148.32
+0 1 1 6710 1 1607885317
+/
+54.36.148.34
+0 1 1 5438 1 1606930783
+/blog/archive.php
+54.36.148.35
+0 2 2 10822 2 1608124950
+/pages/events/expo-exhibitor-information.html
+54.36.148.161
+0 1 1 138 0 0
+-
+18.207.251.102
+0 1 1 4269 0 0
+-
+68.108.239.175
+0 37 37 419848 0 0
+-
+54.36.148.36
+0 1 1 5936 1 1606783181
+/blog/2015-06-10-running-to-alaska-christopher-woods
+54.36.148.162
+0 1 1 138 0 0
+-
+159.89.131.39
+0 1 1 6710 1 1608329458
+/
+54.36.148.37
+0 1 1 5594 1 1607417967
+/blog/archive.php
+54.36.148.163
+0 1 1 4605 1 1607730802
+/pages/runner-info/bib-pick-up.html
+54.36.148.38
+0 1 1 138 0 0
+-
+54.36.148.164
+0 1 0 224 1 1606969988
+-
+54.36.148.165
+0 2 2 6848 1 1607935449
+/
+18.159.228.49
+0 10 10 34081 1 1607163545
+/blog/archive.php
+54.36.148.39
+0 2 2 6848 1 1607508068
+/
+54.36.148.166
+0 25 24 136268 24 1607972305
+/pages/runner-info/future-race-dates.html
+108.230.43.34
+0 169 167 5278201 6 1608303591
+/pages/runner-info/bib-pick-up.html
+18.209.36.241
+0 1 1 6351 1 1607117638
+/blog/rss.php
+54.36.148.169
+0 1 1 5925 1 1607195776
+/pages/news-room/vip-guests.html
+154.126.10.129
+0 1 0 224 1 1607614871
+-
+54.85.66.151
+0 1 1 6263 1 1608096521
+/blog/rss.php
+79.101.33.50
+0 3 2 57095 1 1606803998
+-
+77.221.130.151
+0 2 1 18834 1 1607937097
+/404.html
+191.102.151.46
+0 43 43 249096 1 1606870351
+/pages/sponsors/become-a-sponsor.html
+69.171.249.20
+0 1 1 5889 1 1607547479
+/pages/races/five-kilometer.html
+95.217.199.87
+0 2 2 207 1 1608255200
+/
+66.249.88.130
+0 1 1 133817 0 0
+-
+192.71.126.175
+0 4 1 4723 1 1607075157
+/404.html
+69.171.249.23
+0 2 2 222719 1 1607547479
+/pages/races/five-kilometer.html
+66.249.69.89
+0 11 7 15006 2 1608156002
+/
+66.249.88.134
+0 2 0 448 1 1607460475
+-
+186.226.216.94
+0 1 1 28122 1 1607689990
+/blog/post.php
+34.83.246.181
+0 1 1 0 1 1606893826
+/
+31.163.202.55
+0 3 2 57095 1 1607338301
+-
+69.171.249.29
+0 1 1 5930 0 0
+-
+125.209.235.169
+0 6 6 35996 0 0
+-
+58.221.71.14
+0 1 1 28577 1 1606928746
+/
+192.71.142.35
+0 6 3 19378 2 1607919073
+/pages/races/the-anchorage-mile.html
+96.237.181.16
+0 8 8 53358 1 1608286965
+/
+54.36.148.42
+0 1 1 138 0 0
+-
+54.36.148.170
+0 1 1 5660 1 1606993218
+/blog/archive.php
+167.172.0.155
+0 8 8 80865 1 1607207103
+/pages/runner-info/bib-pick-up.html
+35.227.5.145
+0 4 4 13696 1 1608099668
+/
+54.36.148.171
+0 1 1 138 0 0
+-
+139.162.40.110
+0 2 1 4275 1 1607045447
+/404.html
+54.36.148.45
+0 1 1 138 0 0
+-
+195.154.123.144
+0 5 5 11692 0 0
+-
+174.225.5.15
+0 51 51 712790 1 1607890300
+/pages/races/half-marathon.html
+54.36.148.46
+0 1 1 4409 1 1607081056
+/pages/runner-info/our-running-partners.html
+207.66.94.30
+0 25 25 110184 1 1606810423
+/blog/archive.php
+107.77.75.21
+0 37 37 422289 1 1607382278
+/
+187.0.175.178
+0 1 1 28122 1 1607902831
+/blog/post.php
+191.179.239.251
+0 1 1 6710 1 1607948774
+/
+54.36.148.173
+0 3 2 6050 2 1608038180
+-
+54.36.148.49
+0 2 2 5570 1 1607422097
+/blog/archive.php
+54.36.148.176
+0 2 2 12635 2 1608193608
+/pages/news-room/vip-guests.html
+54.36.148.178
+0 3 3 12356 2 1607694504
+/
+66.249.69.91
+0 4 3 13782 2 1608151798
+/
+195.154.122.46
+0 8 8 53358 1 1606954779
+/
+39.104.207.247
+0 1 0 224 1 1607065040
+/
+52.14.81.27
+0 1 1 28577 1 1607513334
+/
+66.249.69.93
+0 9 8 14472 2 1608316420
+/
+64.47.54.5
+0 36 36 573030 2 1608135076
+/pages/runner-info/results.html
+114.119.131.210
+0 1 1 138 0 0
+-
+125.209.235.170
+0 3 3 229982 0 0
+-
+136.243.59.237
+0 7 7 175459 3 1607873493
+/pages/news-room/vip-guests.html
+97.113.137.65
+0 40 40 439198 1 1608209161
+/
+174.236.135.238
+0 37 37 422289 1 1608247931
+/
+125.209.235.171
+0 4 4 19112 1 1607187329
+/
+125.209.235.172
+0 3 3 13742 0 0
+-
+114.119.135.83
+0 2 2 11114 2 1608258654
+/pages/races/kids-two-kilometer.html
+138.128.9.24
+0 1 1 6710 1 1607918910
+/
+36.94.8.19
+0 1 1 28122 1 1607854871
+/blog/post.php
+54.203.73.198
+0 3 3 11117 1 1608221923
+/
+54.214.173.31
+0 1 1 1148 0 0
+-
+125.209.235.174
+0 3 3 230201 0 0
+-
+104.144.103.106
+0 2 2 14018 1 1608236702
+/pages/about/race-history.html
+125.209.235.176
+0 2 2 10898 0 0
+-
+125.209.235.177
+0 5 5 20746 1 1607822032
+/
+125.209.235.179
+0 4 4 41445 0 0
+-
+144.76.177.99
+0 2 1 18834 1 1607945371
+/404.html
+77.240.187.69
+0 222 212 5923821 12 1607990567
+/blog/2017-10-12-rrca-announces-2018-national-championship-event-series
+54.36.148.52
+0 1 1 138 0 0
+-
+5.188.48.10
+0 43 42 4027132 13 1607594922
+/blog/2020-04-20-anchorage-runfest-cancels-2020-event
+34.72.210.116
+0 37 37 422178 1 1607732050
+/
+54.36.148.180
+0 2 2 5702 1 1607598827
+/pages/races/marathon-walk.html
+54.36.148.181
+0 1 1 6710 1 1607760266
+/
+174.204.75.30
+0 37 37 422289 1 1608045808
+/
+66.58.130.234
+0 37 37 638293 1 1607824710
+/pages/races/half-marathon.html
+88.198.43.207
+0 2 2 43877 2 1607854739
+/pages/events/galloway-clinic.html
+54.36.148.56
+0 1 1 6414 1 1607069441
+/blog/archive.php
+104.129.58.211
+0 40 40 229338 1 1606916543
+/pages/sponsors/race-and-event-sponsors.html
+54.36.148.182
+0 5 5 27496 5 1607817235
+/pages/events/race-week-schedule.html
+54.36.148.57
+0 1 0 224 1 1606891207
+-
+54.36.148.183
+0 2 1 362 1 1607202495
+-
+5.188.48.14
+0 6 6 179242 2 1607786773
+/blog/2020-04-20-anchorage-runfest-cancels-2020-event
+54.36.148.58
+0 3 2 7072 2 1607811694
+/
+54.36.148.184
+0 1 1 5421 1 1606947634
+/blog/archive.php
+54.36.148.185
+0 2 2 5643 1 1607062265
+/blog/archive.php
+54.36.148.59
+0 4 3 4843 2 1607781252
+-
+54.36.148.186
+0 2 2 11328 2 1607606035
+/
+66.102.6.70
+0 1 1 5930 0 0
+-
+54.36.148.0
+0 2 1 362 1 1607614319
+-
+159.89.226.190
+0 2 2 13420 2 1607407781
+/
+54.36.148.1
+0 1 1 138 0 0
+-
+195.154.122.119
+0 32 32 213432 4 1607562414
+/
+195.154.122.56
+0 6 6 17128 1 1606810954
+/
+54.36.148.189
+0 1 1 138 0 0
+-
+104.199.49.221
+0 1 1 28577 1 1607210076
+/
+54.36.148.4
+0 1 1 138 0 0
+-
+54.36.148.6
+0 1 1 138 0 0
+-
+88.122.145.94
+0 3 2 47411 1 1607795923
+/
+54.36.148.7
+0 1 1 6756 1 1607071417
+/pages/sponsors/all-sponsors.html
+125.209.235.180
+0 5 5 28193 0 0
+-
+125.209.235.181
+0 2 2 11787 0 0
+-
+192.71.103.173
+0 5 4 8602 2 1607722897
+/404.html
+54.36.148.8
+0 1 1 4605 1 1607185247
+/pages/runner-info/bib-pick-up.html
+111.206.222.169
+0 1 1 2829 0 0
+-
+125.209.235.184
+0 3 3 21690 0 0
+-
+185.145.37.169
+0 2 2 9815 2 1608239671
+/pages/about/race-director-message.html
+125.209.235.186
+0 5 5 49506 0 0
+-
+114.119.159.56
+0 1 1 138 0 0
+-
+69.171.249.48
+0 1 1 6715 1 1607000922
+/pages/races/marathon.html
+35.185.245.49
+0 1 1 0 1 1606832839
+/
+66.58.215.92
+0 6 6 17128 1 1607209035
+/
+45.232.243.127
+0 3 2 57095 1 1607253865
+-
+54.36.148.60
+0 1 1 5583 1 1606920887
+/blog/archive.php
+66.249.84.14
+0 3 3 904086 0 0
+-
+66.249.72.36
+0 256 246 2707274 58 1607870934
+/pages/runner-info/register.html
+54.36.148.62
+0 2 1 5788 2 1608223833
+/pages/races/marathon-walk.html
+198.71.239.39
+0 1 0 224 0 0
+-
+138.246.253.24
+0 2 1 0 2 1607066725
+/
+3.90.145.182
+0 1 1 6351 1 1607274082
+/blog/rss.php
+66.249.72.38
+0 182 168 2602779 74 1607860292
+/blog/archive.php
+54.36.148.64
+0 2 2 6848 1 1607421438
+/
+54.36.148.190
+0 1 1 138 0 0
+-
+54.36.148.191
+0 1 1 138 0 0
+-
+54.36.148.192
+0 1 0 224 1 1607263748
+-
+195.154.122.122
+0 8 8 52743 1 1607661435
+/pages/runner-info/results.html
+72.42.145.120
+0 251 239 5952349 2 1607447621
+/perch/
+54.36.148.193
+0 1 1 6917 1 1607895977
+/blog/2018-08-04-joy-of-the-running-community-convinces-a-volunteer-to-join
+202.142.151.30
+0 2 2 57498 1 1606975551
+/pages/runner-info/register.html
+135.148.32.123
+0 1 1 6710 1 1607825316
+/
+54.36.148.195
+0 1 1 138 0 0
+-
+72.42.167.1
+0 17 17 959743 1 1607910043
+/pages/races/marathon.html
+5.44.174.37
+0 1 1 6710 1 1608126917
+/
+46.98.127.20
+0 1 1 28122 1 1607989050
+/blog/post.php
+199.59.150.180
+0 2 2 207 0 0
+-
+54.36.148.197
+0 2 2 5621 1 1607476272
+/blog/archive.php
+195.154.122.64
+0 6 6 17128 1 1607318807
+/
+199.59.150.182
+0 4 4 13814 2 1607585536
+/blog/2018-08-19-rrca-state-mile-champions-both-run-511s-air-force-takes-the-military-mile
+199.59.150.183
+0 1 1 6690 1 1606888826
+/blog/2018-08-19-rrca-state-mile-champions-both-run-511s-air-force-takes-the-military-mile
+139.28.220.186
+0 2 2 57498 1 1607407486
+/pages/runner-info/register.html
+107.242.121.2
+0 8 8 22585 1 1607096097
+/
+69.171.249.50
+0 1 1 148251 0 0
+-
+114.119.131.231
+0 1 1 4771 1 1607885680
+/pages/about/race-director-message.html
+66.220.149.10
+0 1 1 6710 1 1607265587
+/
+178.209.3.60
+0 2 1 18834 1 1608097107
+/404.html
+69.171.251.3
+0 1 1 0 1 1606881695
+/
+69.171.251.4
+0 1 1 113551 0 0
+-
+52.8.2.58
+0 18 18 113922 18 1607672562
+/blog/rss.php
+66.220.149.13
+0 2 2 12640 1 1607509536
+/
+66.220.149.14
+0 2 2 267634 0 0
+-
+114.119.147.86
+0 119 96 8903767 84 1607858785
+/blog/2014-12-24-running-to-alaska-stacy-bolyard
+107.6.168.242
+0 2 2 13420 2 1607953887
+/
+46.53.241.182
+0 4 4 119510 2 1607838265
+/blog/2020-04-20-anchorage-runfest-cancels-2020-event
+69.50.237.19
+0 1 1 6710 1 1607277788
+/
+111.200.39.117
+0 1 1 6710 1 1606795976
+/
+66.220.149.15
+0 1 1 4771 1 1607352224
+/pages/about/race-director-message.html
+69.171.251.6
+0 1 1 5930 0 0
+-
+114.119.153.215
+0 3 3 18454 3 1608289339
+/pages/sponsors/all-sponsors.html
+111.200.39.118
+0 1 1 6710 1 1607300718
+/
+3.89.130.91
+0 2 2 12526 2 1607676430
+/blog/rss.php
+66.220.149.17
+0 1 1 5930 0 0
+-
+66.249.72.40
+0 142 135 4341388 60 1607866278
+/
+69.171.251.8
+0 1 1 133817 0 0
+-
+69.171.251.9
+0 3 3 321892 0 0
+-
+172.58.139.130
+0 37 37 422289 1 1608327917
+/
+66.175.232.107
+0 1 1 6710 1 1608313178
+/
+54.36.148.70
+0 1 1 6528 1 1607138704
+/blog/archive.php
+54.36.148.71
+0 1 1 5426 1 1608106240
+/blog/archive.php
+24.237.250.4
+0 1 1 6710 1 1607784436
+/
+54.36.148.72
+0 1 1 5452 1 1607084502
+/blog/archive.php
+54.164.134.39
+0 2 2 12702 2 1607430142
+/blog/rss.php
+54.36.148.73
+0 1 1 138 0 0
+-
+107.77.75.50
+0 11 11 984625 1 1608118735
+/pages/sponsors/become-a-sponsor.html
+54.36.148.77
+0 1 0 224 1 1607847590
+-
+54.36.148.78
+0 2 2 5789 1 1607776956
+/pages/races/the-military-mile.html
+193.118.53.130
+0 1 1 6710 1 1606852339
+/
+128.90.153.108
+0 2 2 11987 1 1608337366
+/blog/archive.php
+207.197.65.34
+0 7 7 18205 1 1608035891
+/
+1.10.170.146
+0 1 1 28122 1 1607636784
+/blog/post.php
+174.76.48.228
+0 1 1 28122 1 1607851343
+/blog/post.php
+111.206.222.184
+0 1 1 1309 0 0
+-
+50.62.177.24
+0 2 1 18834 1 1607285958
+/404.html
+111.206.222.186
+0 1 1 3376 0 0
+-
+34.73.217.49
+0 32 32 166469 2 1608226939
+/pages/news-room/media.html
+177.21.205.90
+0 1 1 28122 1 1607525626
+/blog/post.php
+3.81.200.105
+0 1 1 6263 1 1607883862
+/blog/rss.php
+192.210.164.56
+0 1 1 6710 1 1606951817
+/
+66.220.149.21
+0 2 2 235020 0 0
+-
+69.250.184.121
+0 51 51 1367308 1 1607681860
+/
+66.249.88.172
+0 2 2 12645 1 1607860413
+/pages/races/marathon.html
+66.220.149.22
+0 1 1 5930 0 0
+-
+108.49.187.205
+0 19 19 1341525 1 1608285008
+/pages/races/49K.html
+114.119.131.245
+0 1 1 138 0 0
+-
+66.249.88.174
+0 1 1 229090 0 0
+-
+35.171.146.231
+0 8 4 27736 1 1607260356
+/
+66.220.149.24
+0 3 2 9939 2 1608258993
+/404.html
+114.119.131.246
+0 1 1 138 0 0
+-
+66.220.149.25
+0 1 1 133817 0 0
+-
+114.119.137.54
+0 1 1 138 0 0
+-
+70.126.241.4
+0 37 37 422289 1 1607104282
+/
+94.130.227.63
+0 2 1 18834 1 1607087333
+/404.html
+52.214.225.170
+0 2 2 6848 1 1607530582
+/
+69.175.89.170
+0 1 1 6710 1 1608186523
+/
+66.220.149.26
+0 1 1 252761 0 0
+-
+198.46.147.165
+0 1 1 7308 1 1606951845
+/pages/about/race-history.html
+114.119.159.79
+0 1 1 138 0 0
+-
+66.220.149.29
+0 1 1 5664 1 1607259513
+/pages/events/expo.html
+23.250.118.29
+0 2 2 12079 1 1607513377
+/pages/about/race-history.html
+114.119.129.179
+0 1 1 138 0 0
+-
+192.36.52.37
+0 10 6 36736 4 1607692773
+/404.html
+45.80.153.205
+0 2 1 6934 1 1607429002
+/
+54.36.148.82
+0 1 1 6710 1 1607544693
+/
+54.36.148.83
+0 1 1 138 0 0
+-
+66.249.72.57
+0 19 16 36203 4 1607740215
+/
+54.36.148.85
+0 1 1 6710 1 1607583079
+/
+66.249.72.59
+0 19 15 38295 5 1607860876
+/
+104.227.57.90
+0 1 1 5044 1 1606947022
+/pages/about/race-committee.html
+54.36.148.86
+0 1 1 6710 1 1607325252
+/
+54.36.148.87
+0 1 1 5664 1 1608338257
+/pages/events/expo.html
+103.148.195.11
+0 3 3 15091 1 1608086346
+/pages/runner-info/results.html
+128.90.165.146
+0 2 2 13295 1 1607845724
+/blog/archive.php
+174.76.48.232
+0 1 1 28122 1 1607593156
+/blog/post.php
+195.154.122.148
+0 6 6 18208 1 1607931647
+/pages/races/49K.html
+203.133.176.49
+0 4 4 57568 2 1607480935
+/
+144.191.148.21
+0 104 104 2753222 2 1608048832
+/
+195.154.122.149
+0 1 1 5994 1 1607726368
+/pages/races/kids-two-kilometer.html
+195.154.122.88
+0 8 8 53358 1 1607462041
+/
+111.206.222.193
+0 1 1 2582 0 0
+-
+67.206.200.42
+0 3 2 57095 1 1607448859
+-
+68.50.156.93
+0 8 8 339933 1 1606850848
+/pages/sponsors/become-a-sponsor.html
+23.250.116.91
+0 1 1 5600 1 1608239675
+/pages/about/arc-scholarships.html
+66.220.149.31
+0 4 3 390853 1 1607008363
+/404.html
+23.250.118.32
+0 4 4 22723 1 1607634093
+/pages/about/race-committee.html
+73.21.37.199
+0 53 53 1185079 1 1607526540
+/pages/races/half-marathon.html
+66.220.149.34
+0 1 1 6715 1 1607955201
+/pages/races/marathon.html
+216.18.204.195
+0 2 2 6848 1 1607283051
+/
+24.237.72.236
+0 22 22 317699 1 1607794178
+/
+66.220.149.35
+0 1 1 5930 0 0
+-
+114.119.159.86
+0 1 1 138 0 0
+-
+35.173.231.199
+0 1 1 4269 0 0
+-
+35.231.241.120
+0 4 4 13696 1 1607038766
+/
+114.119.159.87
+0 1 1 138 0 0
+-
+23.250.118.36
+0 4 4 22723 1 1607507867
+/pages/about/arc-scholarships.html
+34.83.170.101
+0 2 2 57154 1 1608341792
+/
+66.220.149.37
+0 1 1 113551 0 0
+-
+24.133.120.198
+0 3 2 47411 1 1608054947
+/
+66.249.72.61
+0 12 8 724254 3 1607580409
+/
+23.250.118.39
+0 1 1 6710 1 1607527075
+/
+145.239.83.140
+0 2 1 4275 1 1608081757
+/404.html
+93.158.90.106
+0 44 39 216764 1 1607295438
+/pages/events/race-week-schedule.html
+54.36.148.92
+0 1 1 5631 1 1607056168
+/blog/2014-02-28-running-to-alaska-ally-zirkle
+198.23.210.35
+0 1 1 4771 1 1606947021
+/pages/about/race-director-message.html
+93.158.90.107
+0 226 218 1291376 1 1607780985
+/blog/archive.php
+54.36.148.93
+0 2 2 276 0 0
+-
+34.222.247.210
+0 39 38 425057 1 1607103378
+/404.html
+66.249.72.68
+0 18 16 749077 9 1608051795
+/pages/sponsors/race-and-event-sponsors.html
+54.36.148.96
+0 1 1 138 0 0
+-
+46.161.56.188
+0 1 1 6710 1 1606975807
+/
+54.36.148.97
+0 1 1 5436 1 1606945425
+/blog/archive.php
+54.36.148.98
+0 1 1 138 0 0
+-
+114.119.150.37
+0 143 103 851238 83 1607871863
+/blog/2013-10-20-online-registration-at-chronotrack-live-will-open-november-1st
+24.17.70.84
+0 1 1 6710 1 1607018198
+/
+195.154.122.158
+0 7 7 50147 1 1607817236
+/pages/events/race-week-schedule.html
+115.89.74.126
+0 4 2 9104 1 1607096442
+/404.html
+115.89.74.127
+0 2 2 5390 0 0
+-
+196.245.255.49
+0 1 1 28577 1 1607773915
+/
+168.151.245.225
+0 1 1 5623 1 1607966853
+/pages/races/the-anchorage-mile.html
+178.128.123.121
+0 2 1 4275 1 1607610729
+/404.html
+13.89.112.48
+0 38 38 1063826 3 1607640240
+/pages/races/marathon.html
+108.46.26.235
+0 36 36 415468 0 0
+-
+66.220.149.43
+0 3 2 117826 1 1608212905
+/404.html
+66.249.65.173
+0 2 2 6848 1 1607496632
+/
+107.164.131.106
+0 8 8 37057 1 1607545621
+/
+114.119.153.245
+0 141 102 686366 88 1607879763
+/blog/2017-02-03-2016-runfest-designated-as-rrca-road-race-of-the-year
+66.249.72.70
+0 16 16 822303 7 1608052349
+/pages/runner-info/results.html
+23.250.118.48
+0 1 1 5600 1 1607513410
+/pages/about/arc-scholarships.html
+66.249.72.72
+0 14 14 44190 8 1608039927
+/pages/races/49K.html
+23.250.118.49
+0 1 1 6710 1 1607507862
+/
+35.243.23.39
+0 2 2 11315 2 1607665481
+/
+34.75.79.5
+0 58 58 318966 2 1607897937
+/pages/news-room/media.html
+73.126.76.110
+0 5 5 16826 0 0
+-
+34.226.204.183
+0 1 1 6263 1 1608302492
+/blog/rss.php
+114.119.139.148
+0 1 1 138 0 0
+-
+107.217.169.106
+0 6 6 17128 1 1608308874
+/
+107.77.75.84
+0 27 27 362736 1 1607517617
+/pages/events/race-week-schedule.html
+35.175.207.115
+0 1 1 6263 1 1607358760
+/blog/rss.php
+112.133.232.12
+0 1 1 28577 1 1607591289
+/
+13.89.112.50
+0 1 1 26732 1 1608124935
+/pages/races/49K.html
+13.89.112.52
+0 37 37 576712 1 1608225821
+/pages/races/49K.html
+220.181.108.123
+0 1 1 6710 1 1607352079
+/
+40.77.189.114
+0 1 1 14472 0 0
+-
+13.89.112.55
+0 1 1 26732 1 1608095542
+/pages/races/49K.html
+205.185.214.195
+0 35 35 199030 1 1608197366
+/pages/sponsors/become-a-sponsor.html
+114.119.137.80
+0 1 1 138 0 0
+-
+13.89.112.58
+0 37 37 576712 1 1607996280
+/pages/races/49K.html
+40.77.189.118
+0 1 1 4927 0 0
+-
+184.168.46.187
+0 2 1 18834 1 1607729082
+/404.html
+13.89.112.59
+0 74 74 1655695 3 1608161593
+/
+35.243.23.41
+0 1 1 5889 1 1607413814
+/pages/races/five-kilometer.html
+178.47.141.235
+0 1 1 28122 1 1607527848
+/blog/post.php
+107.172.235.206
+0 2 2 12352 1 1608242665
+/pages/about/race-committee.html
+198.71.228.4
+0 1 1 28577 1 1606959674
+/
+66.249.72.83
+0 4 3 13782 1 1607991658
+/
+114.119.139.153
+0 1 1 6710 1 1608194333
+/
+66.249.72.87
+0 8 8 25481 3 1608033395
+/blog/archive.php
+54.38.22.61
+0 1 1 6596 1 1607583174
+/blog/
+106.75.246.84
+0 1 1 28577 1 1608083160
+/
+161.35.116.201
+0 2 2 13420 2 1607386564
+/
+146.20.132.44
+0 38 8 39128 8 1608317440
+/404.html
+20.64.248.52
+0 1 1 6710 1 1606999695
+/
+42.120.161.29
+0 2 2 3894 0 0
+-
+3.235.155.171
+0 2 2 6848 1 1606831374
+/
+40.77.189.123
+0 1 1 12686 0 0
+-
+157.55.39.16
+0 8 8 1104 0 0
+-
+45.57.168.137
+0 1 1 6710 1 1607802024
+/
+73.26.110.199
+0 10 10 180301 1 1607030847
+/blog/2017-08-19-moe-sets-mile-record-army-takes-the-military-mile-in-record-time
+159.65.45.211
+0 29 28 268289 1 1607852013
+/404.html
+66.36.125.123
+0 37 37 422178 1 1607860033
+/
+193.70.60.82
+0 1 1 6710 1 1607214477
+/
+107.127.28.116
+0 3 3 6710 1 1608217829
+/
+66.42.65.171
+0 2 1 6934 1 1606855588
+/
+188.130.128.123
+0 2 2 57498 1 1607340494
+/pages/runner-info/register.html
+52.35.92.27
+0 1 1 28577 1 1607324320
+/
+191.101.122.45
+0 1 1 4771 1 1608248598
+/pages/about/race-director-message.html
+108.28.20.48
+0 30 30 863165 1 1608287191
+/pages/runner-info/faq.html
+114.119.149.71
+0 1 1 138 0 0
+-
+185.153.180.42
+0 6 6 40260 6 1608254630
+/
+208.69.198.129
+0 21 21 700539 0 0
+-
+180.163.220.66
+0 15 15 276184 0 0
+-
+180.163.220.67
+0 28 28 145702 1 1608043809
+/
+180.163.220.68
+0 16 16 68610 1 1607716506
+/
+101.51.104.247
+0 3 2 57095 1 1607095729
+-
+44.234.66.161
+0 54 54 598462 2 1608253435
+/pages/runner-info/bib-pick-up.html
+186.10.0.116
+0 2 2 56871 1 1606944807
+/pages/runner-info/register.html
+114.119.139.166
+0 1 1 138 0 0
+-
+123.183.23.33
+0 1 1 28577 1 1608247897
+/
+46.118.239.191
+0 2 2 57154 2 1607864969
+/
+114.119.139.8
+0 1 1 138 0 0
+-
+191.101.141.213
+0 1 1 6710 1 1607898885
+/
+138.97.1.77
+0 3 2 57095 1 1607476375
+-
+157.55.39.22
+0 4 3 17694 3 1607254145
+/404.html
+209.17.97.2
+0 1 1 28577 1 1608286028
+/
+197.210.227.182
+0 1 0 224 1 1607754400
+-
+107.77.83.113
+0 37 37 422289 1 1607427027
+/
+157.55.39.27
+0 1 1 138 0 0
+-
+98.34.149.176
+0 20 20 963950 1 1607506817
+/pages/races/marathon.html
+108.94.55.171
+0 6 6 17128 1 1606858479
+/
+132.255.22.120
+0 5 1 4947 1 1607712489
+-
+70.32.0.159
+0 11 1 6291 1 1606815154
+-
+185.145.36.194
+0 1 1 6710 1 1608048560
+/
+104.131.175.203
+0 3 3 20538 1 1608131221
+/blog/2020-04-20-anchorage-runfest-cancels-2020-event
+188.166.21.245
+0 1 1 28122 1 1607961736
+/blog/post.php
+166.137.242.113
+0 66 66 2004906 2 1607616385
+/pages/runner-info/results.html
+114.119.152.230
+0 1 1 138 0 0
+-
+52.158.230.150
+0 9 3 13497 3 1608208197
+-
+3.135.232.127
+0 1 1 28577 1 1607513331
+/
+114.119.128.181
+0 1 1 138 0 0
+-
+114.119.139.43
+0 1 1 138 0 0
+-
+114.119.138.130
+0 1 1 138 0 0
+-
+54.84.181.78
+0 1 1 6351 1 1607065116
+/blog/rss.php
+46.4.77.121
+0 81 81 493220 1 1607537270
+/blog/2014-02-06-running-to-alaska-dustin-morris
+31.223.150.40
+0 2 1 4275 1 1607619539
+/404.html
+138.201.220.92
+0 15 15 85310 1 1608071024
+/pages/races/the-military-mile.html
+189.27.144.56
+0 3 2 47411 1 1607107373
+/
+45.55.252.183
+0 30 29 274929 1 1607851070
+/pages/runner-info/bib-pick-up.html
+190.121.142.166
+0 3 2 57095 1 1607323600
+-
+14.160.247.214
+0 2 1 4275 1 1607738349
+/404.html
+191.237.253.181
+0 3 2 57095 1 1607260606
+-
+114.119.150.75
+0 127 91 2018976 84 1607878134
+/blog/2014-10-13-weve-made-some-changes
+157.55.39.30
+0 19 19 2622 0 0
+-
+24.59.141.2
+0 53 53 748406 2 1608236112
+/
+157.55.39.34
+0 8 8 1104 0 0
+-
+107.180.120.52
+0 1 0 224 0 0
+-
+174.244.176.111
+0 6 6 18407 1 1607690077
+/pages/races/marathon.html
+157.55.39.36
+0 1 1 5446 1 1607658349
+/blog/archive.php
+107.77.94.114
+0 57 57 2046891 1 1608233752
+/pages/races/marathon.html
+40.77.188.102
+0 1 1 19231 0 0
+-
+191.102.153.83
+0 1 1 5623 1 1607285569
+/pages/races/the-anchorage-mile.html
+40.77.189.147
+0 1 1 93436 0 0
+-
+154.51.131.142
+0 3 3 20130 3 1608299558
+/
+207.46.13.101
+0 6 6 11170 2 1607069845
+/pages/races/marathon-walk.html
+35.237.229.226
+0 33 33 173179 2 1607387686
+/pages/news-room/media.html
+174.228.136.175
+0 38 38 426558 1 1608297130
+/
+207.46.13.103
+0 3 3 17964 3 1608306515
+/
+44.234.65.92
+0 37 36 388827 1 1607088674
+/404.html
+60.31.213.115
+0 3 2 57095 1 1606937207
+-
+207.46.13.105
+0 2 2 13044 2 1607336627
+/
+207.46.13.108
+0 4 4 21409 4 1607825641
+/pages/races/five-kilometer.html
+104.227.60.180
+0 1 1 5600 1 1606951855
+/pages/about/arc-scholarships.html
+46.185.114.98
+0 4 4 113932 2 1607863477
+/blog/2015-02-15-running-to-alaska-besa-alimi
+54.197.211.97
+0 1 1 6351 1 1607220018
+/blog/rss.php
+34.227.69.13
+0 1 1 6351 1 1608311328
+/blog/rss.php
+107.175.238.159
+0 2 2 9815 1 1606951848
+/pages/about/race-committee.html
+182.50.130.9
+0 1 0 224 0 0
+-
+40.117.233.252
+0 16 4 18892 7 1607827996
+-
+193.218.118.95
+0 1 1 6710 1 1607664964
+/
+114.119.137.101
+0 1 1 5433 1 1607843106
+/blog/archive.php
+77.242.94.26
+0 1 1 28122 1 1607686502
+/blog/post.php
+216.226.146.36
+0 3 3 17534 3 1607950250
+/pages/about/arc-scholarships.html
+39.96.1.102
+0 4 4 114308 4 1607641849
+/
+40.86.96.40
+0 10 10 67100 10 1608145084
+/
+157.55.39.40
+0 2 2 276 0 0
+-
+206.174.80.112
+0 47 47 1499860 3 1607859293
+/pages/runner-info/results.html
+157.55.39.41
+0 5 5 690 0 0
+-
+157.55.39.45
+0 2 2 11246 2 1607177021
+/pages/races/the-anchorage-mile.html
+184.168.193.137
+0 1 0 224 0 0
+-
+66.58.212.242
+0 68 67 877014 2 1606929290
+/404.html
+107.180.120.64
+0 2 1 18834 1 1607841038
+/404.html
+13.66.139.11
+0 1 1 5994 1 1607406931
+/pages/races/kids-two-kilometer.html
+108.161.134.151
+0 1 1 28577 1 1606849942
+/
+1.4.184.189
+0 6 6 184594 1 1607856569
+/blog/
+5.67.55.126
+0 1 0 224 1 1607614202
+-
+40.77.189.157
+0 1 1 9332 0 0
+-
+207.46.13.112
+0 5 4 22388 4 1607756485
+/pages/races/marathon-walk.html
+40.77.188.119
+0 6 6 44546 0 0
+-
+13.66.139.18
+0 2 1 4275 1 1606785296
+/404.html
+13.66.139.19
+0 8 5 25099 5 1607345057
+/pages/races/marathon-walk.html
+207.46.13.116
+0 4 4 800175 2 1607235014
+/blog/
+207.46.13.118
+0 8 8 303758 6 1607051889
+/pages/runner-info/faq.html
+73.164.54.16
+0 40 40 426558 1 1606915807
+/
+144.76.102.243
+0 1 1 21832 1 1607866223
+/pages/about/race-committee.html
+104.227.203.140
+0 2 2 10644 1 1608048600
+/pages/about/arc-scholarships.html
+116.58.232.236
+0 1 1 28122 1 1607695316
+/blog/post.php
+47.49.12.169
+0 1 1 28122 1 1607867836
+/blog/post.php
+173.252.79.112
+0 1 1 6710 1 1608312944
+/
+123.56.135.145
+0 1 1 5925 1 1607633516
+/pages/news-room/vip-guests.html
+162.241.24.146
+0 2 1 18834 1 1607003913
+/404.html
+182.53.135.211
+0 1 1 28122 1 1607994357
+/blog/post.php
+114.119.138.155
+0 116 88 492915 85 1607882511
+/blog/archive.php
+162.243.29.24
+0 2 2 13202 2 1607982200
+/blog/archive.php
+54.171.157.119
+0 2 2 6848 1 1608024817
+/
+54.39.177.92
+0 4 4 18927 3 1607772633
+/blog/rss.php
+114.119.148.109
+0 2 2 6107 1 1607853000
+/blog/2015-08-18-update-on-2015-marathon-results
+40.77.189.160
+0 1 1 9332 0 0
+-
+31.146.223.218
+0 8 8 45429 1 1607997803
+/pages/runner-info/faq.html
+175.44.42.5
+0 2 2 40111 1 1607252467
+/
+40.77.189.162
+0 2 2 22018 0 0
+-
+40.77.188.120
+0 1 1 14472 0 0
+-
+172.252.134.202
+0 1 1 6710 1 1607843041
+/
+111.172.6.132
+0 2 2 0 2 1607982773
+/
+66.58.148.164
+0 14 14 71568 1 1607882352
+/
+207.46.13.120
+0 5 2 7276 2 1607647331
+-
+34.83.222.70
+0 1 1 0 1 1608189881
+/
+40.77.188.126
+0 1 1 9332 0 0
+-
+175.176.7.157
+0 37 37 422178 1 1607903823
+/
+187.44.225.90
+0 1 1 28122 1 1607899830
+/blog/post.php
+73.217.125.21
+0 8 8 19739 1 1608244472
+/
+207.46.13.128
+0 2 1 6709 1 1607762504
+/pages/runner-info/travel-hotel.html
+76.102.146.180
+0 43 43 2237790 1 1608241020
+/pages/races/marathon.html
+82.207.175.52
+0 1 1 6710 1 1608085336
+/
+66.231.185.70
+0 11 10 61919 1 1606940367
+/pages/runner-info/register.html
+114.119.140.237
+0 1 1 138 0 0
+-
+66.231.185.72
+0 7 7 36490 1 1608277992
+/pages/events/pasta-feed.html
+192.36.53.165
+0 5 2 14092 2 1607876313
+/
+182.73.143.114
+0 1 1 28122 1 1607697190
+/blog/post.php
+167.99.247.64
+0 1 1 6710 1 1607297514
+/
+46.150.242.32
+0 1 1 6710 1 1607230959
+/
+46.150.240.108
+0 1 1 6710 1 1607091427
+/
+162.197.66.96
+0 19 19 620429 1 1607489187
+/pages/runner-info/register.html
+24.237.68.158
+0 38 38 428999 1 1607109710
+/
+98.38.48.51
+0 9 9 28887 1 1607310954
+/pages/races/marathon.html
+95.19.6.219
+0 5 1 4947 1 1607728677
+-
+98.168.4.3
+0 2 2 13420 2 1608127941
+/
+40.77.190.201
+0 1 1 9332 0 0
+-
+129.176.151.14
+0 1 1 10542 0 0
+-
+206.174.53.201
+0 123 119 1407824 2 1608307189
+/perch/
+174.204.71.126
+0 15 15 951845 1 1607221297
+/pages/races/marathon.html
+205.169.39.221
+0 16 16 300550 1 1607563587
+/pages/races/five-kilometer.html
+174.204.79.240
+0 101 101 3559365 2 1608070570
+/pages/races/half-marathon.html
+192.3.208.130
+0 1 1 5600 1 1608236708
+/pages/about/arc-scholarships.html
+209.17.97.106
+0 1 1 28577 1 1607145935
+/
+143.244.34.198
+0 2 2 7078 0 0
+-
+13.66.139.37
+0 1 1 6199 1 1607002345
+/pages/events/family-health-and-safety-day.html
+13.66.139.38
+0 54 46 556609 31 1607807559
+/pages/runner-info/bib-pick-up.html
+201.165.52.129
+0 1 1 28122 1 1606827729
+/blog/post.php
+51.77.129.167
+0 36 36 420644 1 1606855698
+/
+107.77.90.56
+0 12 12 215706 1 1607895555
+/pages/runner-info/register.html
+106.75.13.4
+0 2 2 27473 1 1607169353
+/pages/races/marathon.html
+43.225.44.191
+0 1 0 224 0 0
+-
+114.119.139.86
+0 114 90 509040 84 1607872488
+/blog/archive.php
+114.119.151.237
+0 1 1 138 0 0
+-
+104.144.179.117
+0 1 1 5600 1 1608248602
+/pages/about/arc-scholarships.html
+114.119.148.120
+0 1 1 138 0 0
+-
+75.166.244.155
+0 24 24 2038820 1 1606824395
+/pages/races/back-to-back-challenge.html
+177.106.101.82
+0 1 1 6710 1 1607810461
+/
+95.32.192.182
+0 87 4 57154 2 1606936523
+-
+114.119.137.134
+0 1 1 138 0 0
+-
+35.237.55.226
+0 4 4 13696 1 1607118623
+/
+114.119.138.179
+0 1 1 138 0 0
+-
+73.51.57.217
+0 36 36 514078 1 1607358576
+/pages/races/kids-two-kilometer.html
+154.16.46.185
+0 1 1 6710 1 1608251482
+/
+196.242.114.190
+0 1 1 28577 1 1608037923
+/
+119.41.169.94
+0 1 1 28577 1 1607604320
+/
+157.55.39.74
+0 1 1 5440 1 1607473604
+/blog/archive.php
+17.58.103.230
+0 4 4 27587 4 1607376745
+/pages/races/five-kilometer.html
+149.56.237.27
+0 1 1 6674 1 1607851428
+/blog/2016-08-04-team-rwbs-old-glory-relay-will-run-in-our-49k
+17.58.103.231
+0 5 5 30593 5 1608284403
+/pages/about/race-history.html
+101.200.190.200
+0 1 1 6640 1 1608165624
+/pages/runner-info/register.html
+157.55.39.76
+0 2 2 73836 1 1607669503
+/pages/races/half-marathon.html
+40.77.190.215
+0 1 1 10937 0 0
+-
+13.66.139.40
+0 2 2 11524 2 1607448051
+/pages/races/back-to-back-challenge.html
+171.5.161.223
+0 1 1 28122 1 1606998580
+/blog/post.php
+108.26.231.191
+0 21 21 537647 1 1607371457
+/pages/races/half-marathon.html
+13.66.139.41
+0 14 12 75941 8 1608298816
+/
+24.237.202.93
+0 6 6 17128 1 1607786227
+/
+77.88.5.100
+0 4 3 7124 1 1607022553
+/
+207.46.13.141
+0 2 2 12381 2 1607729063
+/blog/2017-04-07-volunteer-spotlight-our-bib-pick-up-crew
+77.88.5.3
+0 7 6 27254 4 1608152049
+/
+95.216.18.217
+0 38 37 439478 1 1607026828
+/404.html
+13.66.139.45
+0 2 2 12539 2 1608219272
+/pages/events/expo-exhibitor-information.html
+192.111.135.21
+0 6 4 114190 2 1607081987
+-
+129.176.151.28
+0 27 27 1377680 0 0
+-
+77.88.5.104
+0 7 7 20958 3 1607863262
+/
+77.88.5.5
+0 4 4 4465 1 1607272666
+/404.html
+81.22.46.252
+0 2 2 56966 1 1607859748
+/blog/2015-02-15-running-to-alaska-besa-alimi
+77.88.5.105
+0 2 2 13420 2 1608201084
+/
+157.55.39.200
+0 1 1 5623 1 1607339037
+/pages/races/the-anchorage-mile.html
+68.227.116.25
+0 52 52 1374023 1 1606921121
+/pages/races/marathon.html
+13.66.139.49
+0 1 1 5664 1 1607007766
+/pages/events/expo.html
+5.1.104.130
+0 1 1 28122 1 1607992136
+/blog/post.php
+157.55.39.202
+0 31 28 867591 19 1607148245
+/pages/races/marathon-relay.html
+77.88.5.107
+0 5 5 8527 1 1606810201
+/404.html
+85.214.151.193
+0 9 0 2016 0 0
+-
+157.55.39.203
+0 2 2 11814 2 1607160718
+/blog/2018-08-12-30-miles-for-30-years
+207.46.13.149
+0 1 0 0 0 0
+-
+40.88.21.235
+0 30 30 123660 14 1607822518
+/
+111.206.198.234
+0 1 1 1312 0 0
+-
+139.99.61.18
+0 2 1 4275 1 1607622061
+/404.html
+77.13.73.107
+0 3 2 47411 1 1607095421
+/
+69.171.251.112
+0 1 1 133817 0 0
+-
+157.55.39.208
+0 5 5 639282 3 1608136500
+/blog/archive.php
+129.226.117.162
+0 2 1 18834 1 1608331323
+/404.html
+69.171.251.116
+0 1 1 133817 0 0
+-
+24.252.142.222
+0 15 15 297211 1 1607617529
+/pages/races/half-marathon.html
+186.42.174.218
+0 1 1 28122 1 1607692146
+/blog/post.php
+118.99.114.209
+0 3 2 57095 1 1607264170
+-
+69.171.251.118
+0 3 2 138092 1 1607750158
+/404.html
+114.119.159.123
+0 1 1 138 0 0
+-
+114.119.137.146
+0 1 1 138 0 0
+-
+99.235.243.18
+0 135 135 2867924 5 1608152449
+/
+104.238.165.31
+0 1 1 6710 1 1607814549
+/
+34.221.197.236
+0 39 38 425057 1 1606996769
+/404.html
+116.202.228.169
+0 7 7 35901 2 1607751341
+/pages/events/expo-exhibitor-list.html
+114.119.152.64
+0 1 1 138 0 0
+-
+97.125.255.212
+0 15 15 1044409 1 1607441628
+/pages/races/49K.html
+161.97.128.124
+0 10 5 34670 3 1608306806
+/
+180.163.220.3
+0 13 13 107105 0 0
+-
+54.188.74.226
+0 1 1 28577 1 1608283836
+/
+173.44.223.218
+0 40 40 229338 1 1606862109
+/pages/sponsors/race-and-event-sponsors.html
+180.163.220.4
+0 35 35 407315 1 1607303916
+/
+180.163.220.5
+0 19 19 325108 1 1608239711
+/
+34.74.125.177
+0 28 28 159345 1 1607256468
+/pages/news-room/media.html
+40.77.189.193
+0 1 1 12686 0 0
+-
+104.144.158.36
+0 1 1 7308 1 1608251526
+/pages/about/race-history.html
+157.55.39.87
+0 2 2 11164 2 1608320591
+/pages/races/marathon-walk.html
+13.66.139.50
+0 8 5 329250 4 1608219336
+/pages/races/back-to-back-challenge.html
+40.77.189.197
+0 1 1 14472 0 0
+-
+13.66.139.56
+0 11 10 70238 7 1607785223
+/pages/about/race-director-message.html
+13.66.139.57
+0 130 105 5362267 79 1608338654
+/404.html
+77.88.5.116
+0 5 5 7538 1 1607863263
+/
+67.10.51.251
+0 38 38 426558 1 1607055790
+/
+184.154.139.5
+0 274 257 6327711 14 1608130864
+/pages/races/the-military-mile.html
+77.88.5.118
+0 7 5 8964 2 1607625838
+/404.html
+93.152.140.4
+0 81 81 487269 3 1608223975
+/pages/sponsors/race-and-event-sponsors.html
+184.154.139.6
+0 319 303 7433082 15 1608298312
+/pages/about/race-committee.html
+157.55.39.214
+0 2 2 11414 2 1607873081
+/
+184.154.139.7
+0 294 280 6726735 14 1608303836
+/pages/runner-info/run-for-good.html
+185.41.152.157
+0 6 3 18143 1 1606896947
+/404.html
+184.154.139.8
+0 272 259 6345400 13 1608217572
+/blog/archive.php
+157.55.39.217
+0 1 1 6690 1 1607651906
+/blog/2018-08-19-rrca-state-mile-champions-both-run-511s-air-force-takes-the-military-mile
+184.154.139.9
+0 329 312 7760537 16 1608319240
+/pages/runner-info/spectators.html
+157.55.39.218
+0 5 4 16331706 3 1606856507
+/404.html
+93.158.161.5
+0 1 1 207 0 0
+-
+89.143.169.182
+0 2 1 28801 1 1607976934
+/
+96.127.175.10
+0 1 1 6710 1 1607102490
+/
+18.234.92.209
+0 1 1 6263 1 1607411374
+/blog/rss.php
+114.119.136.111
+0 1 1 138 0 0
+-
+24.11.34.103
+0 111 111 1412709 4 1607161822
+/
+157.55.39.90
+0 1 1 138 0 0
+-
+69.133.192.108
+0 34 34 396880 0 0
+-
+24.237.29.220
+0 29 29 336507 1 1607801674
+/pages/runner-info/results.html
+128.199.17.93
+0 1 1 28577 1 1607112129
+/
+40.77.190.233
+0 1 1 4927 0 0
+-
+114.119.140.99
+0 1 1 138 0 0
+-
+163.172.194.236
+0 2 1 18834 1 1607927456
+-
+54.211.197.29
+0 1 1 6263 1 1607094843
+/blog/rss.php
+174.70.241.10
+0 1 1 28122 1 1607666395
+/blog/post.php
+212.48.74.238
+0 2 1 4275 1 1606901143
+/404.html
+201.182.150.104
+0 3 0 672 1 1607697371
+-
+77.88.5.124
+0 2 1 6710 1 1607022552
+/
+69.160.38.10
+0 1 0 224 0 0
+-
+77.88.5.125
+0 2 2 414 0 0
+-
+157.55.39.221
+0 4 3 18494 3 1607166988
+/blog/
+207.46.13.167
+0 1 1 5120 1 1608290488
+/pages/runner-info/entertainment.html
+107.6.180.154
+0 1 1 6710 1 1607228361
+/
+174.242.75.131
+0 32 32 617824 1 1607876254
+/pages/races/half-marathon.html
+157.55.39.223
+0 1 1 6709 1 1608196209
+/pages/runner-info/travel-hotel.html
+49.146.38.93
+0 37 37 422178 1 1606876724
+/
+175.124.38.252
+0 3 2 57095 1 1607250629
+-
+66.220.96.51
+0 21 21 728513 1 1607368580
+/pages/races/five-kilometer.html
+125.167.113.124
+0 1 1 4051 1 1607693339
+/404.html
+185.73.216.150
+0 1 1 6710 1 1607221678
+/
+114.119.147.110
+0 1 1 138 0 0
+-
+185.207.199.92
+0 1 1 6710 1 1607347411
+/
+114.119.158.105
+0 3 3 8980 2 1608284214
+/pages/runner-info/spectators.html
+114.119.154.22
+0 1 1 138 0 0
+-
+114.119.135.8
+0 1 1 138 0 0
+-
+5.170.246.80
+0 38 38 426558 1 1608304666
+/
+106.11.156.65
+0 1 1 1839 0 0
+-
+13.66.139.70
+0 13 10 56244 9 1607618733
+/pages/events/movie.html
+40.77.188.171
+0 1 1 93436 0 0
+-
+220.86.152.12
+0 1 0 224 1 1607615488
+-
+69.171.249.8
+0 1 1 163057 0 0
+-
+183.4.52.191
+0 1 1 28577 1 1607964158
+/
+13.66.139.72
+0 108 93 1053741 59 1607867472
+/404.html
+40.77.188.175
+0 2 2 106122 0 0
+-
+41.86.250.226
+0 1 1 28577 1 1607505535
+/
+13.66.139.0
+0 3 3 18268 2 1608332272
+/pages/races/marathon-walk.html
+13.66.139.1
+0 4 4 552 0 0
+-
+13.66.139.76
+0 8 5 25689 4 1607847240
+/404.html
+207.46.13.174
+0 8 7 86330 4 1606891701
+/blog/2017-04-13-our-outstanding-biking-crew
+40.77.188.178
+0 1 1 4927 0 0
+-
+13.66.139.101
+0 4 4 21758 4 1607820312
+/pages/events/race-week-schedule.html
+66.58.156.99
+0 48 48 673552 2 1608256158
+/pages/races/half-marathon.html
+24.237.202.8
+0 47 47 430316 2 1608161283
+/
+209.17.97.10
+0 3 3 85731 3 1607738196
+/
+174.71.66.203
+0 82 82 2902862 3 1608192368
+/pages/about/race-committee.html
+209.17.96.106
+0 1 1 28577 1 1606822962
+/
+13.66.139.4
+0 6 6 45047 5 1606911383
+/blog/2017-08-21-under-cloudy-skies-and-drizzle-james-miller-betters-his-49k-record
+69.178.7.41
+0 38 38 426558 1 1607494892
+/
+13.66.139.104
+0 41 38 3687342 22 1608226070
+/blog/
+191.252.110.72
+0 17 8 47888 1 1607498066
+-
+117.50.2.17
+0 4 4 46533 2 1607509453
+/pages/runner-info/bib-pick-up.html
+17.58.102.23
+0 2 2 276 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+13.66.139.148
+0 2 1 4275 1 1608338580
+/404.html
+17.58.101.236
+0 1 1 245153 0 0
+-
+31.13.103.120
+0 1 1 6710 1 1608340214
+/
+45.76.39.215
+0 1 1 5623 1 1608336491
+/pages/races/the-anchorage-mile.html
+24.237.72.163
+0 32 32 569650 1 1608337539
+/pages/races/the-military-mile.html
+69.178.68.118
+0 37 37 422289 1 1608343032
+/
+77.88.5.228
+0 1 1 6710 1 1608341490
+/
+77.88.5.22
+0 1 1 9032 0 0
+-
+54.36.148.108
+0 1 1 6334 1 1608341760
+/pages/races/half-marathon.html
+54.36.148.116
+0 1 1 138 0 0
+-
+54.147.223.236
+0 2 2 6848 1 1608338588
+/
+69.171.251.4
+0 1 1 113551 0 0
+-
+128.90.153.108
+0 2 2 11987 1 1608337366
+/blog/archive.php
+54.36.148.87
+0 1 1 5664 1 1608338257
+/pages/events/expo.html
+34.83.170.101
+0 2 2 57154 1 1608341792
+/
+208.69.198.129
+0 2 2 20862 0 0
+-
+13.66.139.57
+0 2 1 4275 1 1608338654
+/404.html
+93.158.161.5
+0 1 1 207 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.anchoragerunfest.org/TXhbZ/LgSZZ/maps/WestchesterLagoon.pdf
+1 1
+https://www.anchoragerunfest.org/blog/2018-01-05-humpys-marathon-makes-runners-world-2018-marathon-bucket-list
+1 1
+http://www.50statesmarathonclub.com/
+0 2
+http://www.therunnersplate.com
+0 28
+http://www.google.com/images/url
+1 61
+http://www.anchoragerunfest.org/pages/runner-info/../../images/sponsor-logos-100x100/CHAP-100x100.png
+1 3
+http://www.anchoragerunfest.org/pages/runner-info/future-race-dates.html
+1 89
+http://anchoragerunfest.org/pages/runner-info/entertainment.html
+1 2
+http://bigwildliferuns.com/humans.txt
+1 1
+http://ftp.anchoragerunfest.org/styles/home15.css
+1 2
+https://www.google.se/
+1 1
+http://www.anchoragerunfest.org/403/html
+1 5
+http://www.anchoragerunfest.com/jcountdown/jcountdown.css
+1 1
+https://duckduckgo.com/
+0 3
+http://www.anchoragerunfest.org/blog/blog.css
+1 4
+- (Direct Request)
+0 11347
+http://www.anchoragerunfest.org/pages/events/family-health-and-safety-day.html
+1 6
+http://www.anchoragerunfest.org/pages/races/back-to-back-challenge.html
+1 23
+http://www.anchoragerunfest.org/pages/runner-info/../../images/Smoke-Free-logo-200-web.jpg
+1 3
+http://anchoragerunfest.com/styles/home15.css
+1 3
+http://anchoragerunfest.org/maps/RunFest_Marathon.pdf
+1 5
+http://jcnpv.makenahartlin.com/blog/2557420/view/
+0 2
+http://anchoragerunfest.org/pages/races/half-marathon.html
+1 42
+http://www.anchoragerunfest.org/images/ARF-logo-120.png
+1 1
+http://www.anchoragerunfest.org/pages/sponsors/race-and-event-sponsors.html
+1 15
+http://50statesmarathonclub.com/
+0 1
+http://anchoragerunfest.info
+1 57
+http://www.anchoragerunfest.org/perch/addons/apps/perch_blog/
+1 7
+http://m.facebook.com
+0 2
+http://anchoragerunfest.info/ads.txt
+1 2
+http://www.anchoragerunfest.org/docs/2020-Sponsorship-Material.pdf
+1 2
+http://www.anchoragerunfest.org/pages/races/marathon.html
+1 986
+http://www.anchoragerunfest.org/admin//
+1 1
+https://anchoragerunfest.info/styles/home15.css
+1 2
+http://m.facebook.com/
+0 1
+http://domain.com
+0 1
+http://www.anchoragerunfest.org/brasil/rss/catalog/
+1 1
+http://anchoragerunfest.net/pages/about/race-director-message.html
+1 3
+http://anchoragerunfest.com/humans.txt
+1 2
+http://www.anchoragerunfest.org/perch/core/account/
+1 4
+https://anchoragerunfest.com/styles/arf-main9.css
+1 2
+http://www.anchoragerunfest.org/perch/core/apps/content/
+1 46
+http://www.anchoragerunfest.org/pages/races/marathon-walk.html
+1 157
+http://anchoragerunfest.org/styles/innerpages-new4.css
+1 82
+http://www.facebook.com/
+0 224
+http://www.anchoragerunfest.org/bpp/rss/catalog/
+1 1
+http://anchoragerunfest.net/jcountdown/jcountdown.css
+1 2
+http://anchoragerunfest.com/styles/arf-main9.css
+1 6
+android-app://com.google.android.gm/
+1 3
+http://anchoragerunfest.org/blog/archive.php
+1 1
+https://www.baidu.com
+0 5
+https://anchoragerunfest.org/
+1 35
+http://www.anchoragerunfest.org/robots.txt
+1 1
+http://www.anchoragerunfest.org/pages/races/the-military-mile.html
+1 90
+http://www.anchoragerunfest.org/404.html
+1 28
+http://humpysmarathon.com/robots.txt
+1 3
+http://www.anchoragerunfest.org/pages/runner-info/../../images/sponsor-logos-100x100/skinny-raven-100x100.png
+1 3
+http://www.anchoragerunfest.org/blog/2014-12-24-running-to-alaska-stacy-bolyard
+1 24
+http://anchoragerunfest.net/ads.txt
+1 2
+http://humpysmarathon.com/ads.txt
+1 2
+http://www.anchoragerunfest.org/pages/partner.html
+1 1
+http://bigwildliferuns.com/ads.txt
+1 1
+http://www.anchoragerunfest.org/pages/runner-info/spectators.html
+1 1
+http://www.anchoragerunfest.org/site/admin/
+1 1
+http://anchoragerunfest.org/blog/blog.css
+1 1
+http://www.anchoragerunfest.org/bathroom/downloader/
+1 1
+http://www.anchoragerunfest.org/index.php
+1 60
+http://anchoragerunfest.net/styles/home15.css
+1 4
+https://anchoragerunfest.org/jcountdown/jcountdown.css
+1 1
+http://anchoragerunfest.net/pages/news-room/vip-guests.html
+1 1
+https://anchoragerunfest.info/
+1 30
+http://www.anchoragerunfest.org/blog/post.php
+1 112
+http://www.anchoragerunfest.org/pages/races/kids-two-kilometer.html
+1 61
+http://anchoragerunfest.com/index.php
+1 1
+https://www.bing.com/
+0 10
+http://bigwildliferuns.org/
+1 1
+http://www.anchoragerunfest.org/ROhQZ/MThLZ/maps/GooseLake.pdf
+1 1
+http://www.anchoragerunfest.org/pages/runner-info/bib-pick-up.html
+1 107
+http://anchoragerunfest.org/
+1 1666
+http://anchoragerunfest.org/favicon.png
+1 8
+http://anchoragerunfest.org/pages/about/race-director-message.html
+1 10
+http://www.anchoragerunfest.org/blog/2018-08-19-rrca-state-mile-champions-both-run-511s-air-force-takes-the-military-mile
+1 2
+http://www.anchoragerunfest.org/pages/news-room/vip-guests.html
+1 6
+http://www.anchoragerunfest.com/blog/2017-08-19-moe-sets-mile-record-army-takes-the-military-mile-in-record-time
+1 1
+http://www.marathonguide.com/
+0 1
+http://www.anchoragerunfest.org/pages/events/race-week-schedule.html
+1 72
+https://anchoragerunfest.com/jcountdown/jcountdown.css
+1 1
+http://www.anchoragerunfest.org/perch/core/settings/tasks/
+1 2
+http://anchoragerunfest.org/pages/runner-info/training/getting-started.html
+1 3
+http://www.baidu.com/
+0 12
+http://www.anchoragerunfest.org/maps/RunFest_All_Races.pdf
+1 2
+http://www.anchoragerunfest.net/
+1 31
+http://anchoragerunfest.com
+1 118
+https://anchoragerunfest.com/
+1 30
+http://www.anchoragerunfest.org/images/2020-2400x800/2019-BGR-miler.jpg
+1 1
+http://anchoragerunfest.org/pages/runner-info/training/pre-race-tips.html
+1 2
+http://www.anchoragerunfest.org/index.html
+1 287
+http://www.anchoragerunfest.org/pages/events/galloway-clinic.html
+1 9
+http://www.anchoragerunfest.org/favicon.png
+1 7
+http://anchoragerunfest.net
+1 85
+http://www.anchoragerunningclub.org/joinarc.html
+0 3
+http://anchoragemile.com/humans.txt
+0 1
+Google
+2 1420
+http://www.anchoragerunfest.org/pages/runner-info/results.html
+1 236
+http://www.anchoragerunfest.org/maps/RunFest_49k.pdf
+1 2
+http://anchoragerunfest.org/pages/runner-info/training/injury-prevention.html
+1 1
+http://www.anchoragerunfest.org/blog/2019-11-11-on-pace-movement-pacers-coming-to-anchorage
+1 3
+http://anchoragerunfest.info/styles/arf-main9.css
+1 6
+anchoragerunfest.org
+1 2
+http://anchoragerunfest.net/styles/arf-main9.css
+1 4
+http://www.anchoragerunfest.org
+1 75
+http://www.anchoragerunfest.net/pages/races/49k.html
+1 1
+https://anchoragerunfest.org/blog/archive.php
+1 1
+http://www.anchoragerunfest.org/maps-elevations/RunFest Maps_MarathonMap.pdf
+1 1
+http://www.anchoragerunfest.org/ZVnpZ/maps/PostmarkDrive.pdf
+1 2
+http://www.anchoragerunfest.org/downloader/
+1 1
+http://anchoragerunfest.info/humans.txt
+1 1
+http://www.anchoragerunfest.org/perch/addons/apps/perch_blog/edit/
+1 12
+http://www.anchoragerunfest.org/pages/runner-info/../../images/sponsor-logos-100x100/UPT-round-white-100x100.png
+1 3
+https://anchoragerunfest.org/pages/races/marathon.html
+1 319
+https://anchoragerunfest.org/styles/innerpages-new4.css
+1 88
+http://anchoragerunfest.net/styles/innerpages-new4.css
+1 2
+https://www.therunnersplate.com
+0 2
+http://bigwildliferuns.com/
+1 1
+https://www.jbetting.com/
+0 1
+http://www.anchoragerunfest.org/images/2018-2400x800/2018-Ultra-6049-2400.jpg
+1 1
+http://anchoragerunfest.com/
+1 120
+http://www.anchoragerunfest.org/perch/core/apps/categories/
+1 2
+https://www.anchoragerunfest.org/styles/home15.css
+1 6
+http://www.anchoragerunningclub.org/twghm.html
+0 1
+http://www.anchoragerunfest.org/ca/rss/catalog/
+1 1
+http://www.google.com/url/
+1 311
+http://www.anchoragerunfest.org/rss/catalog/notifystock/
+1 1
+http://anchoragerunfest.org/pages/events/
+1 3
+https://www.anchoragerunfest.org/blog/archive.php
+1 1
+http://www.anchoragerunfest.org/pages/runner-info/training/getting-started.html
+1 1
+http://www.anchoragerunfest.org/images/home-page/home-race-photos/ultra3.jpg
+1 1
+http://www.anchoragerunfest.org/aromantica/index.php/admin/
+1 1
+http://www.anchoragerunfest.org/styles/mobile-nav.css
+1 30
+http://www.anchoragerunfest.org/blog/archive.php
+1 26
+http://www.anchoragerunfest.org/QmnPZ/eibZo/maps/GooseLake.pdf
+1 3
+http://anchoragerunfest.org/styles/home15.css
+1 73
+http://www.anchoragerunfest.org/pages/events/pasta-feed.html
+1 3
+http://anchoragerunfest.com/blog/index.php
+1 1
+http://ftp.anchoragerunfest.org/
+1 31
+http://www.anchoragerunfest.org/pages/runner-info/travel-hotel.html
+1 92
+http://anchoragerunfest.org/styles/mobile-nav.css
+1 6
+http://www.anchoragerunfest.org/pages/runner-info/../../images/sponsor-logos-100x100/Lynden-100x100.png
+1 3
+http://www.anchoragerunfest.org/news/vip-guests.html
+1 1
+https://www.anchoragerunfest.org/styles/arf-main9.css
+1 6
+http://anchoragerunfest.org/blog/index.php
+1 2
+https://anchoragerunfest.com/styles/home15.css
+1 2
+http://www.anchoragerunfest.org/images/home-page/down-arrows-circle.png
+1 1
+http://humpysmarathon.com/
+1 4
+http://www.anchoragerunfest.org/pages/runner-info/entertainment.html
+1 3
+https://www.anchoragerunfest.org/
+1 95
+http://anchoragerunfest.org/pages/runner-info/faq.html
+1 2
+http://www.anchoragerunfest.org/blog/index.php
+1 32
+http://anchoragerunfest.org/jcountdown/jcountdown.css
+1 36
+https://www.google.ca/
+1 1
+http://www.anchoragerunfest.org/docs/Avis-Rental-Car-Instructions.pdf
+1 1
+http://www.anchoragerunfest.org/blog/2014-02-06-running-to-alaska-dustin-morris
+1 23
+http://www.anchoragerunfest.org/ads.txt
+1 5
+http://anchoragerunfest.org/pages/sponsors/
+1 1
+http://www.anchoragerunfest.org/perch/core/users/add/
+1 4
+http://www.anchoragerunfest.org/styles/innerpages-new4.css
+1 283
+http://www.anchoragerunfest.org/perch/core/settings/email/
+1 2
+http://www.anchoragerunfest.net/blog/2015-07-13-memorial-race-jeff-dusenbury-sweat-fest
+1 1
+http://anchoragemile.com/
+0 1
+http://www.anchoragerunfest.com/styles/home15.css
+1 2
+http://www.anchoragerunfest.org/pages/races/49K.html
+1 227
+http://anchoragerunfest.com/pages/runner-info/register.html
+1 11
+http://www.anchoragerunfest.org/pages/runner-info/training/pre-race.html
+1 1
+http://bigwildliferuns.org/robots.txt
+1 1
+https://www.anchoragerunfest.org/styles/innerpages-new4.css
+1 8
+http://bigwildliferuns.org/ads.txt
+1 2
+http://anchoragerunfest.net/blog/2020-04-20-anchorage-runfest-cancels-2020-event
+1 1
+http://anchoragerunfest.net/pages/runner-info/register.html
+1 4
+http://anchoragerunfest.info/styles/innerpages-new4.css
+1 1
+http://www.anchoragerunfest.org/QXdXZ/dVTVP/eibZo/maps/GooseLake.pdf
+1 1
+https://www.anchorage.net/events/anchorage-run-fest/
+0 2
+http://www.google.com/url
+1 772
+http://anchoragerunfest.com/jcountdown/jcountdown.css
+1 1
+http://www.anchoragerunfest.org/rss/order/new/
+1 1
+http://www.anchoragerunfest.org/VgKnZ/UolpZ/docs/ExpoPrintedMaterial.pdf
+1 2
+Yahoo!
+2 5
+http://anchoragerunfest.info/blog/archive.php
+1 21
+http://www.anchoragerunfest.org/ca_en/rss/catalog/
+1 1
+http://w.anchoragerunfest.org/
+1 75
+http://www.anchoragerunfest.org/pages/runner-info/register.html
+1 211
+http://www.anchoragerunfest.org/e/admin/index.php
+1 3
+http://www.anchoragerunfest.org/blog/2016-08-04-team-rwbs-old-glory-relay-will-run-in-our-49k
+1 25
+https://raceraves.com/
+0 2
+http://anchoragerunfest.com/blog/archive.php
+1 21
+http://anchoragerunfest.org/pages/news-room/
+1 1
+http://www.anchoragerunfest.org/e/update/resetuser.php
+1 2
+http://anchoragerunfest.org/pages/runner-info/results.html
+1 1
+http://anchoragerunfest.info/styles/home15.css
+1 4
+http://www.anchoragerunfest.org/docs/Sleeping-Lady-Challenge.pdf
+1 2
+http://www.anchoragerunfest.org/images/ARF-logo-200.jpg
+1 6
+http://anchoragerunfest.com/styles/innerpages-new4.css
+1 3
+https://l.facebook.com/
+0 3
+google.com
+1 6
+http://sucuri.net
+0 851
+http://www.anchoragerunfest.org/humans.txt
+1 3
+http://www.anchoragerunfest.org/LYlkZ/maps/Anch_mile_certification.pdf
+1 3
+http://www.bing.com
+0 2
+http://humpysmarathon.com/humans.txt
+1 2
+http://www.anchoragerunfest.org/maps/PostmarkDrive.pdf
+1 1
+http://www.anchoragerunfest.org/blog/
+1 3
+http://anchoragemile.com
+0 1
+http://www.anchoragerunfest.org/pages/news-room/media.html
+1 1
+http://www.anchoragerunningclub.org
+0 4
+http://www.anchoragerunfest.info
+1 21
+http://www.anchoragerunfest.org/perch/
+1 29
+http://www.anchoragerunfest.org/images/newsletter-icon.png
+1 1
+http://anchoragerunfest.org/pages/races/marathon.html
+1 284
+http://anchoragerunfest.info/
+1 68
+http://www.anchoragerunfest.org/maps/BWLR49K.pdf
+1 2
+http://ftp.anchoragerunfest.org/jcountdown/jcountdown.css
+1 1
+https://images.search.yahoo.com/yhs/search
+1 2
+http://bigwildliferuns.org
+1 1
+http://www.anchoragerunfest.org/images/home-page/home-race-photos/marathon-2.jpg
+1 1
+http://www.anchoragerunfest.org/maps/RunFest_Marathon.pdf
+1 9
+http://anchoragerunfest.info/jcountdown/jcountdown.css
+1 2
+http://www.anchoragerunfest.info/pages/races/49k.html
+1 1
+http://www.anchoragerunfest.net/styles/home15.css
+1 2
+android-app://com.google.android.googlequicksearchbox/
+1 3
+https://search.yahoo.com/
+1 2
+http://www.anchoragerunfest.org/pages/runner-info/../../images/sponsor-logos-100x100/humpys-100x100.png
+1 3
+http://www.anchoragerunfest.org/pages/credits.html
+1 3
+https://www.google.com/
+1 186
+http://www.anchoragerunningclub.org/
+0 7
+http://anchoragerunfest.org/wp/
+1 1
+http://www.anchoragerunfest.org/LgfXZ/maps/WestchesterLagoon.pdf
+1 1
+http://www.anchoragerunfest.org/styles/arf-main9.css
+1 222
+http://anchoragerunfest.org/maps/RunFest_49k.pdf
+1 2
+http://www.anchoragerunfest.org/enter/admin/
+1 1
+http://bigwildliferuns.com/robots.txt
+1 1
+http://www.anchoragerunfest.org/blog/2018-01-05-humpys-marathon-makes-runners-world-2018-marathon-bucket-list
+1 1
+anchoragerunfest.com
+1 2
+http://anchoragerunfest.org/pages/runner-info/
+1 1
+http://anchoragerunfest.org/pages/runner-info/register.html
+1 2
+https://www.anchorage.net/things-to-do/entertainment/
+0 1
+http://www.anchoragerunfest.org/admin/
+1 1
+https://www.crawlson.com/search
+0 8
+http://www.anchoragerunfest.net
+1 20
+http://www.anchoragerunfest.net/blog/2020-04-20-anchorage-runfest-cancels-2020-event
+1 1
+http://humpysmarathon.com
+1 1
+http://www.anchoragerunfest.org/maps/RunFest_Half_Marathon.pdf
+1 1
+http://anchoragerunfest.com/ads.txt
+1 2
+http://anchoragerunfest.com/blog/2016-08-04-team-rwbs-old-glory-relay-will-run-in-our-49k
+1 1
+http://www.anchoragerunfest.net/jcountdown/jcountdown.css
+1 1
+http://www.anchoragerunfest.org/pages/runner-info/our-partners.html
+1 1
+https://www.anchoragerunfest.org/pages/races/half-marathon.html
+1 18
+http://www.anchoragerunfest.org/blog/2015-02-15-running-to-alaska-besa-alimi
+1 8
+http://www.anchoragerunfest.org/pages/volunteer.html
+1 1
+http://www.anchoragerunfest.org/pages/runner-info/run-for-good.html
+1 6
+http://www.anchoragerunfest.org/perch/core/users/
+1 12
+http://anchoragerunningclub.org/
+0 2
+http://www.anchoragerunfest.org/Store/downloader/
+1 1
+http://www.anchoragerunfest.org/LfLZZ/UcfbZ/PRilZ/maps/BWLRMarathon.pdf
+1 1
+http://anchoragerunfest.org/index.html
+1 1
+https://www.google.com
+1 28
+http://www.anchoragerunfest.org/pages/sponsors/become-a-sponsor.html
+1 63
+http://www.anchoragerunfest.org/perch/core/settings/
+1 8
+https://r.search.yahoo.com/_ylt
+1 1
+http://www.anchoragerunfest.org/perch/core/settings/diagnostics/
+1 4
+http://anchoragemile.com/ads.txt
+0 2
+http://www.anchoragerunfest.org/pages/races/five-kilometer.html
+1 87
+http://www.anchoragerunfest.org/
+1 5246
+http://www.anchoragerunfest.org/images/2020-2400x800/2019-marathon-start4.jpg
+1 2
+http://www.anchoragerunfest.org/perch/core/assets/css/styles.css
+1 1
+http://www.anchoragerunfest.org/perch/core/apps/assets/
+1 33
+http://www.anchoragerunfest.org/docs/full-marathon-elevation.pdf
+1 1
+http://foou.chedishu.com/blog/2557420/view/
+0 2
+http://www.anchoragerunfest.info/
+1 7
+http://www.anchoragerunfest.org/images/2020-2400x800/2019-5K-start-shadows.jpg
+1 1
+https://sauna-v-ufe.ru/
+0 1
+https://l.instagram.com/
+0 2
+https://anchoragerunfest.org/styles/home15.css
+1 2
+http://anchoragerunfest.org/pages/races/
+1 4
+http://anchoragerunfest.net/wp-login.php
+1 2
+http://www.anchoragerunfest.org/brand/european-select/
+1 1
+http://anchoragerunfest.net/
+1 69
+https://anchoragerunfest.org/pages/races/49K.html
+1 313
+http://www.anchoragerunfest.org/pages/runner-info/race-day.html
+1 57
+http://www.anchoragerunfest.org/pages/races/the-anchorage-mile.html
+1 133
+http://www.anchoragerunfest.org/pages/runner-info/faq.html
+1 18
+http://www.anchoragerunfest.org/pages/events/movie.html
+1 43
+http://anchoragerunfest.org/pages/races/49K.html
+1 75
+http://baidu.com/
+0 7
+http://www.anchoragerunfest.org/styles/home15.css
+1 177
+http://www.anchoragerunfest.org/blog/2020-04-20-anchorage-runfest-cancels-2020-event
+1 114
+http://www.anchoragerunfest.org/pages/about/race-committee.html
+1 26
+http://www.anchoragerunfest.org/e/admin/ecmsadmin.php
+1 2
+https://anchoragerunfest.info/jcountdown/jcountdown.css
+1 1
+http://www.anchoragerunfest.info/blog/2018-08-12-30-miles-for-30-years
+1 1
+http://www.anchoragerunfest.org/WWRPZ/maps/BWLRMarathon.pdf
+1 1
+http://www.anchoragerunfest.org/styles/arf-main6.css
+1 1
+http://www.anchoragerunfest.com/styles/arf-main9.css
+1 2
+https://m.facebook.com/
+0 1
+http://www.anchoragerunfest.org/blog/2014-08-08-2014-finishers-medals
+1 1
+http://www.anchoragerunfest.org/pages/races/marathon-relay.html
+1 1
+http://www.anchoragerunfest.org/perch/addons/apps/perch_blog/authors/
+1 2
+http://www.anchoragerunfest.org/maps/GooseLake.pdf
+1 1
+http://www.anchoragerunfest.org/pages/races/half-marathon.html
+1 729
+http://www.anchoragerunfest.com/
+1 30
+http://runforfuncruise.com
+0 1
+http://www.anchoragerunfest.org/images/maps-jpg/RunFest_Marathon.jpg
+1 1
+http://www.anchoragerunfest.org/blog/2017-08-19-moe-sets-mile-record-army-takes-the-military-mile-in-record-time
+1 67
+http://www.anchoragerunfest.org/admin/index.php/rss/
+1 1
+http://bigwildliferuns.org/humans.txt
+1 1
+https://www.anchoragerunfest.org/pages/runner-info/bib-pick-up.html
+1 3
+http://www.anchoragerunfest.org/pages/events/expo-exhibitor-list.html
+1 23
+http://anchoragerunfest.org/pages/about/race-history.html
+1 45
+https://anchoragerunfest.info/styles/arf-main9.css
+1 2
+http://www.anchoragerunfest.org/pages/about/race-director-message.html
+1 5
+http://www.bigwildliferuns.org/index.html
+1 1
+fbapp://350685531728/unknown
+0 1
+http://ftp.anchoragerunfest.org/styles/arf-main9.css
+1 2
+https://www.google.com.tr/
+1 1
+http://anchoragerunfest.org/maps/RunFest_Half_Marathon.pdf
+1 2
+http://anchoragerunfest.info/wp-login.php
+1 2
+http://www.usamarathonlist.com/
+0 6
+http://www.anchoragerunfest.org/cms-admin/admin/
+1 1
+http://www.google.com/
+1 13
+https://badavit.com.ua/
+0 1
+http://anchoragerunfest.org/pages/runner-info/race-day.html
+1 26
+http://www.anchoragerunfest.org/OSVmZ/maps/Anchorage-Mile-Course-Map.pdf
+1 1
+http://bigwildliferuns.com
+1 1
+https://azartmsl.com/
+0 2
+https://www.anchoragerunfest.org/jcountdown/jcountdown.css
+1 3
+http://www.bing.com/
+0 109
+http://anchoragerunfest.net/humans.txt
+1 3
+https://www.anchoragerunfest.org/robots.txt
+1 2
+https://anchoragerunfest.org/styles/arf-main9.css
+1 23
+http://anchoragerunfest.org
+1 58
+http://www.anchoragerunfest.org/admin/index/
+1 1
+http://www.anchoragerunfest.net/blog/2017-04-24-runfest-adds-a-costume-contest-to-the-5k
+1 1
+http://www.anchoragerunningclub.org/SleepingLadyChallenge.html
+0 2
+http://anchoragerunfest.org/styles/arf-main9.css
+1 79
+http://www.anchoragerunfest.org/pages/sponsors/all-sponsors.html
+1 35
+http://www.anchoragerunfest.org/pages/races/49k.html
+1 1
+http://anchoragerunfest.net/blog/index.php
+1 1
+http://www.anchoragerunfest.org/docs/half-marathon-elevation.pdf
+1 2
+http://www.anchoragerunfest.org/pages/about/race-history.html
+1 7
+http://anchoragerunfest.org/ads.txt
+1 1
+http://anchoragerunfest.org/humans.txt
+1 1
+http://anchoragerunfest.org/pages/runner-info/travel-hotel.html
+1 6
+http://www.anchoragerunfest.net/blog/index.php
+1 1
+https://sg.shuct.net/cache/Google/en/anchoragerunfest.org
+1 14
+http://www.usamarathonlist.com/mooses-tooth-marathon.php
+0 6
+https://anchoragerunfest.org/styles/mobile-nav.css
+1 21
+http://www.anchoragerunfest.org/jcountdown/jcountdown.css
+1 84
+http://google.com
+1 34
+http://www.anchoragerunfest.org/admin/sales_order/
+1 1
+http://www.anchoragerunfest.net/styles/arf-main9.css
+1 2
+http://www.anchoragerunfest.org/docs/travel-hotel-docs/2021-Anchorage-Runfest-hotel-rates.pdf
+1 1
+# End Of Table - referrers
+# -agents- 
+YandexImages/3.0
+0 39
+Mozilla/4.0 (compatible;)
+0 149
+mozilla/5.0 (windows nt 6.1) applewebkit/537.36 (khtml, like 
+0 2
+MobileSafari/604.1 CFNetwork/1206 Darwin/20.1.0
+0 15
+adidxbot/2.0
+0 6
+Lynx
+2 1
+MixrankBot
+0 17
+MSIE 10.0
+0 11
+MSIE 7.0
+0 16
+media-bot
+0 4
+Googlebot-Image/1.0
+0 8
+Googlebot/2.1
+0 789
+Baiduspider-render/2.0
+0 12
+MSIE 5.5
+0 2
+ZoominfoBot (zoominfobot at zoominfo dot com)
+0 572
+Dalvik/2.1.0 (Linux; U; Android 10; SM-G970U Build/QP1A.19071
+0 1
+Go-http-client/1.1
+0 110
+mozilla/5.0 (windows nt 6.3; wow64; rv:47.0) gecko/20100101 f
+0 1
+Wget/1.20.3 (linux-gnu)
+0 1
+WikiDo/1.1 (http://wikido.com; crawler@wikido.com)
+0 25
+Netscape 6 compatible
+2 20900
+MobileSafari/604.1 CFNetwork/1128.0.1 Darwin/19.6.0
+0 4
+Netscape 2 (or compatible)
+2 1
+python-requests/2.24.0
+0 6
+Gowikibot/1.0
+0 2
+IABot/2.0 (+https://meta.wikimedia.org/wiki/InternetArchiveBo
+0 1
+coccocbot-web/1.0
+0 15
+e.ventures Investment Crawler (eventures.vc)
+0 27
+Ruby
+0 1
+[FBAN/FB4A;FBAV/299.0.0.51.236;FBBV/261476378;FBDM/{density=2
+0 1
+Nuclei - Open-source project (github.com/projectdiscovery/nuc
+0 4
+SurdotlyBot/1.0
+0 4
+NetSurf/1.2 (NetBSD; amd64)
+0 1
+Adsbot/3.1
+0 4
+Googlebot/2.1; +http://www.google.com/bot.html)
+0 173
+Safari/15610.3.7.1.10 CFNetwork/1128.0.1 Darwin/19.6.0 (x86_6
+0 1
+Apache-HttpClient/4.5.2 (Java/1.8.0_151)
+0 20
+Trident/7.0
+0 19
+http.rb/4.2.0
+0 4
+curl/7.29.0
+0 7
+Dataprovider.c
+0 147
+Mozilla/5.0
+0 20900
+AppEngine-Google; (+http://code.google.com/appengine; appid: 
+0 1
+Vpsnavbot/7.0
+0 2
+Pandalytics/1.0 (https://domainsbot.com/pandalytics/)
+0 5
+AhrefsBot/6.1
+0 73
+Googlebot/2.1 (+http://www.google.com/bot.html)
+0 35
+YandexFavicons/1.0
+0 41
+CATExplorador/1.0beta (sistemes at domini dot cat; http://dom
+0 1
+robots
+0 4
+AndyHTTP/1.4
+0 1
+Opera/9.0
+0 1
+Ipad Iphone Safari
+0 65
+Opera/9.8
+0 1
+serpstatbot/1.0 (advanced backlink tracking bot; curl/7.58.0;
+0 1
+Dalvik/2.1.0 (Linux; U; Android 10; SM-N981U Build/QP1A.19071
+0 2
+Baiduspider/2.0
+0 10
+cortex/1.0
+0 1
+Leap
+0 11
+YandexBot/3.0
+0 196
+SpiderLing (a SPIDER for LINGustic re
+0 222
+Opera
+2 3
+YaK/1.0
+0 4
+Cirkwi-search/1.0
+0 1
+Python-urllib/3.5
+0 2
+Python-urllib/3.7
+0 1
+Slack-ImgProxy (+https://api.slack.com/robots)
+0 16
+Opera/7.5
+0 1
+Safari/15610.2.11.51.10 CFNetwork/1128.0.1 Darwin/19.6.0 (x86
+0 1
+PetalBot
+0 129
+MSIE 8.0
+0 1395
+Dalvik/2.1.0 (Linux; U; Android 10; SM-N975U Build/QP1A.19071
+0 1
+python-requests/2.18.1
+0 1
+panscient.com
+0 2
+python-requests/2.18.4
+0 2
+NetcraftSurveyAgent/1.0
+0 5
+Embarcadero URI Client/1.0
+0 1
+ZoomInformation Bot
+0 1
+heritrix/3.1
+0 4
+Python/3.8 aiohttp/3.7.3
+0 1
+TestBot/0.1
+0 2
+MSIE 6.0
+0 11
+axios/0.19.2
+0 6
+magpie-crawler/1.1 (U; Linux amd64; en-GB; +http://www.brandw
+0 5
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) A
+0 32
+Microsoft Office Word 2013
+0 1
+bingbot/2.0
+0 1245
+Seekport Crawler
+0 70
+SiteLockSpider [en] (WinNT; I ;Nav)
+0 718
+Optimizer)"
+0 6
+Dalvik/2.1.0 (Linux; U; Android 10; SM-N960U Build/QP1A.19071
+0 1
+Google-Site-Verification/1.0
+0 1
+python-requests/2.25.0
+0 34
+AppleNewsBot
+0 9
+Netscape 4 (or compatible)
+2 149
+Elisabot
+0 11
+SirdataBot
+0 1
+HTMLParser/2.0
+0 1
+Java/11.0.6
+0 8
+Googlebot (gocrawl v0.4)
+0 2
+python-requests/2.23.0
+0 1
+Crawlson/1.0
+0 8
+coccocbot-image/1.0
+0 11
+Safari/13609.3.5.1.5 CFNetwork/902.6 Darwin/17.7.0 (x86_64)
+0 2
+Lynx/2.8.9rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/1.1.1d
+1 1
+DuckDuckGo-Favicons-Bot/1.0
+0 30
+SEMrushBot
+0 1
+Nimbostratus-Bot/v1.3
+0 25
+hrankbot/1.0
+0 10
++Googlebot/2.1
+0 1
+iTunes/9.0.3 (Macintosh; U; Intel Mac OS X 10_6_2; en-ca)
+0 1
+ltx71 - (http://ltx71.com/)
+0 42
+Konqueror/4.3
+0 1
+Konqueror/4.5
+0 1
+node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+0 12
+evc-batch/2.0
+0 14
+AhrefsBot/7.0
+0 449
+Linux x86_64
+0 217
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit
+0 198
+Panorax Content Recognition/1.0.0 (https://panorax.hisorange.
+0 1
+DomainStatsBot/1.0 (https://domainstats.com/pages/our-bot)
+0 40
+Konqueror
+2 2
+Mozilla/2.0
+1 1
+Twitterbot/1.0
+0 33
+aria2/1.35.0
+0 1
+Daum/4.1
+0 4
+MSIE 9.0
+0 812
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

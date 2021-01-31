@@ -1,0 +1,12 @@
+
+<h3>Tags</h3>
+<ul>
+
+    <li><a href="archive.php?tag=taps" rel="tag">TAPS</a></li>
+
+    <li><a href="archive.php?tag=the-anchorage-mile" rel="tag">The Anchorage Mile</a></li>
+
+    <li><a href="archive.php?tag=bart-yasso" rel="tag">Bart Yasso</a></li>
+
+    <li><a href="archive.php?tag=the-military-mile" rel="tag">The Military Mile</a></li>
+</ul>

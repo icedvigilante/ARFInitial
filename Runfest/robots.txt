@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /images/
+Disallow: /jcountdown/
+Disallow: /jquery/
+Disallow: /styles/
+Disallow: /Templates/
+Disallow: /_notes/
+Disallow: /moose/
+
+
+Sitemap: http://www.anchoragerunfest.org/sitemap.xml

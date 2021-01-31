@@ -1,0 +1,814 @@
+@charset "UTF-8";
+
+/*  --  Default wide-screen styles   -- */
+
+
+/* basic reset ala  Eric Meyers 2.0 */
+body                                                                             {	
+	margin: 0;	
+	padding: 0;	
+	border: 0;	
+	font-size: 100%;
+	font: inherit;	
+	vertical-align: baseline;
+	-webkit-text-size-adjust:none;
+	-moz-text-size-adjust:none;
+	-ms-text-size-adjust:none;
+	-webkit-text-size-adjust:100%;
+	-moz-text-size-adjust:100%;
+	-ms-text-size-adjust:100%;
+}
+
+/* 
+--------------------------
+ GENERAL STYLES 
+-------------------------- */
+
+body {
+	font-family: "Proxima Nova", Arial, Helvetica, sans-serif;
+	color: #666;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	font-size: 100%;
+}
+
+h1 {
+	font-family: "presicav", Arial, Helvetica, sans-serif;
+	font-size: 1.75em;
+	color: #4D7B20;
+	color: #ed1b24;
+	border-bottom: 2px solid #ed1b24;
+	line-height: 1.5em;
+	padding-top: 20px;
+}
+
+h2 {
+	font-family: "presicav",Arial, Helvetica, sans-serif;
+	font-size: 1.25em;
+	font-weight: lighter;
+	line-height: normal;
+	clear: both;
+	text-align: left;
+}
+
+h3 {
+	font-family: "presicav",Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	color:  #ed1b24;
+	font-weight: lighter;
+	line-height: normal;
+	clear: both;
+}
+
+.sponsoredby {font-size: 1.5em;color: #ed1b24;}
+
+a {	color: #ed1b24;
+	text-decoration: none;}
+	
+a:hover,a:active,a:focus {color: #000; text-decoration: none;}
+
+img {
+	max-width: 100%;
+}
+
+a img {
+	text-decoration: none;
+	border-style: none !important;
+	border-width: 0px !important;
+}
+
+a:active img,
+a:hover img,
+a:focus img {
+	border-style: none !important;
+	border-width: 0px !important;
+}
+
+p {font-family: "Proxima Nova", Arial, Helvetica, sans-serif;
+line-height: 1.5em;   }
+
+
+/* 
+------------------------------------------------------------------
+HEADER: LOGO, CONTACT, REGISTER BLOCK (not register button)
+------------------------------------------------------------------- */
+#header-wrap {
+	width: 100%;
+	height: 7em;
+	background-color: #FFF;
+}
+
+
+#header {
+	height: 6em;
+	width: 90%;
+	margin: 0 auto;
+	text-align: right;
+}
+
+#header a img {
+	max-width: 100%;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft. »
+		Alpha(Opacity=100)";  /*IE 8 hack */
+	filter: alpha(opacity = 100); /* IE 5-7 hack */
+	-webkit-transition: opacity 0.4s ease-in-out;
+	   -moz-transition: opacity 0.4s ease-in-out;
+	     -o-transition: opacity 0.4s ease-in-out;
+	        transition: opacity 0.4s ease-in-out;
+}
+
+#header a:active img,
+#header a:hover img,
+#header a:focus img {
+	opacity: .5;
+	-ms-filter: "progid:DXImageTransform.Microsoft. »
+		Alpha(Opacity=50)";  /*IE 8 hack */
+	filter: alpha(opacity = 50); /* IE 5-7 hack */
+}
+
+#arflogo {
+	float: left;
+	width: 80px; 
+	width: 120px;
+	/*width: 240px; for use with double icon ARF and RROTY logos*/
+	height: 4.6em;
+	padding: 1em 1em 0 2em;
+}
+
+#arf-subtext {
+	font-size: 0.8em;
+	font-style: italic;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	line-height: -1em;
+	color: #999;
+	color: #000;
+	float: left;
+	width: 100%;
+	text-align: left;
+	padding-top: .5em;
+}
+
+#join-constant-contact {
+	float: right;
+	width: 25%;
+	padding: 1em 2em;
+	font-size: .625em;
+	text-align: right;
+}
+
+#join-constant-contact a {
+	color: #000;
+	text-decoration: none;
+}
+
+#join-constant-contact a:active,
+#join-constant-contact a:hover, 
+#join-constant-contact a:focus {
+	color: #ed1b24;
+	text-decoration: none;
+	-webkit-transition:  0.3s ease-in-out;
+	   -moz-transition:  0.3s ease-in-out;
+	     -o-transition:  0.3s ease-in-out;
+	        transition:  0.3s ease-in-out;
+}
+
+
+#register-block {
+	float: right;
+	padding: .25em 1.75em .25em .75em;
+	background-color: #000;
+	font-size: 1.5em;
+	Font-weight: bold;
+	-moz-border-radius:0px 0px 4px 4px;
+	-webkit-border-radius:0px 0px 4px 4px;
+	border-radius:0px 0px 4px 4px;
+	background-image: url(../../../../Downloads/Runfest/images/chevron-single-white.png);
+	background-repeat: no-repeat;
+	background-position: right center;
+	
+}
+
+
+
+#register-block a {color: #FFF;}
+#register-block a:active,#register-block a:hover,#register-block a:focus {color: #ed1b24;}
+
+
+	
+
+/*
+------------------------------------------------
+NAVIGATION
+--------------------------------------------------*/
+#top-nav-wrap {
+	width: 80%;
+	clear: right;
+	float: right;
+}
+
+#topnav {
+	width: 100%;
+	margin-top: 1.5em;
+	height: 2.3em;
+}
+
+#mobilenavigation {
+	visibility: hidden;
+	height: 0px;
+	width: 0px;
+	
+}
+
+/*
+------------------------------------
+RACE DATE 
+-------------------------------------*/
+
+
+#race-date {
+	width: 100%;
+	background-color: #4D7B20;
+	padding: .5em 0em;
+	clear: both;
+	color: #FFF;
+	font-family: "presicav",Arial, Helvetica, sans-serif;
+	text-align: center;
+	letter-spacing: 0.15em;
+}
+
+/*
+----------------------------- 
+SOCIAL MEDIA LINKS 
+-----------------------------*/
+
+#social-block-wrap {
+	padding: 10px;
+	padding: 5px 10px;
+	position: absolute;
+	z-index: 900;
+	top: 0px;
+	-moz-border-radius: 0px 0px 4px 0px;
+	-webkit-border-radius: 0px 0px 4px 0px;
+	border-radius: 0px 0px 4px 0px;
+	background-color: #000;
+}
+
+#social-block { }/* style needed in smaller size windows */
+
+#social-block .social-link img {
+	float: left;
+	padding: 5px 0px;
+	max-width: 25px;
+}
+	
+#social-block .social-link a img {
+	opacity: 1.0;
+	-ms-filter: "progid:DXImageTransform.Microsoft. »
+		Alpha(Opacity=100)";  /*IE 8 hack */
+	filter: alpha(opacity = 1.0); /* IE 5-7 hack */
+	-webkit-transition: opacity 0.3s ease-in-out;
+	   -moz-transition: opacity 0.3s ease-in-out;
+	     -o-transition: opacity 0.3s ease-in-out;
+	        transition: opacity 0.3s ease-in-out;	
+}
+
+#social-block .social-link a:active img,
+#social-block .social-link a:hover img,
+#social-block .social-link a:focus img {
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft. »
+		Alpha(Opacity=50)";  /*IE 8 hack */
+	filter: alpha(opacity = 50); /* IE 5-7 hack */
+
+}
+
+/*
+----------------------------------
+MAIN CONTENT
+-----------------------------------*/
+
+#mainwrap-wrap {
+	margin: -5px 0 0 0;/* this puts the shadow under the photo above it */
+	padding: 2em 0px;
+	width: 100%;
+	height: 20em;
+	background-image: url(../../../../Downloads/Runfest/images/mainwrap-wrap-bkrnd.png);/* shadow for top of page header photo */
+	background-repeat: repeat-x;
+	background-position: left top;	
+}
+
+ 
+#mainwrap {
+	width: 60em; /* 960px/16px/em=60em */
+	margin: 0 auto;
+}
+
+#maincontent {
+	float: left;
+	width: 40em; /* 640px/16px/em=40em */
+}
+
+#rightsidebar {
+	float: right;
+	width: 17.8125em;/* 285px/16px/em=17.8125em */
+	padding-left: 2.1875em;/* 35px/16px/em=2.1875em */
+}
+
+.clear {
+	clear: both;
+}
+
+
+/*
+----------------------------------
+FOOTER
+-----------------------------------*/
+
+
+#top-button-wrap-wrap {
+	height: 50px;
+	width: 50px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#top-button-wrap {
+	position: relative;
+	z-index: 700;
+	width: 50px;
+	height: 50px;
+	top: 25px;
+	top: -85px; /* the 60px top padding of footer wrap plus half of the top circle */	
+}
+
+
+#footerwrap {
+	width: 100%;
+	height: 50em;
+	clear: both;
+	padding-top: 3.75em;/* 60px/16px/em=3.75em */
+	margin-bottom: 0px;
+	background-color: #434343;
+}
+
+#footer {
+	width: 60em;/* 960px/16px/em=60*/
+	color: #999;
+	padding: 2 em 0 3em 0; 
+	margin: 0 auto;	
+}
+
+#arf-rep img { padding: 0 10px;}
+	
+#arf-rep {
+	font-size: .75em;
+	width: 51.666em;/* 620px/12px/em=51.6666em */
+	color: #999;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	line-height: 2em;
+	font-style: italic;
+	margin: 0 auto 4em auto;
+}
+
+#sponsorlogos {
+	float: left;
+	height: 20em;
+	width: 94%;
+	padding: 0 3%;
+}
+
+.logo-link {
+	/*width: 18%; 100% / 5 = 20%*/ 
+	width: 14.66%; /*100% / 6 = 16.66666% */
+	padding: 0 1%;
+	padding: 0 1% 2em 0;
+	float: left;
+}
+
+#sponsorlogos .logo-link a:active img,
+#sponsorlogos .logo-link a:hover img,
+#sponsorlogos .logo-link a:focus img {
+	opacity: .5;
+	-ms-filter: "progid:DXImageTransform.Microsoft. »
+		Alpha(Opacity=50)";  /*IE 8 hack */
+	filter: alpha(opacity = 50); /* IE 5-7 hack */
+}
+
+
+#orginfo {
+	font-size: .75em;
+	clear: both;
+	text-align: center;
+}
+
+#orginfo a {
+	color: #999;
+	text-decoration: none;
+}
+
+#orginfo a:active,
+#orginfo a:hover,
+#orginfo a:focus {
+	color: #FFF;
+	text-decoration: none;
+}
+
+#orginfo a:visited {
+	color: #999;
+	text-decoration: none;
+}
+
+
+/*
+----------------------------------------
+MEDIA QUERIES
+----------------------------------------*/
+
+
+/*(max-width: 730px)*/
+@media screen and (max-width: 45.625em) {
+	
+#social-block-wrap {
+	width: 100%;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 36px;
+	-moz-border-radius:0px 0px 0px 0px;
+	-webkit-border-radius:0px 0px 0px 0px;
+	border-radius: 0px 0px 0px 0px;
+	padding: 5px 0px;	
+}
+
+#social-block {
+	width: 320px;
+	margin: 0 auto;
+}
+
+#social-block .social-link img {
+	float: left;
+	padding: 0 15px;
+	max-width: 34px;
+}
+	
+	
+#header-wrap {
+	width: 100%;
+	background-color: #FFF;
+	margin-top: 50px;	 
+}
+	
+#header {
+	height: 12em;
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;	
+	padding: 0;
+}
+
+#arflogo {
+	float: none;
+	width: 80px;
+	width: 120px;
+	width: 172px; /*for use with arf-coolidge dedication logo*/
+	height: 4.2em;
+	padding: 1em 0;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 200px;
+	padding-left: 0px;
+}
+
+#arf-subtext {display: none;}
+
+#join-constant-contact {display: none;}
+
+#register-block {
+	float: none;
+	padding: .25em 0em .25em 0em;
+	width: 96%;
+	padding-left: 4%;
+	font-size: 1.5em;
+	-moz-border-radius:0px 0px 0px 0px;
+	-webkit-border-radius:0px 0px 0px 0px;
+	border-radius:0px 0px 0px 0px;
+	background-image: none;
+	margin-top: .25em;
+	position: absolute;
+	left: 0px;
+	top: 190px;
+	height: 1em;
+	letter-spacing: .15em;
+	z-index: 999;
+	text-align: left;
+}
+
+#register-block a .central-arrows {display:inline;display:none;}
+
+#top-nav-wrap { display: none;}
+
+#mobilenavigation {
+	visibility: visible;
+	position: absolute;
+	top: 195px;
+	width: 100%;
+}
+	
+
+
+
+
+} /*/mediaquery*/
+
+
+/*  lg tablet */
+
+/*(min-width: 640px) and (max-width: 960px) */
+@media screen and (min-width: 40em) and (max-width: 60em) {
+	
+	h1 {font-size: 1.5em;}
+	
+	.sponsoredby {font-size: 1.25em;}
+	
+	#header {width: 90%;/* keep this */}
+		
+	#contact-join {padding-right: 1em;width: 40%;}
+	
+	#mainwrap {
+		width: 40em;/*(640px/16px/em=40em */
+		margin-top: 0px;
+	}
+	
+	#maincontent {width: 100%;float: none;}
+	
+	#rightsidebar {
+		float: left;
+		width: 90%;
+		padding-left: 5%;
+		padding-right: 5%;
+		color: #CCC;
+		font-size: 0.8em;
+	}
+	
+	#footerwrap {padding-top: 3.75em;}
+	
+	#footer {width: 640px;}
+	
+	#arf-rep {width: 100%;}
+	
+	#sponsorlogos {
+		clear: both;
+		padding-left: 0%;
+		padding-right: 0%;
+		height: 25em;
+	}
+	
+	.logo-link {
+		/*width: 18%; 100% / 5 = 20% */
+		width: 31%; /*100% / 3 =33.33%*/
+		padding: 0 1%;
+		padding: 0 1% 2em 0;
+		float: left;
+	}
+	
+	#orginfo {
+		width: 100%;
+		text-align: center;
+		margin-top: 15em;
+	}
+	
+
+} /*/mediaquery*/
+
+
+/*  sm tablet */
+
+/*(min-width: 481px) and (max-width: 639px) */
+@media screen and (min-width: 30.0625em) and (max-width: 39.9375em) {
+	
+	body {background-position: left -170px;}
+	
+	#register-button  {
+		width: 80%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	h1 {font-size: 1.5em;}
+	
+	.sponsoredby {font-size: 1.25em;}
+	
+	#mainwrap {width: 90%;margin-top: 0px;}
+	
+	#maincontent {width: 100%;float: none;}
+	
+	#maincontent img {max-width: 100%;}
+	
+	#rightsidebar {
+		float: left;
+		width: 90%;
+		padding-left: 5%;
+		padding-right: 5%;
+		color: #CCC;
+		font-size: 0.8em;
+	}
+	
+	#footerwrap {
+		padding-top: 0;
+		padding-bottom: 2em;
+		margin-top: 0;
+	}
+	
+	#top-button-wrap {top: -25px; /* the 60px top padding of footer wrap plus half of the top circle */
+		
+	}
+	
+	#footer {width: 90%;padding-top: 8em;;}
+	
+	#arf-rep {width: 90%;}
+	
+	#sponsorlogos {
+		clear: both;
+		float: none;
+		width: 90%;
+		height: 10em;
+		margin-left: auto;
+		margin-right: auto;
+		padding-left: 0%;
+		padding-right: 0%;
+	}
+	.logo-link {
+		/*width: 18%; 100% / 5 = 20%*/
+		width: 31%; /*100% / 3 =33.33%; 3 per row */
+		padding: 0 1%;
+		padding: 0 1% 2em 0;
+		float: left;
+	}
+		
+	#orginfo {
+		text-align: center;
+		width: 90%;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 1em;
+		font-size: .8em;
+	}
+
+
+} /*/mediaquery*/
+
+
+
+
+/*  mobile  */
+
+
+/*(max-width: 480px)*/
+@media screen and (max-width: 30em) {
+	
+	#register-block {text-align: left;}
+	
+	
+	h1 {font-size: 1.5em;line-height: 1.25em;}
+	
+	.sponsoredby {font-size: 1.25em;}
+	
+	#mainwrap {width: 100%;margin-top: 1em;}
+	
+	#rightsidebar {
+		float: left;
+		width: 90%;
+		padding-left: 5%;
+		padding-right: 5%;
+		color: #CCC;
+		font-size: 0.8em;
+	}
+	
+	#footerwrap {padding-top: 3.75em;}
+	
+	#footer {width: 90%;}
+	
+	#arf-rep {width: 100%;}
+	
+	#sponsorlogos {
+		clear: both;
+		width: 90%;
+		height: 18em;
+		height: 25em;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	
+	
+	.logo-link-larger {
+		width: 29.3333%; 
+		padding-left: 2%;
+		padding-right: 2%;
+		padding-bottom: 1em;
+		padding-top: 2em;
+		height: 5em;
+	}
+
+	.logo-link {
+		width: 29.3333%; 
+		padding-left: 2%;
+		padding-right: 2%;
+		padding-bottom: 1em;
+		padding-top: 0em;
+		height: 7em;
+	}
+	
+	#orginfo {
+		text-align: center;
+		width: 100%;
+		margin-top: 10em;
+		font-size: .8em;
+	}
+	
+
+} /*/mediaquery*/
+
+
+
+
+/*(max-width: 360px)*/
+@media screen and (max-width: 22.5em) {
+	
+	h1 {font-size: 1.25em;}
+	
+	.sponsoredby {font-size: 1em;}
+	
+	h2 {font-size: 1.1em;}
+	
+	#race-date {font-size: .9em;}
+	
+	#social-block-wrap {
+		width: 100%;
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		height: 30px;
+		-moz-border-radius:0px 0px 0px 0px;
+		-webkit-border-radius:0px 0px 0px 0px;
+		border-radius:0px 0px 0px 0px;
+		padding: 5px 0px;	
+	}
+	
+	#social-block {
+		width: 280px;
+		width: 77.777%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	#social-block .social-link img {
+		float: left;
+		padding: 0 13px;
+		padding: 0 4.64285%;
+		max-width: 30px;
+		max-width: 10.71428%;
+	}
+	
+
+
+/*(max-width: 319px) */
+@media screen and (max-width: 19.9375em) {
+	
+	h1 {font-size: 1.25em;}
+	
+	.sponsoredby {font-size: 1em;}
+	
+	h2 {font-size: 1.1em;}
+	
+	#race-date {font-size: .7em;padding: 1em 0em 1.5em 0em;}
+	
+	#register-block {font-size: 1.2em;}
+	
+	#sponsorlogos {height: 30em;}
+	
+	.logo-link {
+		width: 44%; 
+		padding-left: 3%;
+		padding-right: 3%;
+		padding-bottom: 1em;
+		padding-top: 0em;
+		height: 6em;
+	}
+	
+} /*/mediaquery*/	
+
+
+
+
+
+/*(max-width: 240px)*/
+@media screen and (max-width: 15em) {
+	
+	#race-date {font-size: .6em;padding-bottom: 1.5em;padding-top: 1em; }
+	
+
+	
+} /*/mediaquery*/	
