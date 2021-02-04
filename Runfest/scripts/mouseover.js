@@ -13,7 +13,9 @@
 // });
 
 $(document).ready(function() {
-    $("[data-fancybox]").fancybox();
+    $("[data-fancybox]").fancybox({
+        overlayOpacity: "0.85"
+    });
 
     $("#filters a").click(function() {
         $("#filters .current").removeClass("current");

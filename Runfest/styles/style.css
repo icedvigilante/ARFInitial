@@ -136,7 +136,7 @@
 }
 
 .items .item:hover .projectLink {
-    right: 0px
+    right: 0px;
 }
 
 .items .item:hover img {
