@@ -30,7 +30,9 @@
 <!-- InstanceEndEditable -->
 
 <!-- Styles -->
-<link rel="stylesheet" href="../styles/arf-main9.css">
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+<link rel="stylesheet" href="../../styles/style.css">
+<link rel="stylesheet" href="../styles/arf-main8.css">
 <link href="../styles/mobile-nav.css" rel="stylesheet" type="text/css" media="screen" />
 <link rel="stylesheet" href="../styles/main-nav.css" type="text/css" />
 
@@ -39,6 +41,7 @@
 <link rel="alternate" type="application/rss+xml" title="RSS" href="rss.php" />
 <link rel="stylesheet" href="blog.css" type="text/css" /> 
 <!-- InstanceEndEditable -->
+
  
 <!-- InstanceBeginEditable name="iescripts" -->
 <!--[if lt IE 9]>
@@ -59,7 +62,7 @@
 			});    
 		});
 </script>
-<script src="../jquery/jquery-1.8.2.min.js"></script>
+<!--<script src="../jquery/jquery-1.8.2.min.js"></script>-->
 <link href="../jcountdown/jcountdown.css" rel="stylesheet" type="text/css">
 <script src="../jcountdown/jquery.jcountdown.min.js"></script>
     
@@ -132,7 +135,8 @@
                     </li>
                     <li class="topmenu"><a href="#"><span>EVENTS</span></a>
                         <ul>
-                            <li class="subfirst"><a href="../pages/events/movie.html">Movie</a></li>
+                            <li class="subfirst"><a href="../pages/events/2021-expo.html">Virtual Expo</a></li>
+                            <li><a href="../pages/events/movie.html">Movie</a></li>
                             <li><a href="../pages/events/family-health-and-safety-day.html">Family Health &amp; Safety Day</a></li>                    
                             <li><a href="../pages/events/pasta-feed.html">Pasta Feed</a></li>
                             <li><a href="../pages/events/race-week-schedule.html">Race Week Schedule</a></li>
@@ -363,7 +367,13 @@
 	</div><!-- end #footer -->
             
 </div><!-- end #footerwrap -->
-   
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+
+<script type="text/javascript" src="../../scripts/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="../../scripts/jquery.easing-1.4.pack.js"></script>
+<script src="../../scripts/jquery.superslides.min.js"></script>
+<script src="https://unpkg.com/isotope-layout@3.0.6/dist/isotope.pkgd.min.js"></script>
+<script src="../../scripts/mouseover.js"></script>
 
 </body>
 <!-- InstanceEnd --></html>

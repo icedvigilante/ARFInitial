@@ -35,5 +35,9 @@ $(document).ready(function() {
         return false;
 
     });
+    // $('.items').ready(function(){
+    //     img.height='100%';
+    //     img.width='auto';
+    // })
 })
 
