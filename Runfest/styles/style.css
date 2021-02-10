@@ -1,25 +1,106 @@
-.sponsor{
-    max-width: 30%;
-    /*border-radius: 150%;*/
+body {
+    font-family: "Proxima Nova", Arial, Helvetica, sans-serif;
+    color: #666;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-size: 100%;
 }
 
-/*.items .sponsor:hover {*/
-/*    opacity: 0.75;*/
-/*}*/
+h1 {
+    /*font-family: "presicav", Arial, Helvetica, sans-serif;*/
+    font-size: 1.75em;
+    color: #ed1b24;
+    border-bottom: 2px solid #ed1b24;
+    line-height: 1.5em;
+    padding-top: 20px;
+}
 
-/*.items .sponsor:hover img {*/
-/*    -webkit-transform: scale(1.05, 1.05);*/
-/*    -moz-transform: scale(1.05, 1.05);*/
-/*    -o-transform: scale(1.05, 1.05);*/
-/*    -ms-transform: scale(1.05, 1.05);*/
-/*    -transform: scale(1.05, 1.05);*/
-/*}*/
+h2 {
+    /*font-family: "presicav",Arial, Helvetica, sans-serif;*/
+    font-size: 1.25em;
+    font-weight: lighter;
+    line-height: normal;
+    clear: both;
+    text-align: left;
+}
 
-/*.items .sponsor {*/
-/*    position: relative;*/
-/*    display: block;*/
-/*    overflow: hidden;*/
-/*}*/
+h3 {
+    /*font-family: "presicav",Arial, Helvetica, sans-serif;*/
+    font-size: 1em;
+    color:  #ed1b24;
+    font-weight: lighter;
+    line-height: normal;
+    clear: both;
+}
+
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown > .dropdown-toggle:active {
+    /*Without this, clicking will make it sticky*/
+    pointer-events: none;
+}
+
+.custom-menu {
+    /*display:block;*/
+    vertical-align: middle;
+    text-align:left;
+    text-decoration:none;
+    font:normal 12px Arial;
+    font-family: "Proxima Nova", Arial, Helvetica, sans-serif;
+    cursor:default;
+    padding:10px;
+    background-color:#FFF;
+    color:#adadad;
+    color:#999;
+    color:#000;
+}
+
+.register-block {
+    float: right;
+    padding: .25em 1.75em .25em .75em;
+    background-color: #000;
+    font-size: 1.5em;
+    Font-weight: bold;
+    -moz-border-radius:0px 0px 4px 4px;
+    -webkit-border-radius:0px 0px 4px 4px;
+    border-radius:0px 0px 4px 4px;
+    background-image: url(../../../../Downloads/Runfest/images/chevron-single-white.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+
+.register-block a {color: #FFF;}
+.register-block a:active,.register-block a:hover,.register-block a:focus {color: #ed1b24;}
+
+.race-date {
+    position: absolute;
+    /*top: 200px;*/
+    width: 100%;
+    font-size: .9em;
+    background-color: #4D7B20;
+    padding: .5em 0em;
+    clear: both;
+    color: #FFF;
+    font-family: "presicav",Arial, Helvetica, sans-serif;
+    text-align: center;
+    letter-spacing: 0.15em;
+}
+
+.page-image {
+    width: 100%;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.section .heading {
+    text-align: center;
+    padding-bottom: 10px;
+    width: 100%;
+}
 
 .filter a {
     color: #bdc3c7;
@@ -155,4 +236,49 @@
 
 .items {
     padding: 0;
+}
+
+.right-nav {
+    float: right;
+}
+
+/*from Kim*/
+#sidelinks {
+    /*float: right;*/
+    /*width: 200px;*/
+    padding: 10px 20px 0px 20px;
+    color: #999;
+    background-image: url(../../../../Downloads/Runfest/images/rtsidelinksbkgrnd.jpg);
+    background-repeat: no-repeat;
+    background-position: left 30px;
+    margin-bottom: 2em;
+}
+
+.pagelink {
+    font-size: .8em;/* 12px/16px/em=.75em */
+    border-bottom: 1px solid #CCC;
+    padding: 10px 0px 10px 15px;
+    background-image: url(../../../../Downloads/Runfest/images/linkarrow.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+
+.pagelinkheader {
+    color: #999;
+    padding-top: 25px;
+    line-height: 2em;
+    font-size: .8em;/* 12px/16px/em=.75em */
+    text-align: center;
+    letter-spacing: 0.15em;
+}
+
+.pagelink a {
+    color: #999;
+    text-decoration: none;
+}
+
+.pagelink a:hover {
+    color: #ed1b24;
+    text-decoration: none;
 }

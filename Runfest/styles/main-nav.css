@@ -134,7 +134,7 @@ ul#main-nav li.subfirst:hover>a,ul#main-nav li.subfirst a.pressed{  /* pertains 
 
 	ul#main-nav > label.switch,ul#main-nav .switchbox:checked ~ li {
 		display: block !important;}
-}*/
+}
 
 /* 
 @media screen and (max-width: 768px) {
