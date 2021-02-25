@@ -16,6 +16,16 @@ h1 {
     padding-top: 20px;
 }
 
+h1 a {
+    /*font-family: "presicav", Arial, Helvetica, sans-serif;*/
+    color: #ed1b24;
+}
+
+h1 a:hover {
+    text-decoration: none;
+    color: #b7040b;
+}
+
 h2 {
     /*font-family: "presicav",Arial, Helvetica, sans-serif;*/
     font-size: 1.25em;
